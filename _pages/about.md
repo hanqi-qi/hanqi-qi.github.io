@@ -36,8 +36,8 @@ My research interests lie in the intersection of Machine Learning and Natural La
 </div>
 
 <div style="width: 100%; height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-10.2024: 🔥 A first-author paper about <strong>monosemantic neuron in multi-modal model</strong> is accepted by Neurips-RBMF workshop. 🎉 Thanks Yifei and Prof.Yulan.<br>
-09.2024: Three papers (1 first-author) are accepted by EMNLP24 Main Conference. 🎉<br> 
+10.2024: 🔥 A first-author paper about <strong>monosemantic neuron in multi-modal model</strong> is accepted by Neurips-RBMF workshop.<br>
+09.2024: Three papers (1 first-author paper about <strong>monomsemantic neurons in DPO<\strong>) are accepted by EMNLP24 Main Conference. 🎉<br> 
 08.2024: I go to Bangkok, Thailand🇹🇭 for ACL24. ✈️<br> 05.2024: Two papers (1 first-author) are accepted by ACL24, one in the main conference, one in findings. <br> 
 04.2024: I pass the PhD viva with no correction🎓. <br> 
 01.2024: I become a PostDoc👩‍🏫 at King's College London, NLP Group. <br> 
