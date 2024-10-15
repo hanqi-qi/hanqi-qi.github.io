@@ -27,6 +27,12 @@ During Ph.D., I started my Causality Journey(10.2022-02.2023) in visiting Prof. 
 </div>
 
 My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** and **reliability** of different NLP models. 
+- Mechanistic interpretability (neuron-level) in language models and multi-modal models [[EMNLP24](https://arxiv.org/pdf/2406.17969),[NeuriPS24-RBMF](https://asu-apg.github.io/rbfm/)]; self-explainable models with a conceptualised layer linking the input and decision layer [EMNLP22,TKDE24]. 
+- Empirical and principled methods to enhance model robustness over various test inputs, e.g., position bias [5,10],  distribution shifts [7,11] and 
+inherited representation inefficiency in transformer-based models [2,8,9]. 
+- Understanding and enhancing LLM's reasoning capabilities via inject weak supervision [3] and apply self-refinement framework [4]. 
+
+
 - Address the intrinsic limitations in representations learnt in Transformers, I propose (i)monosemantic neurons in alignment (DPO), [DecDPO](https://arxiv.org/abs/2406.17969); (ii)discriminative features in classification, [AddTokenUni](https://proceedings.mlr.press/v180/yan22b.html), [CaliDist](https://proceedings.mlr.press/v180/yan22b.html); (iii) representation robust to position in ICL, [InfoAC](https://arxiv.org/abs/2406.17969)
 - Learn disentangled representation for: (i) conditional generation by theory-guaranteed intervention, [Matte](https://neurips.cc/virtual/2023/poster/71063) (ii) extraction of aspect and associated sentiment to build self-explainable systems, [Hint](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00459/112768/Hierarchical-Interpretation-of-Neural-Text) and [Giant](https://arxiv.org/abs/2305.05331)
 - Improve the performances of applications: (i) event extraction by introduce weak supervision, [WeakExtraction](https://arxiv.org/pdf/2406.18245), [KAG](https://aclanthology.org/2021.acl-long.261.pdf) (ii) LLM reasoning by self-reflection, [Mirror](https://aclanthology.org/2024.acl-long.382.pdf).
