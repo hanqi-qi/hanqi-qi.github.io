@@ -39,7 +39,7 @@ inherited representation inefficiency in transformer-based models [[EMNLP24](htt
 
 <div style="width: 100%; height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
 10.2024: 🔥 A first-author paper about <strong>monosemantic neuron in multi-modal model</strong> is accepted by Neurips-RBMF workshop.<br>
-09.2024: Three papers (1 first-author paper about <strong>monomsemantic neurons in DPO</strong>) are accepted by EMNLP24 Main Conference. 🎉<br> 
+09.2024: Three papers (1 first-author paper about <strong>monomsemantic neurons in DPO</strong>, 1 oral [survey](https://arxiv.org/abs/2311.00237) in ICL) are accepted by EMNLP24 Main Conference. 🎉<br> 
 08.2024: I go to Bangkok, Thailand🇹🇭 for ACL24. ✈️<br> 05.2024: Two papers (1 first-author) are accepted by ACL24, one in the main conference, one in findings. <br> 
 04.2024: I pass the PhD viva with no correction🎓. <br> 
 01.2024: I become a PostDoc👩‍🏫 at King's College London, NLP Group. <br> 
