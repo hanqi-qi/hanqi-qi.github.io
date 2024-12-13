@@ -204,14 +204,13 @@ inherited representation inefficiency in transformer-based models [[EMNLP24](htt
 <div id="honors" markdown="1"> 
 # 👩‍🏫  Professional Actitives
   - Event Organiser: Co-Chair of AACL-IJCNLP (Student Research Workshop) 2022 
-  - Reviewers:
-  （Computational linguistics)
+  - Reviewers for Computational linguistics:\\
     - AACL23'24
     - NAACL24'
     - EACL23'
     - EMNLP22'23'24'
     - ACL23'24'
-  (Machine Learning)
+  - Reviewers for Machine Learning:\\
     - UAI23'
     - AISTATS24'25'
     - NEURIPS24'
