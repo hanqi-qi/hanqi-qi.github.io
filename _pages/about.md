@@ -219,7 +219,7 @@ inherited representation inefficiency in transformer-based models [[EMNLP24](htt
     - NeuroComputing
     - ACM Transactions on Information Systems (TOIS)
     - Transactions on Machine Learning Research (TMLR)
-    - Transactions of Big Data
+    - Transactions on Big Data
 </div>
 
 <div id="invited talks" markdown="1">
