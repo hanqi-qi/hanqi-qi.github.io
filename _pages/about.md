@@ -209,16 +209,17 @@ inherited representation inefficiency in transformer-based models [[EMNLP24](htt
     - NAACL24'
     - EACL23'
     - EMNLP22'23'24'
-    - ACL23'24'
-  - Reviewers for Machine Learning:\\
+    - ACL23'24'25'
+  - Reviewers for Machine Learning/Artificial Intelligence:\\
     - UAI23'
     - AISTATS24'25'
-    - NEURIPS24'
+    - NEURIPS24'25'
     - ICLR25'
     - ICML25'
     - NeuroComputing
     - ACM Transactions on Information Systems (TOIS)
     - Transactions on Machine Learning Research (TMLR)
+    - Transactions of Big Data
 </div>
 
 <div id="invited talks" markdown="1">
