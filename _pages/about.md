@@ -31,7 +31,39 @@ My research interests lie in the intersection of Machine Learning and Natural La
 - Empirical and principled methods to enhance model robustness over various test inputs, e.g., position bias [[ACL24-findings](https://aclanthology.org/2024.findings-acl.386/),[ACL21](https://aclanthology.org/2021.acl-long.261.pdf)],  distribution shifts [[NeurIPS23](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)] and 
 inherited representation inefficiency in transformer-based models [[EMNLP24](https://arxiv.org/pdf/2406.17969),[EACL-findings](https://aclanthology.org/2023.findings-eacl.102/),[UAI22](https://proceedings.mlr.press/v180/yan22b.html)]. 
 - Understanding and enhancing LLM's reasoning capabilities via inject weak supervision [[EMNLP24](https://arxiv.org/abs/2406.18245)] and apply self-refinement framework [[ACL24](https://aclanthology.org/2024.acl-long.382/)].
-  
+
+<div id="honors" markdown="1"> 
+# 👩‍🏫  Professional Actitives
+  - Co-Chair of Asian Chapter of the Association for Computational Linguistics (Student Research Workshop) 2022 
+  - Reviewers for Computational linguistics:\\
+    - AACL23'24
+    - NAACL24'
+    - EACL23'
+    - EMNLP22'23'24'
+    - ACL23'24'25'
+  - Reviewers for Machine Learning/Artificial Intelligence:\\
+    - UAI23'
+    - AISTATS24'25'
+    - NEURIPS24'25'
+    - ICLR25'
+    - ICML25'
+    - NeuroComputing
+    - ACM Transactions on Information Systems (TOIS)
+    - Transactions on Machine Learning Research (TMLR)
+    - Transactions on Big Data
+</div>
+
+<div id="invited talks" markdown="1">
+# 💬 Invited Talks
+- <strong> Huawei, LLM research team (Singapore)</strong>. Controllable generation and Causality in LLMs.
+- <strong> Amazon, Artificial Generative Intelligence team (London& Cambridge)</strong>. Robust and Interpretable NLP via Representation Learning and applications in LLMs.
+- <strong> Fudan University, NLP Group</strong>, 07/2024. Representation Learning and Mechanistic Interpretability
+- <strong> UC San Diego, NLP Group</strong>, 02/2024. Robust and Interpretable NLP via representation learning and Path Ahead
+- <strong> Yale University, NLP Group</strong> 01/2024. Robust and Interpretable NLP via representation learning and Path Ahead
+- <strong> Turing AI Fellowship Event</strong>, London, 03/2023, Distinguishability Calibration to In-Context Learning 
+- <strong> UKRI Fellows Workshop</strong>, University of Edinburgh, 04/2022. Interpreting Long Documents and Recommendation Systems via Latent Variable Models
+</div>
+
 
 <div id="news" markdown="1"> 
 # 🔥 News
@@ -62,6 +94,17 @@ inherited representation inefficiency in transformer-based models [[EMNLP24](htt
 
 
 🚀 I am always open to new collaborations and engaging discussions. Feel free to reach out if you are interested in working together or just want to chat!
+
+<div id="mentee" markdown="1">
+# 💬 Mentee (co-supervise)
+- <strong> PhD students </strong>.\\
+  - 2*scientific literature understanding.
+  - 2* explaianble AI (lanaguage and multimodal model).
+  - 3* robust reasoning.
+- <strong> Master students </strong>. \\
+  - 1*rank efficiency in transformer representation.
+  - 5*explainable AI (cognition perspective).
+</div>
 
 <!--
 <a href='[https://scholar.google.com/citations?user=YmWi1lgAAAAJ](https://scholar.google.com/citations?user=YmWi1lgAAAAJ)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -197,38 +240,6 @@ inherited representation inefficiency in transformer-based models [[EMNLP24](htt
   **ACL21, Oral** |  [Paper](https://aclanthology.org/2021.acl-long.261.pdf)<br>
   <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Causality</span> <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span> 
   </div>
-</div>
-
-
-
-<div id="honors" markdown="1"> 
-# 👩‍🏫  Professional Actitives
-  - Event Organiser: Co-Chair of AACL-IJCNLP (Student Research Workshop) 2022 
-  - Reviewers for Computational linguistics:\\
-    - AACL23'24
-    - NAACL24'
-    - EACL23'
-    - EMNLP22'23'24'
-    - ACL23'24'25'
-  - Reviewers for Machine Learning/Artificial Intelligence:\\
-    - UAI23'
-    - AISTATS24'25'
-    - NEURIPS24'25'
-    - ICLR25'
-    - ICML25'
-    - NeuroComputing
-    - ACM Transactions on Information Systems (TOIS)
-    - Transactions on Machine Learning Research (TMLR)
-    - Transactions on Big Data
-</div>
-
-<div id="invited talks" markdown="1">
-# 💬 Invited Talks
-- <strong>Fudan University, NLP Group</strong>, 07/2024. Representation Learning and Mechanistic Interpretability
-- <strong>UC San Diego, NLP Group</strong>, 02/2024. Robust and Interpretable NLP via representation learning and Path Ahead
-- <strong>Yale University, NLP Group</strong> 01/2024. Robust and Interpretable NLP via representation learning and Path Ahead
-- <strong>Turing AI Fellowship Event</strong>, London, 03/2023, Distinguishability Calibration to In-Context Learning 
-- <strong>UKRI Fellows Workshop</strong>, University of Edinburgh, 04/2022. Interpreting Long Documents and Recommendation Systems via Latent Variable Models
 </div>
 
 <div id="Blogs" markdown="1">
