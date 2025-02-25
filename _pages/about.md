@@ -32,6 +32,9 @@ My research interests lie in the intersection of Machine Learning and Natural La
 inherited representation inefficiency in transformer-based models [[EMNLP24](https://arxiv.org/pdf/2406.17969),[EACL-findings](https://aclanthology.org/2023.findings-eacl.102/),[UAI22](https://proceedings.mlr.press/v180/yan22b.html)]. 
 - Understanding and enhancing LLM's reasoning capabilities via inject weak supervision [[EMNLP24](https://arxiv.org/abs/2406.18245)] and apply self-refinement framework [[ACL24](https://aclanthology.org/2024.acl-long.382/)].
 
+I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including  [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT](https://yifeiwang77.com/), [Peking University](https://jingjingxu.com/), [MBZUAI](https://chengy12.github.io/)), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en), [University College London](https://yanglinyi.github.io/),[University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support.
+
+
 <div id="honors" markdown="1"> 
 # 👩‍🏫  Professional Actitives
   - Co-Chair of Asian Chapter of the Association for Computational Linguistics (Student Research Workshop) 2022 
