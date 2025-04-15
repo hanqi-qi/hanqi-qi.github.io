@@ -30,7 +30,9 @@ My research interests lie in the intersection of Machine Learning and Natural La
 - Mechanistic interpretability (neuron-level) in language models and multi-modal models [[EMNLP24](https://arxiv.org/pdf/2406.17969),[NeurIPS24-RBMF](https://asu-apg.github.io/rbfm/)]; self-explainable models with a conceptualised layer linking the input and decision layer [[CL22](https://aclanthology.org/2022.cl-4.17/),[TKDE24](https://arxiv.org/abs/2305.05331)]. 
 - Empirical and principled methods to enhance model robustness over various test inputs, e.g., position bias [[ACL24-findings](https://aclanthology.org/2024.findings-acl.386/),[ACL21-oral](https://aclanthology.org/2021.acl-long.261.pdf)],  distribution shifts [[NeurIPS23](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)] and 
 representation inefficiency in transformer-based models [[EMNLP24](https://arxiv.org/pdf/2406.17969),[EACL-findings](https://aclanthology.org/2023.findings-eacl.102/),[UAI22-spotlight](https://proceedings.mlr.press/v180/yan22b.html)]. 
-- Understanding and enhancing LM's reasoning capabilities via injecting external commonsense knowledge[[ACL21-oral](https://arxiv.org/abs/2106.03518)], weak supervision [[EMNLP24](https://arxiv.org/abs/2406.18245)] and apply self-refinement mechanism [[ACL24](https://aclanthology.org/2024.acl-long.382/)].
+- Understanding and enhancing LM's reasoning capabilities via injecting external commonsense knowledge[[ACL21-oral](https://arxiv.org/abs/2106.03518)], weak supervision [[EMNLP24](https://arxiv.org/abs/2406.18245)], appling self-refinement mechanism for factual knowledge reasoning [[ACL24](https://aclanthology.org/2024.acl-long.382/)]. More recently focus in the two directions:
+  - Science Literture Understanding, such as 🔥an agent-based framework for scientific paper replication on our own [SciReplicate-Bench](https://arxiv.org/abs/2504.00255) and novelty assessment.
+  - Reasoning in latent space, such as [CODI](https://arxiv.org/abs/2502.21074), [EmbQA](https://arxiv.org/abs/2503.01606) and [Embsearch](https://openreview.net/pdf?id=Pp90xRxITT)
 
 I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including  [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT](https://yifeiwang77.com/), [Peking University](https://jingjingxu.com/), [MBZUAI](https://chengy12.github.io/), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en), [University College London](https://yanglinyi.github.io/),[University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support.
 
@@ -247,16 +249,18 @@ I’ve been incredibly lucky to have a number of amazing collaborators and mento
 
 <div id="Blogs" markdown="1">
 # 📝 (Memo)
+<a href="https://docs.google.com/document/d/1P7ngYVELCz-wxz7u34KCVw67fGQlsUlx6fo2RfWAJmQ/edit?usp=sharing"> o1-technical report (notes for [video](https://www.bilibili.com/video/BV15Rx5eXEnW) from The PKU pair-lab </a> <br>
 <a href="https://docs.google.com/presentation/d/1choVI6HIOLpdAywFpWGFR8KMyex7-AhEhEzP_vTsF0Y/edit?usp=sharing"> Machine Unlearning via CausalLens and in NLP tasks</a> <br>
 <a href="https://github.com/hanqi-qi/Large_language_modeling/blob/main/Reading_Material.md">Reading List For Large Language Model</a>
                 <br>
-                <a href="https://zhuanlan.zhihu.com/p/652269984">Induction Head_ contribute to In-context Learning</a>
+<a href="https://zhuanlan.zhihu.com/p/665841340">Identifiability101 in Causality (3rd PhD) </a> <br>
+  
+<a href="https://zhuanlan.zhihu.com/p/652269984">Induction Head_ contribute to In-context Learning (3rd PhD) </a>
                 <br>
-                <a href="https://github.com/hanqi-qi/NLPReadingGroup/blob/main/CausalInference/CausalInference_Intro_hanqi.pdf">Causality101</a>
-                <br>
-                <a href="https://github.com/hanqi-qi/NLPReadingGroup/blob/main/CausalInference/CausalInference_RS_hanqi.pdf">Debised Recommendation with Causality</a>
-                <br>
-                <a href="https://zhuanlan.zhihu.com/p/665841340">Identifiability101 in Causality</a>
+
+<a href="https://github.com/hanqi-qi/NLPReadingGroup/blob/main/CausalInference/CausalInference_RS_hanqi.pdf">Recommendation with Causality (2nd PhD) </a><br>   
+<a href="https://drive.google.com/file/d/1WbJzgHoN0WOF9Ul4cA5BrG9jDtT0DG1B/view">Causality101 (Feb 2022, 2nd PhD) </a> <br>
+<a href="https://drive.google.com/file/d/1uTS3FcM2ouBbusyKwmpi0YMKm2qOOmqi/view"> Explaining Neural Networks (Oct 2020 1st PhD) </a><br>
 </div>
 
 <!-- JavaScript for Filtering -->
