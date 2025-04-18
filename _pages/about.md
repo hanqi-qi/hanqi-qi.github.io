@@ -254,7 +254,7 @@ I’ve been incredibly lucky to have a number of amazing collaborators and mento
 <a href="https://github.com/hanqi-qi/Large_language_modeling/blob/main/Reading_Material.md">Reading List For Large Language Model</a><br>
 <a href="https://zhuanlan.zhihu.com/p/665841340">Identifiability101 in Causality (3rd PhD) </a> <br>
 <a href="https://zhuanlan.zhihu.com/p/652269984">Induction Head_ contribute to In-context Learning (3rd PhD) </a><br>
-<a href="https://github.com/hanqi-qi/NLPReadingGroup/blob/main/CausalInference/CausalInference_RS_hanqi.pdf">Recommendation with Causality (2nd PhD) </a><br>   
+<a href="https://github.com/hanqi-qi/NLPReadingGroup/blob/main/CausalInference/CausalInference_RS_hanqi.pdf">Recommendation with Causality (2nd PhD) </a><br>
 <a href="https://drive.google.com/file/d/1WbJzgHoN0WOF9Ul4cA5BrG9jDtT0DG1B/view">Causality101 (Feb 2022, 2nd PhD) </a> <br>
 <a href="https://drive.google.com/file/d/1uTS3FcM2ouBbusyKwmpi0YMKm2qOOmqi/view"> Explaining Neural Networks (Oct 2020 1st PhD) </a><br>
 </div>
