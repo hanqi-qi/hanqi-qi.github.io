@@ -147,7 +147,7 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
   **H. Yan**, L. Zhang, J. Li, Z. S, Y. He\\
   **ICML25, Position Track** | [Paper](https://kclpure.kcl.ac.uk/portal/en/publications/position-llms-need-a-bayesian-meta-reasoning-framework-for-more-r)
   <br>
-  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
+  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Application</span> 
   <br>
   </div>
 
@@ -158,7 +158,7 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
   Q. Zhu, R. Zhao. H. Yan, Y. He, Y. Chen, L. Gui\\
   **ICML25, Spotlight** | [Paper](https://openreview.net/pdf?id=Pp90xRxITT)
   <br>
-  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
+<span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
   <br>
   </div>
 
