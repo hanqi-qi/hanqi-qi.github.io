@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<span class='anchor' id='bio'></span>
+<span class='anchor' id='about-me'></span>
 
 ✨ Hi everyone! I'm a PostDoc (01.2024-) at [King's college London](https://kcl.ac.uk/), NLP Group, School of Informatics. I passed my PhD viva with no corrections after a great time in University of Warwick (10.2020-04.2024), advised by [Prof. Yulan He](https://sites.google.com/view/yulanhe) and Dr. Lin Gui. I finished my M.S. at Peking University(09.2017-07.2020) and my B.E. at Beihang University(09.2013-06.2017).
                 
@@ -66,8 +66,7 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 </div>
 
 
-<div id="honors" markdown="1"> 
-# 👩‍🏫  Professional Services
+# 👩‍🏫  professional-service
   - Co-Chair of Asian Chapter of the Association for Computational Linguistics (Student Research Workshop) 2022 
   - Reviewers for Computational linguistics:\\
     - AACL23'24
@@ -85,9 +84,8 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
     - ACM Transactions on Information Systems (TOIS)
     - Transactions on Machine Learning Research (TMLR)
     - Transactions on Big Data
-</div>
 
-<div id="invited talks" markdown="1">
+
 # 💬 Invited Talks
 - <strong> Huawei, LLM research team (Singapore)</strong>. Controllable generation and Causality in LLMs.
 - <strong> Amazon, Artificial Generative Intelligence team (London& Cambridge)</strong>. Robust and Interpretable NLP via Representation Learning and applications in LLMs.
@@ -96,7 +94,6 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 - <strong> Yale University, NLP Group</strong> 01/2024. Robust and Interpretable NLP via representation learning and Path Ahead
 - <strong> Turing AI Fellowship Event</strong>, London, 03/2023, Distinguishability Calibration to In-Context Learning 
 - <strong> UKRI Fellows Workshop</strong>, University of Edinburgh, 04/2022. Interpreting Long Documents and Recommendation Systems via Latent Variable Models
-</div>
 
 
 
@@ -283,7 +280,7 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
   </div>
 </div>
 
-<div id="Blogs" markdown="1">
+
 # 📝 Memo
 <a href="https://docs.google.com/document/d/1P7ngYVELCz-wxz7u34KCVw67fGQlsUlx6fo2RfWAJmQ/edit?usp=sharing"> o1-technical report (notes for [video](https://www.bilibili.com/video/BV15Rx5eXEnW)) </a> <br>
 <a href="https://docs.google.com/presentation/d/1choVI6HIOLpdAywFpWGFR8KMyex7-AhEhEzP_vTsF0Y/edit?usp=sharing"> Machine Unlearning via CausalLens and in NLP tasks</a> <br>
@@ -293,7 +290,6 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 <a href="https://github.com/hanqi-qi/NLPReadingGroup/blob/main/CausalInference/CausalInference_RS_hanqi.pdf">Recommendation with Causality (2nd PhD) </a><br>
 <a href="https://drive.google.com/file/d/1WbJzgHoN0WOF9Ul4cA5BrG9jDtT0DG1B/view">Causality101 (Feb 2022, 2nd PhD) </a> <br>
 <a href="https://drive.google.com/file/d/1uTS3FcM2ouBbusyKwmpi0YMKm2qOOmqi/view"> Explaining Neural Networks (Oct 2020 1st PhD) </a><br>
-</div>
 
 <!-- JavaScript for Filtering -->
 <script>
