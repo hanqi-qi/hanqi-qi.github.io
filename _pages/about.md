@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='bio'></span>
 
 ✨ Hi everyone! I'm a PostDoc (01.2024-) at [King's college London](https://kcl.ac.uk/), NLP Group, School of Informatics. I passed my PhD viva with no corrections after a great time in University of Warwick (10.2020-04.2024), advised by [Prof. Yulan He](https://sites.google.com/view/yulanhe) and Dr. Lin Gui. I finished my M.S. at Peking University(09.2017-07.2020) and my B.E. at Beihang University(09.2013-06.2017).
                 
@@ -66,10 +66,8 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 </div>
 
 
-
-
 <div id="honors" markdown="1"> 
-# 👩‍🏫  Professional Actitives
+# 👩‍🏫  Professional Services
   - Co-Chair of Asian Chapter of the Association for Computational Linguistics (Student Research Workshop) 2022 
   - Reviewers for Computational linguistics:\\
     - AACL23'24
@@ -102,12 +100,10 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 
 
 
-
-
 🚀 I am always open to new collaborations and engaging discussions. Feel free to reach out if you are interested in working together or just want to chat!
 
 <div id="mentee" markdown="1">
-# 💬 Mentee (co-supervise)
+# 💬 Mentee
 - <strong> PhD students </strong>.\\
   - 2*scientific literature understanding.
   - 2* explaianble AI (lanaguage and multimodal model).
@@ -288,7 +284,7 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 </div>
 
 <div id="Blogs" markdown="1">
-# 📝 (Memo)
+# 📝 Memo
 <a href="https://docs.google.com/document/d/1P7ngYVELCz-wxz7u34KCVw67fGQlsUlx6fo2RfWAJmQ/edit?usp=sharing"> o1-technical report (notes for [video](https://www.bilibili.com/video/BV15Rx5eXEnW)) </a> <br>
 <a href="https://docs.google.com/presentation/d/1choVI6HIOLpdAywFpWGFR8KMyex7-AhEhEzP_vTsF0Y/edit?usp=sharing"> Machine Unlearning via CausalLens and in NLP tasks</a> <br>
 <a href="https://github.com/hanqi-qi/Large_language_modeling/blob/main/Reading_Material.md">Reading List For Large Language Model</a><br>
