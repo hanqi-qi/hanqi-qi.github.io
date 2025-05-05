@@ -22,6 +22,10 @@ redirect_from:
                 
 During Ph.D., I started my Causality Journey(10.2022-02.2023) in visiting Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) affiliated with Causal Learning and Reasoning Group@CMU. Before Ph.D., I started my NLP journey(07.2019-10.2019) in visiting Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/) affiliated NLP Group @PolyU Hong Kong.
 
+
+I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including  [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT](https://yifeiwang77.com/), [Peking University](https://jingjingxu.com/), [MBZUAI](https://chengy12.github.io/), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en), [University College London](https://yanglinyi.github.io/),[University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support.
+
+
 <div id="research-summary" markdown="1"> 
 # 🔍 Research Summary
 </div>
@@ -32,9 +36,37 @@ My research interests lie in the intersection of Machine Learning and Natural La
 representation inefficiency in transformer-based models [[EMNLP24](https://arxiv.org/pdf/2406.17969),[EACL-findings](https://aclanthology.org/2023.findings-eacl.102/),[UAI22-spotlight](https://proceedings.mlr.press/v180/yan22b.html)]. 
 - Understanding and enhancing LM's reasoning capabilities via injecting external commonsense knowledge[[ACL21-oral](https://arxiv.org/abs/2106.03518)], weak supervision [[EMNLP24](https://arxiv.org/abs/2406.18245)], appling self-refinement mechanism for factual knowledge reasoning [[ACL24](https://aclanthology.org/2024.acl-long.382/)]. More recently focus in the two directions:
   - 🔥 Science literture understanding, such as code generation for scientific paper replication on our own [SciReplicate-Bench](https://arxiv.org/abs/2504.00255) and novelty assessment.
-  - 🔥 Reasoning in latent space, such as [CODI](https://arxiv.org/abs/2502.21074), [EmbQA](https://arxiv.org/abs/2503.01606) and [Embsearch](https://openreview.net/pdf?id=Pp90xRxITT)
+  - 🔥 Reasoning in latent space, such as a position paper about [meta-reasoning](https://kclpure.kcl.ac.uk/portal/en/publications/position-llms-need-a-bayesian-meta-reasoning-framework-for-more-r), [CODI](https://arxiv.org/abs/2502.21074) in implicit CoT, [EmbQA](https://arxiv.org/abs/2503.01606) in retrieved-based QA, [Embsearch](https://openreview.net/pdf?id=Pp90xRxITT) -- navigating search in latent space and [FPO](https://arxiv.org/abs/2411.07618) with sparse feature for preference optimisation.
 
-I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including  [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT](https://yifeiwang77.com/), [Peking University](https://jingjingxu.com/), [MBZUAI](https://chengy12.github.io/), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en), [University College London](https://yanglinyi.github.io/),[University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support.
+<div id="news" markdown="1"> 
+# 🔥 News
+</div>
+
+<div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+05.2025: 🔥 Three papers accepted by ICML25, including a first-author [paper](https://kclpure.kcl.ac.uk/portal/en/publications/position-llms-need-a-bayesian-meta-reasoning-framework-for-more-r) about meta-reasoning in Position paper track. <br>
+11.2024: I go to Miami☀️🌊🍹🏝, US for EMNLP24 to present our accepted papers and connect with like-minded researchers👩‍💻👨‍💻.<br>
+10.2024: 🔥 A first-author paper about <strong>monosemantic neuron in multi-modal model</strong> is accepted by Neurips-RBMF workshop.<br>
+09.2024: Three papers (<strong>monomsemantic neurons</strong>, <strong>oral survey in ICL</strong>, <strong>weak2strong event extraction</strong>) are accepted by EMNLP24 Main Conference. 🎉<br> 
+08.2024: I go to Bangkok, Thailand🇹🇭 for ACL24. ✈️<br> 05.2024: Two papers (1 first-author) are accepted by ACL24, one in the main conference, one in findings. <br> 
+04.2024: I pass the PhD viva with no correction🎓. <br> 
+01.2024: I become a PostDoc👩‍🏫 at King's College London, NLP Group. <br> 
+01.2024: I finish my PhD thesis (draft) on the same day of my birthday.<br> 
+01.2024: My first-author paper is finally accepted by TKDE.<br> 
+12.2023: I go to New Orleans🎷, US to present our Neurips paper. <br>
+07.2023: I go to Hawaii🌴, US to present our ICML-workshop paper. <br> 
+07.2023: My first-author paper is accepted by Neurips (my Neurips paper).<br> 
+02.2023: I go back to the UK from Abu Dhabi, UAE🇦🇪, finish my Machine Learning trip in MBZUAI. <br> 
+02.2023: I attend the EMNLP23 held in Abu Dhabi, to present our Computational Linguistics paper. <br> 
+01.2023: One paper is accepted by EACL23🇭🇷-findings (first time as a mentor for a master's student). <br> 
+12.2022: Lionel Messi leads Argentina to win the ⚽️World Cup championship. <br> 
+10.2022: I start to be a funded visiting student in Machine Learning, Department at MBZUAI🏫, Abu Dhabi, UAE, advised by Prof. Kun Zhang. <br>
+08.2022: I go to Eindhoven, Netherlands🇳🇱 to present our UAI paper. <br> 
+05.2022: My first-author paper is accepted by UAI23 (🥳my first ML paper) <br> 
+05.2021: The first time! My first-author paper is accepted by ACL21 🌟Oral A super encouragement in my early PhD career. <br> 
+10.2020: I start my PhD📚 journey at University of Warwick, UK🇬🇧. <br>
+</div>
+
+
 
 
 <div id="honors" markdown="1"> 
@@ -70,32 +102,7 @@ I’ve been incredibly lucky to have a number of amazing collaborators and mento
 </div>
 
 
-<div id="news" markdown="1"> 
-# 🔥 News
-</div>
 
-<div style="width: 100%; height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-11.2024: I go to Miami☀️🌊🍹🏝, US for EMNLP24 to present our accepted papers and connect with like-minded researchers👩‍💻👨‍💻.<br>
-10.2024: 🔥 A first-author paper about <strong>monosemantic neuron in multi-modal model</strong> is accepted by Neurips-RBMF workshop.<br>
-09.2024: Three papers (<strong>monomsemantic neurons</strong>, <strong>oral survey in ICL</strong>, <strong>weak2strong event extraction</strong>) are accepted by EMNLP24 Main Conference. 🎉<br> 
-08.2024: I go to Bangkok, Thailand🇹🇭 for ACL24. ✈️<br> 05.2024: Two papers (1 first-author) are accepted by ACL24, one in the main conference, one in findings. <br> 
-04.2024: I pass the PhD viva with no correction🎓. <br> 
-01.2024: I become a PostDoc👩‍🏫 at King's College London, NLP Group. <br> 
-01.2024: I finish my PhD thesis (draft) on the same day of my birthday.<br> 
-01.2024: My first-author paper is finally accepted by TKDE.<br> 
-12.2023: I go to New Orleans🎷, US to present our Neurips paper. <br>
-07.2023: I go to Hawaii🌴, US to present our ICML-workshop paper. <br> 
-07.2023: My first-author paper is accepted by Neurips (my Neurips paper).<br> 
-02.2023: I go back to the UK from Abu Dhabi, UAE🇦🇪, finish my Machine Learning trip in MBZUAI. <br> 
-02.2023: I attend the EMNLP23 held in Abu Dhabi, to present our Computational Linguistics paper. <br> 
-01.2023: One paper is accepted by EACL23🇭🇷-findings (first time as a mentor for a master's student). <br> 
-12.2022: Lionel Messi leads Argentina to win the ⚽️World Cup championship. <br> 
-10.2022: I start to be a funded visiting student in Machine Learning, Department at MBZUAI🏫, Abu Dhabi, UAE, advised by Prof. Kun Zhang. <br>
-08.2022: I go to Eindhoven, Netherlands🇳🇱 to present our UAI paper. <br> 
-05.2022: My first-author paper is accepted by UAI23 (🥳my first ML paper) <br> 
-05.2021: The first time! My first-author paper is accepted by ACL21 🌟Oral A super encouragement in my early PhD career. <br> 
-10.2020: I start my PhD📚 journey at University of Warwick, UK🇬🇧. <br>
-</div>
 
 
 🚀 I am always open to new collaborations and engaging discussions. Feel free to reach out if you are interested in working together or just want to chat!
@@ -140,6 +147,41 @@ I’ve been incredibly lucky to have a number of amazing collaborators and mento
 </div>
 
 <div class="publication-list">
+    <div class="paper-box-text application" markdown="1">
+  <b style="color:#783F04;">Position: LLMs Need a Bayesian Meta-Reasoning Framework for More Robust and Generalizable Reasoning
+  </b>
+  \\
+  **H. Yan**, L. Zhang, J. Li, Z. S, Y. He\\
+  **ICML25, Position Track** | [Paper](https://kclpure.kcl.ac.uk/portal/en/publications/position-llms-need-a-bayesian-meta-reasoning-framework-for-more-r)
+  <br>
+  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
+  <br>
+  </div>
+
+  <div class="paper-box-text representation" markdown="1">
+  <b style="color:#783F04;">Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration
+  </b>
+  \\
+  Q. Zhu, R. Zhao. H. Yan, Y. He, Y. Chen, L. Gui\\
+  **ICML25, Spotlight** | [Paper](https://openreview.net/pdf?id=Pp90xRxITT)
+  <br>
+  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
+  <br>
+  </div>
+
+    <div class="paper-box-text representation" markdown="1">
+  <b style="color:#783F04;">Direct preference optimization using sparse feature-level constraints
+  </b>
+  \\
+  Q. Yin, C. Leong, H. Zhang, M. Zhu, **H. Yan**, Q. Zhang, Y. He, W. Li, J. Wang, Y. Zhang, L. Yang\\
+  **ICML25** | [Paper](https://arxiv.org/abs/2411.07618)
+  <br>
+  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
+  <br>
+  </div>
+  
+
+  
   <div class="paper-box-text interpretability representation application" markdown="1">
   <b style="color:#783F04;">Encourage or Inhibit Monosemanticity? Revisit Monosemanticity from a Feature Decorrelation Perspective
   </b>
