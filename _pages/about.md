@@ -43,7 +43,7 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 </div>
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-05.2025: 🔥 Three papers accepted by ICML25, including a first-author [paper](https://kclpure.kcl.ac.uk/portal/en/publications/position-llms-need-a-bayesian-meta-reasoning-framework-for-more-r) about meta-reasoning in Position paper track. <br>
+05.2025: 🔥 Three papers accepted by ICML25, including a first-author paper about meta-reasoning in Position paper track. <br>
 11.2024: I go to Miami☀️🌊🍹🏝, US for EMNLP24 to present our accepted papers and connect with like-minded researchers👩‍💻👨‍💻.<br>
 10.2024: 🔥 A first-author paper about <strong>monosemantic neuron in multi-modal model</strong> is accepted by Neurips-RBMF workshop.<br>
 09.2024: Three papers (<strong>monomsemantic neurons</strong>, <strong>oral survey in ICL</strong>, <strong>weak2strong event extraction</strong>) are accepted by EMNLP24 Main Conference. 🎉<br> 
