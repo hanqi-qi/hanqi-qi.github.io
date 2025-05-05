@@ -66,7 +66,7 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 </div>
 
 
-# 👩‍🏫  professional-service
+# 👩‍🏫  Professional Service
   - Co-Chair of Asian Chapter of the Association for Computational Linguistics (Student Research Workshop) 2022 
   - Reviewers for Computational linguistics:\\
     - AACL23'24
@@ -210,7 +210,7 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
   \\
    <strong>H. Yan</strong>, Q. Zhu, X. Wang, L. Gui, Y. He\\
   **ACL24, main** |  [Paper](https://arxiv.org/abs/2311.00237) <br>
-  <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span>  
+  <span style="background-color: #d4d4f0; color: #000; paddinsg: 2px 6px; border-radius: 4px;">application</span>  
   <br>
   </div>
 
