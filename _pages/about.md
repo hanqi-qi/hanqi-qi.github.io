@@ -66,7 +66,8 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 </div>
 
 
-# 👩‍🏫  Professional Service
+# 👩‍🏫 Professional Service
+
   - Co-Chair of Asian Chapter of the Association for Computational Linguistics (Student Research Workshop) 2022 
   - Reviewers for Computational linguistics:\\
     - AACL23'24
@@ -87,6 +88,7 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 
 
 # 💬 Invited Talks
+
 - <strong> Huawei, LLM research team (Singapore)</strong>. Controllable generation and Causality in LLMs.
 - <strong> Amazon, Artificial Generative Intelligence team (London& Cambridge)</strong>. Robust and Interpretable NLP via Representation Learning and applications in LLMs.
 - <strong> Fudan University, NLP Group</strong>, 07/2024. Representation Learning and Mechanistic Interpretability
