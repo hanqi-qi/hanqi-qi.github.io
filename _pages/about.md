@@ -26,9 +26,8 @@ During Ph.D., I started my Causality Journey(10.2022-02.2023) in visiting Prof. 
 I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including  [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT](https://yifeiwang77.com/), [Peking University](https://jingjingxu.com/), [MBZUAI](https://chengy12.github.io/), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en), [University College London](https://yanglinyi.github.io/),[University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support.
 
 
-<div id="research-summary" markdown="1"> 
+
 # 🔍 Research Summary
-</div>
 
 My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** and **reliability** of different NLP models. 
 - Mechanistic interpretability (neuron-level) in language models and multi-modal models [[EMNLP24](https://arxiv.org/pdf/2406.17969),[NeurIPS24-RBMF](https://asu-apg.github.io/rbfm/)]; self-explainable models with a conceptualised layer linking the input and decision layer [[CL22](https://aclanthology.org/2022.cl-4.17/),[TKDE24](https://arxiv.org/abs/2305.05331)]. 
@@ -38,9 +37,9 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
   - 🔥 Science literture understanding, such as code generation for scientific paper replication on our own [SciReplicate-Bench](https://arxiv.org/abs/2504.00255) and novelty assessment.
   - 🔥 Reasoning in latent space, such as a position paper about [meta-reasoning](https://kclpure.kcl.ac.uk/portal/en/publications/position-llms-need-a-bayesian-meta-reasoning-framework-for-more-r), [CODI](https://arxiv.org/abs/2502.21074) in implicit CoT, [EmbQA](https://arxiv.org/abs/2503.01606) in retrieved-based QA, [Embsearch](https://openreview.net/pdf?id=Pp90xRxITT) -- navigating search in latent space and [FPO](https://arxiv.org/abs/2411.07618) with sparse feature for preference optimisation.
 
-<div id="news" markdown="1"> 
+
 # 🔥 News
-</div>
+
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
 05.2025: 🔥 Three papers accepted by ICML25, including a first-author paper about meta-reasoning in Position paper track. <br>
@@ -131,9 +130,8 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 - *2013.09 - 2017.06*, Bachelor, Beihang University.
 -->
 
-<div id="publications" markdown="1"> 
-# 📝 Selected Publications
-</div>
+
+# 📝 Publications 
 
 (* indicates equal contribution)
 
