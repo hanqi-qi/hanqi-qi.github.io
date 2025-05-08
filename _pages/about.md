@@ -70,22 +70,9 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 
   - Co-Chair of Asian Chapter of the Association for Computational Linguistics (Student Research Workshop) 2022 
   - Reviewers for Computational linguistics:\\
-    - AACL23'24
-    - NAACL24'
-    - EACL23'
-    - EMNLP22'23'24'
-    - ACL23'24'25'
+    - AACL23'24, NAACL24', EACL23', EMNLP22'23'24', ACL23'24'25'
   - Reviewers for Machine Learning/Artificial Intelligence:\\
-    - UAI23'
-    - AISTATS24'25'
-    - NEURIPS24'25'
-    - ICLR25'
-    - ICML25'
-    - NeuroComputing
-    - ACM Transactions on Information Systems (TOIS)
-    - Transactions on Machine Learning Research (TMLR)
-    - Transactions on Big Data
-
+    - UAI23', AISTATS24'25',NEURIPS24'25', ICLR25', ICML25', NeuroComputing, TOIS, TMLR, Transactions on Big Data
 
 # 💬 Invited Talks
 
