@@ -68,16 +68,18 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 
 # 👩‍🏫 Professional Service
 
-  - Co-Chair of Asian Chapter of the Association for Computational Linguistics (Student Research Workshop) 2022 
+  - Co-Chair of the Asian Chapter of the Association for Computational Linguistics (Student Research Workshop) 2022
+  - Area Chair: ACL25 \\
   - Reviewers for Computational linguistics:\\
-    - AACL23'24, NAACL24', EACL23', EMNLP22'23'24', ACL23'24'25'
+    - AACL, NAACL, EACL, EMNLP', ACL
   - Reviewers for Machine Learning/Artificial Intelligence:\\
-    - UAI23', AISTATS24'25',NEURIPS24'25', ICLR25', ICML25', NeuroComputing, TOIS, TMLR, Transactions on Big Data
+    - UAI23', AISTATS, NEURIPS, ICLR, ICML,
+    - NeuroComputing, TOIS, TMLR, Transactions on Big Data, Transactions on Artificial Intelligence.
 
 # 💬 Invited Talks
 
 - <strong> Huawei, LLM research team (Singapore)</strong>. Controllable generation and Causality in LLMs.
-- <strong> Amazon, Artificial Generative Intelligence team (London& Cambridge)</strong>. Robust and Interpretable NLP via Representation Learning and applications in LLMs.
+- <strong> Amazon, Artificial Generative Intelligence team (London& Cambridge)</strong>. Robust and Interpretable NLP via Representation Learning and Applications in LLMs.
 - <strong> Fudan University, NLP Group</strong>, 07/2024. Representation Learning and Mechanistic Interpretability
 - <strong> UC San Diego, NLP Group</strong>, 02/2024. Robust and Interpretable NLP via representation learning and Path Ahead
 - <strong> Yale University, NLP Group</strong> 01/2024. Robust and Interpretable NLP via representation learning and Path Ahead
@@ -92,7 +94,7 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 # 💬 Mentee
 - <strong> PhD students </strong>.\\
   - 2*scientific literature understanding.
-  - 2* explaianble AI (lanaguage and multimodal model).
+  - 2* explainable AI (language and multimodal model).
   - 3* robust reasoning.
 - <strong> Master students </strong>. \\
   - 1*rank efficiency in transformer representation.
