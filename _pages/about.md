@@ -42,7 +42,7 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-05.2025: 🔥 Three papers accepted by ICML25, including a first-author paper about meta-reasoning in Position paper track. <br>
+05.2025: 🔥 Three papers accepted by ICML25, including a first-author paper about meta-reasoning in the Position paper track. <br>
 11.2024: I go to Miami☀️🌊🍹🏝, US for EMNLP24 to present our accepted papers and connect with like-minded researchers👩‍💻👨‍💻.<br>
 10.2024: 🔥 A first-author paper about <strong>monosemantic neuron in multi-modal model</strong> is accepted by Neurips-RBMF workshop.<br>
 09.2024: Three papers (<strong>monomsemantic neurons</strong>, <strong>oral survey in ICL</strong>, <strong>weak2strong event extraction</strong>) are accepted by EMNLP24 Main Conference. 🎉<br> 
@@ -71,13 +71,18 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
   - Co-Chair of the Asian Chapter of the Association for Computational Linguistics (Student Research Workshop) 2022
   - Area Chair: ACL25, EMNLP25 
   - Reviewers for Computational Linguistics:
-    - AACL, NAACL, EACL, EMNLP', ACL
+    - AACL, NAACL, EACL, EMNLP, ACL
   - Reviewers for Machine Learning/Artificial Intelligence:
-    - UAI23', AISTATS, NEURIPS, ICLR, ICML
+    - UAI, AISTATS, NEURIPS, ICLR, ICML
     - NeuroComputing, TOIS, TMLR, Transactions on Big Data, Transactions on Artificial Intelligence.
 
 # 💬 Invited Talks
 
+- <strong> University of Southampton, Computer Science </strong>, 04/2025. LLM Reasoning with internal and controllable signals 
+- <strong> University of Surrey, Computer Science </strong>, 04/2025. Controllable generation framework for LLM reasoning
+- <strong> University of Bath, Computer Science </strong>, 04/2025. Disentanglement for interpretability and controllability
+- <strong> University of Birmingham, Computer Science </strong>, 12/2024. Understanding and improving LLM reasoning via representation learning
+- <strong> University of Sheffied, NLP Group</strong>, 12/2024. Robust and Interpretable NLP via representation learning and Path Ahead
 - <strong> Huawei, LLM research team (Singapore)</strong>. Controllable generation and Causality in LLMs.
 - <strong> Amazon, Artificial Generative Intelligence team (London& Cambridge)</strong>. Robust and Interpretable NLP via Representation Learning and Applications in LLMs.
 - <strong> Fudan University, NLP Group</strong>, 07/2024. Representation Learning and Mechanistic Interpretability
