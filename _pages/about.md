@@ -25,7 +25,7 @@ During Ph.D., I started my Causality Journey(10.2022-02.2023) in visiting Prof. 
 
 I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including  [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT](https://yifeiwang77.com/), [Peking University](https://jingjingxu.com/), [MBZUAI](https://chengy12.github.io/), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en), [University College London](https://yanglinyi.github.io/),[University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support.
 
-
+🚀 I am actively recruiting passionate PhD and Master's students interested in interpretable and safe reasoning with LLMs. If you'd like to work with me, feel free to reach out. I will also be attending ICML 2025 and ACL 2025 in person.
 
 # 🔍 Research Summary
 
@@ -92,9 +92,6 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 - <strong> Turing AI Fellowship Event</strong>, London, 03/2023, Distinguishability Calibration to In-Context Learning 
 - <strong> UKRI Fellows Workshop</strong>, University of Edinburgh, 04/2022. Interpreting Long Documents and Recommendation Systems via Latent Variable Models
 
-
-
-🚀 I am an incoming Assistant Professor (09.2025) and am actively recruiting passionate PhD and Master's students interested in interpretable and safe reasoning with LLMs. If you'd like to work with me, feel free to reach out at hanqi[DOT]yan[AT]kcl[DOT]ac[DOT]uk. I will also be attending ICML 2025 and ACL 2025 in person.
 
 <div id="mentee" markdown="1">
 # 💬 Mentee
