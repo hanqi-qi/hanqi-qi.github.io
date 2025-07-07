@@ -94,7 +94,7 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 
 
 
-🚀 I am always open to new collaborations and engaging discussions. Feel free to reach out if you are interested in working together or just want to chat!
+🚀 I am an incoming Assistant Professor (09.2025) and am actively recruiting passionate PhD and Master's students interested in interpretable and safe reasoning with LLMs. If you'd like to work with me, feel free to reach out at hanqi[DOT]yan[AT]kcl[DOT]ac[DOT]uk. I will also be attending ICML 2025 and ACL 2025 in person.
 
 <div id="mentee" markdown="1">
 # 💬 Mentee
@@ -153,7 +153,8 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
   J. Li, **H. Yan**, Y. He\\
   **ACL25, Main** | [Paper](https://openreview.net/pdf?id=bOFGdbXdKV)
   <br>
-  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Application</span> <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span
+  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Application</span> <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>
+  
   <br>
   </div>
   
