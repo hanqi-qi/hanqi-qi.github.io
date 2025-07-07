@@ -42,6 +42,7 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+05.2025 🔥 Two papers accepted by ACL25 main conference, including a co-first author paper in faithful rationale generation during LLM inference. <br>
 05.2025: 🔥 Three papers accepted by ICML25, including a first-author paper about meta-reasoning in the Position paper track. <br>
 11.2024: I go to Miami☀️🌊🍹🏝, US for EMNLP24 to present our accepted papers and connect with like-minded researchers👩‍💻👨‍💻.<br>
 10.2024: 🔥 A first-author paper about <strong>monosemantic neuron in multi-modal model</strong> is accepted by Neurips-RBMF workshop.<br>
@@ -61,7 +62,7 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 10.2022: I start to be a funded visiting student in Machine Learning, Department at MBZUAI🏫, Abu Dhabi, UAE, advised by Prof. Kun Zhang. <br>
 08.2022: I go to Eindhoven, Netherlands🇳🇱 to present our UAI paper. <br> 
 05.2022: My first-author paper is accepted by UAI23 (🥳my first ML paper) <br> 
-05.2021: The first time! My first-author paper is accepted by ACL21 🌟Oral A super encouragement in my early PhD career. <br> 
+05.2021: The first time! My first-author paper is accepted by ACL21 🌟Oral. A super encouragement in my early PhD career. <br> 
 10.2020: I start my PhD📚 journey at University of Warwick, UK🇬🇧. <br>
 </div>
 
@@ -114,7 +115,7 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 <div id="educations" markdown="1"> 
 # 📖 Educations
 </div>
-- *2020.10 - 2024.04*, Ph.D., Th University of Warwick.
+- *2020.10 - 2024.04*, Ph.D., University of Warwick.
 - *2017.09 - 2020.07*, Master, Peking University.
 - *2013.09 - 2017.06*, Bachelor, Beihang University.
 -->
@@ -145,11 +146,23 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
   <br>
   </div>
 
+      <div class="paper-box-text application" markdown="1">
+  <b style="color:#783F04;">Drift: Enhancing LLM Faithfulness in Rationale Generation via Dual-Reward Probabilistic Inference
+  </b>
+  \\
+  J. Li, **H. Yan**, Y. He\\
+  **ACL25, Main** | [Paper](https://openreview.net/pdf?id=bOFGdbXdKV)
+  <br>
+  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Application</span> <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span
+  <br>
+  </div>
+  
+
   <div class="paper-box-text representation" markdown="1">
   <b style="color:#783F04;">Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration
   </b>
   \\
-  Q. Zhu, R. Zhao. H. Yan, Y. He, Y. Chen, L. Gui\\
+  Q. Zhu, R. Zhao. **H. Yan**, Y. He, Y. Chen, L. Gui\\
   **ICML25, Spotlight** | [Paper](https://openreview.net/pdf?id=Pp90xRxITT)
   <br>
 <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
