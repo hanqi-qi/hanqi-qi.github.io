@@ -96,11 +96,11 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 <div id="mentee" markdown="1">
 # 💬 Mentee
 - <strong> PhD students </strong>.\\
-  - 2*scientific literature understanding.
-  - 2* explainable AI (language and multimodal model).
-  - 3* robust reasoning.
+  - 2*scientific literature understanding (accepted by COLM25 and in submission).
+  - 2* explainable AI (language and multimodal model). (accepted by ACL25 and in submission)
+  - 4* robust reasoning (accepted by ACL24-findings/ICML25/ACL25 and in submission).
 - <strong> Master students </strong>. \\
-  - 1*rank efficiency in transformer representation.
+  - 1*rank efficiency in transformer representation (accepted by EACL).
   - 5*explainable AI (cognition perspective).
 </div>
 
