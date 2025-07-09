@@ -47,8 +47,8 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 11.2024: I go to Miami☀️🌊🍹🏝, US for EMNLP24 to present our accepted papers and connect with like-minded researchers👩‍💻👨‍💻.<br>
 10.2024: 1*first-author paper about <strong>monosemantic neuron in multi-modal model</strong> is accepted by Neurips-RBMF workshop.<br>
 09.2024: 3*papers (<strong>monomsemantic neurons</strong>, <strong>oral survey in ICL</strong>, <strong>weak2strong event extraction</strong>) are accepted by EMNLP24 Main Conference. 🎉<br> 
-08.2024: I go to Bangkok, Thailand🇹🇭 for ACL24. ✈️<br> 05.2024 <br> 
-06.2024: 2* paper accepted by ACL24, including 1 1st author in main and 1 in findings. 
+08.2024: I go to Bangkok, Thailand🇹🇭 for ACL24. ✈️ <br> 
+06.2024: 2* paper accepted by ACL24, including 1 1st author in main and 1 in findings.  <br>
 04.2024: I pass the PhD viva with no corrections 🎓. <br> 
 01.2024: I become a PostDoc👩‍🏫 at King's College London, NLP Group. <br> 
 01.2024: I finish my PhD thesis (draft) on the same day of my birthday.<br> 
