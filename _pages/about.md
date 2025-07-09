@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-✨ Hi everyone! I'm a PostDoc (01.2024-) at [King's college London](https://kcl.ac.uk/), NLP Group, School of Informatics. I passed my PhD viva with no corrections after a great time in University of Warwick (10.2020-04.2024), advised by [Prof. Yulan He](https://sites.google.com/view/yulanhe) and Dr. Lin Gui. I finished my M.S. at Peking University(09.2017-07.2020) and my B.E. at Beihang University(09.2013-06.2017).
+✨ Hi everyone! I'm a PostDoc (01.2024-) at [King's college London](https://kcl.ac.uk/), NLP Group, School of Informatics. I passed my PhD viva with no corrections after a great time in University of Warwick (10.2020-04.2024), advised by [Prof. Yulan He](https://sites.google.com/view/yulanhe) and [Dr. Lin Gui](https://sites.google.com/view/lin-gui/about-me). I finished my M.S. at Peking University(09.2017-07.2020) and my B.E. at Beihang University(09.2013-06.2017).
                 
 During Ph.D., I started my Causality Journey(10.2022-02.2023) in visiting Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) affiliated with the Causal Learning and Reasoning Group@CMU. Before Ph.D., I started my NLP journey(07.2019-10.2019) in visiting Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/) affiliated NLP Group @PolyU Hong Kong.
 
@@ -33,7 +33,7 @@ My research interests lie in the intersection of Machine Learning and Natural La
 - Mechanistic interpretability (neuron-level) in language models and multi-modal models [[EMNLP24](https://arxiv.org/pdf/2406.17969),[NeurIPS24-RBMF](https://asu-apg.github.io/rbfm/)]; self-explainable models with a conceptualised layer linking the input and decision layer [[CL22](https://aclanthology.org/2022.cl-4.17/),[TKDE24](https://arxiv.org/abs/2305.05331)]. 
 - Empirical and principled methods to enhance model robustness over various test inputs, e.g., position bias [[ACL24-findings](https://aclanthology.org/2024.findings-acl.386/),[ACL21-oral](https://aclanthology.org/2021.acl-long.261.pdf)],  distribution shifts [[NeurIPS23](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)] and 
 representation inefficiency in transformer-based models [[EMNLP24](https://arxiv.org/pdf/2406.17969),[EACL-findings](https://aclanthology.org/2023.findings-eacl.102/),[UAI22-spotlight](https://proceedings.mlr.press/v180/yan22b.html)]. 
-- Understanding and enhancing LM's reasoning capabilities via injecting external commonsense knowledge[[ACL21-oral](https://arxiv.org/abs/2106.03518)], weak supervision [[EMNLP24](https://arxiv.org/abs/2406.18245)], appling self-refinement mechanism for factual knowledge reasoning [[ACL24](https://aclanthology.org/2024.acl-long.382/)]. More recently focus in the two directions:
+- Understanding and enhancing LM's reasoning capabilities via injecting external commonsense knowledge[[ACL21-oral](https://arxiv.org/abs/2106.03518)], weak supervision [[EMNLP24](https://arxiv.org/abs/2406.18245)], applying a self-refinement mechanism for factual knowledge reasoning [[ACL24](https://aclanthology.org/2024.acl-long.382/)]. More recently focus in the two directions:
   - 🔥 Science literature understanding, such as code generation for scientific paper replication on our own [SciReplicate-Bench](https://arxiv.org/abs/2504.00255) and novelty assessment.
   - 🔥 Reasoning in latent space, such as a position paper at [ICML25](https://openreview.net/pdf?id=RrvhbxO2hd) about meta-reasoning, [CODI](https://arxiv.org/abs/2502.21074) in implicit CoT, in retrieved-based QA[[ACL25](https://arxiv.org/abs/2503.01606)], navigating search in latent space[[ICML25spotlight](https://openreview.net/pdf?id=Pp90xRxITT)] and sparse feature for preference optimization[[ICML25](https://arxiv.org/abs/2411.07618)].
 
@@ -42,27 +42,27 @@ representation inefficiency in transformer-based models [[EMNLP24](https://arxiv
 
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-05.2025 🔥 Two papers accepted by ACL25 main conference, including a co-first author paper in faithful rationale generation during LLM inference. <br>
-05.2025: 🔥 Three papers accepted by ICML25, including a first-author paper about meta-reasoning in the Position paper track. <br>
+05.2025 🔥 2*papers accepted by ACL25 main conference, including a co-first author paper in faithful rationale generation during LLM inference. <br>
+05.2025: 🔥 3*papers accepted by ICML25, including a first-author paper about meta-reasoning in the Position paper track. <br>
 11.2024: I go to Miami☀️🌊🍹🏝, US for EMNLP24 to present our accepted papers and connect with like-minded researchers👩‍💻👨‍💻.<br>
-10.2024: A first-author paper about <strong>monosemantic neuron in multi-modal model</strong> is accepted by Neurips-RBMF workshop.<br>
-09.2024: Three papers (<strong>monomsemantic neurons</strong>, <strong>oral survey in ICL</strong>, <strong>weak2strong event extraction</strong>) are accepted by EMNLP24 Main Conference. 🎉<br> 
+10.2024: 1*first-author paper about <strong>monosemantic neuron in multi-modal model</strong> is accepted by Neurips-RBMF workshop.<br>
+09.2024: 3*papers (<strong>monomsemantic neurons</strong>, <strong>oral survey in ICL</strong>, <strong>weak2strong event extraction</strong>) are accepted by EMNLP24 Main Conference. 🎉<br> 
 08.2024: I go to Bangkok, Thailand🇹🇭 for ACL24. ✈️<br> 05.2024: Two papers (1 first-author) are accepted by ACL24, one in the main conference, one in findings. <br> 
-04.2024: I pass the PhD viva with no correction🎓. <br> 
+04.2024: I pass the PhD viva with no corrections 🎓. <br> 
 01.2024: I become a PostDoc👩‍🏫 at King's College London, NLP Group. <br> 
 01.2024: I finish my PhD thesis (draft) on the same day of my birthday.<br> 
 01.2024: My first-author paper is finally accepted by TKDE.<br> 
 12.2023: I go to New Orleans🎷, US to present our Neurips paper. <br>
 07.2023: I go to Hawaii🌴, US to present our ICML-workshop paper. <br> 
-07.2023: My first-author paper is accepted by Neurips (my Neurips paper).<br> 
+07.2023: 1*first-author paper is accepted by Neurips (my Neurips paper).<br> 
 02.2023: I go back to the UK from Abu Dhabi, UAE🇦🇪, finish my Machine Learning trip in MBZUAI. <br> 
 02.2023: I attend the EMNLP23 held in Abu Dhabi, to present our Computational Linguistics paper. <br> 
-01.2023: One paper is accepted by EACL23🇭🇷-findings (first time as a mentor for a master's student). <br> 
+01.2023: 1*paper is accepted by EACL23🇭🇷-findings (first time as a mentor for a master's student). <br> 
 12.2022: Lionel Messi leads Argentina to win the ⚽️World Cup championship. <br> 
 10.2022: I start to be a funded visiting student in Machine Learning, Department at MBZUAI🏫, Abu Dhabi, UAE, advised by Prof. Kun Zhang. <br>
 08.2022: I go to Eindhoven, Netherlands🇳🇱 to present our UAI paper. <br> 
-05.2022: My first-author paper is accepted by UAI23 (🥳my first ML paper) <br> 
-05.2021: The first time! My first-author paper is accepted by ACL21 🌟Oral. A super encouragement in my early PhD career. <br> 
+05.2022: 1*first-author paper is accepted by UAI23-spotlight (🥳my first ML paper) <br> 
+05.2021: The first time to get paper accepted! 1*first-author paper is accepted by ACL21 🌟Oral. A super encouragement in my early PhD career. <br> 
 10.2020: I start my PhD📚 journey at University of Warwick, UK🇬🇧. <br>
 </div>
 
