@@ -45,7 +45,8 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-07.2025 🔥 1*paper [SciReplicate-Bench](https://arxiv.org/abs/2504.00255) accepted by COLM25, a benchmark for paper replication via code generation. 
+  
+07.2025 🔥 1*paper, SciReplicate-Bench, accepted by COLM25, a benchmark for paper replication via code generation. <br>
 05.2025 🔥 2*papers accepted by ACL25 main conference, including a co-first author paper in faithful rationale generation during LLM inference. <br>
 05.2025: 🔥 3*papers accepted by ICML25, including a first-author paper about meta-reasoning in the Position paper track. <br>
 11.2024: I go to Miami☀️🌊🍹🏝, US for EMNLP24 to present our accepted papers and connect with like-minded researchers👩‍💻👨‍💻.<br>
