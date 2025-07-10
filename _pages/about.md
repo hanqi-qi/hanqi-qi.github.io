@@ -18,14 +18,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-✨ Hi everyone! I'm a PostDoc (01.2024-) at [King's college London](https://kcl.ac.uk/), NLP Group, School of Informatics. I passed my PhD viva with no corrections after a great time at the University of Warwick (10.2020-01.2024), advised by [Prof. Yulan He](https://sites.google.com/view/yulanhe) and [Dr. Lin Gui](https://sites.google.com/view/lin-gui/about-me). I finished my M.S. at Peking University(09.2017-07.2020) and my B.E. at Beihang University(09.2013-06.2017).
+🚀 As an incoming assistant professor at King's College London (fall 2025), I am <span style="color:red"> actively recruiting passionate PhDs and Master's students</span> interested in interpretable and safe reasoning with LLMs. If you'd like to work with me, feel free to reach out. I will also be attending ICML 2025 and ACL 2025 in person.
+
+✨ Hi everyone! I'm a PostDoc (01.2024-) at [King's College London](https://kcl.ac.uk/), NLP Group, School of Informatics. I passed my PhD viva with no corrections after a great time at the University of Warwick (10.2020-01.2024), advised by [Prof. Yulan He](https://sites.google.com/view/yulanhe) and [Dr. Lin Gui](https://sites.google.com/view/lin-gui/about-me). I finished my M.S. at Peking University(09.2017-07.2020) and my B.E. at Beihang University(09.2013-06.2017).
                 
 During Ph.D., I started my Causality Journey(10.2022-02.2023) in visiting Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) affiliated with the Causal Learning and Reasoning Group@CMU. Before Ph.D., I started my NLP journey(07.2019-10.2019) in visiting Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/) affiliated NLP Group @PolyU Hong Kong.
 
 
 I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including  [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT](https://yifeiwang77.com/), [Peking University](https://jingjingxu.com/), [MBZUAI](https://chengy12.github.io/), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en), [University College London](https://yanglinyi.github.io/),[University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support.
 
-🚀 <span style="color:red"> Actively recruiting passionate PhD and Master's students</span> interested in interpretable and safe reasoning with LLMs. If you'd like to work with me, feel free to reach out. I will also be attending ICML 2025 and ACL 2025 in person.
+
 
 # 🔍 Research Summary
 
