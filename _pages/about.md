@@ -76,11 +76,12 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 # 👩‍🏫 Professional Service
 
   - Co-Chair of the Asian Chapter of the Association for Computational Linguistics (Student Research Workshop) 2022
+  - Organiser of Event - [PreTrain 2025: Spotlight on ACL/ICML/ICLR]((https://pretrain2025.github.io/index.html) at King's College London
   - Area Chair: ACL25, EMNLP25 
   - Reviewers:
-    - AACL, NAACL, EACL, EMNLP, ACL, COLM25
-    - UAI, AISTATS, NEURIPS, ICLR, ICML
-    - NeuroComputing, TOIS, TMLR, Transactions on Big Data, Transactions on Artificial Intelligence.
+    - NLP: AACL, NAACL, EACL, EMNLP, ACL, COLM25
+    - AI/ML: UAI, AISTATS, NEURIPS, ICLR, ICML, AAAI26
+    - Journal: NeuroComputing, TOIS, TMLR, Transactions on Big Data, Transactions on Artificial Intelligence.
 
 # 💬 Invited Talks
 
