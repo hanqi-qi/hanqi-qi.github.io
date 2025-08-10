@@ -307,6 +307,8 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 <a href="https://drive.google.com/file/d/1WbJzgHoN0WOF9Ul4cA5BrG9jDtT0DG1B/view">Causality101 (Feb 2022, 2nd PhD) </a> <br>
 <a href="https://drive.google.com/file/d/1uTS3FcM2ouBbusyKwmpi0YMKm2qOOmqi/view"> Explaining Neural Networks (Oct 2020 1st PhD) </a><br>
 
+# Gallery [See updates here](/updates/)
+
 <!-- JavaScript for Filtering -->
 <script>
 function filterPubs(category) {
