@@ -31,7 +31,7 @@ I’ve been incredibly lucky to have a number of amazing collaborators and mento
 
 # 🔍 Research Summary
 
-My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** and **reliability** of different NLP models, with 10 (co-)first-authored papers published at top-tier venues: 
+My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** and **reliability** of different NLP models, with 10+ (co-)first-authored papers published at top-tier venues: 
 - Mechanistic interpretability (neuron-level) in language models and multi-modal models [[**EMNLP24**](https://arxiv.org/pdf/2406.17969),[**NeurIPS24-RBMF**](https://asu-apg.github.io/rbfm/)]; self-explainable models with a conceptualised layer linking the input and decision layer [[**Computational Linguistics 22**](https://aclanthology.org/2022.cl-4.17/),[**TKDE24**](https://arxiv.org/abs/2305.05331)]. 
 - Empirical and principled methods to enhance model robustness over various test inputs, e.g., position bias [[ACL24-findings](https://aclanthology.org/2024.findings-acl.386/),[**ACL21-oral**](https://aclanthology.org/2021.acl-long.261.pdf)],  distribution shifts [[**NeurIPS23**](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)] and 
 representation inefficiency in transformer-based models [[**EMNLP24**](https://arxiv.org/pdf/2406.17969),[**EACL23-findings**](https://aclanthology.org/2023.findings-eacl.102/),[**UAI22-spotlight**](https://proceedings.mlr.press/v180/yan22b.html)]. 
@@ -76,7 +76,7 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 # 👩‍🏫 Professional Service
 
   - Co-Chair of the Asian Chapter of the Association for Computational Linguistics (Student Research Workshop) 2022
-  - Organiser of Event - [PreTrain 2025: Spotlight on ACL/ICML/ICLR]((https://pretrain2025.github.io/index.html) at King's College London
+  - Organiser of Event - PreTrain 2025: Spotlight on ACL/ICML/ICLR at King's College London
   - Area Chair: ACL25, EMNLP25 
   - Reviewers:
     - NLP: AACL, NAACL, EACL, EMNLP, ACL, COLM25
