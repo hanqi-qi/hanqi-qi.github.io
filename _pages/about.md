@@ -18,9 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🚀 **Updates**: As an incoming assistant professor at King's College London (fall 2025), I am <span style="color:red"> **actively recruiting passionate PhDs and Master's students** </span> interested in interpretable and robust reasoning with language models. I will also be attending ICML 2025 and ACL 2025 in person. If you'd like to work with me, feel free to reach out. 
-
-📷 **My Pictures:** [View gallery here]({{ "/my-pictures/" | relative_url }})
+🚀 **Updates**: As an <span style="color:red"> incoming assistant professor at King's College London (fall 2025), I am  actively recruiting passionate PhDs and Master's students </span> interested in interpretable and robust reasoning with language models.
 
 Hi everyone! I'm a PostDoc (01.2024-) at [King's College London](https://kcl.ac.uk/), NLP Group, School of Informatics. I passed my PhD viva with no corrections after a great time at the University of Warwick (10.2020-01.2024), advised by [Prof. Yulan He](https://sites.google.com/view/yulanhe) and [Dr. Lin Gui](https://sites.google.com/view/lin-gui/about-me). I finished my M.S. at Peking University(09.2017-07.2020) and my B.E. at Beihang University(09.2013-06.2017).
                 
