@@ -1,9 +1,8 @@
 ---
 layout: single
-title: "Updates"
-permalink: /updates/
+title: "My Pictures"
+permalink: /my-pictures/
 author_profile: true
 ---
 
-
-test
+# 📸 My Pictures
