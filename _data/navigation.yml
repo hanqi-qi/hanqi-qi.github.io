@@ -17,3 +17,6 @@ main:
 
   - title: "Notes"
     url: "/#-notes"
+
+  - title: "Updates"
+  url: /updates/
