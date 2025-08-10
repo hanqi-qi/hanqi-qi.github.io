@@ -46,8 +46,8 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
   
-07.2025: I go to Vienna, Austria🇦🇹 to present our faithful rationale generation & RAG papers accepted at <strong>ACL 2025</strong>. 🏞️ Excited to escape city life and explore Gosau & Hallstatt!
-07.2025: I go to Vancouver, Canada🇨🇦 to present our LLM reasoning papers accepted at ICML 2025 🤖🧠. 🍜 Can’t wait to revisit my favorite Chinese restaurant there!
+07.2025: I go to Vienna, Austria🇦🇹 to present our faithful rationale generation & RAG papers accepted at <strong>ACL 2025</strong>. 🏞️ Excited to escape city life and explore Gosau & Hallstatt! <br>
+07.2025: I go to Vancouver, Canada🇨🇦 to present our LLM reasoning papers accepted at <strong>ICML 2025</strong>. 🍜 Can’t wait to revisit my favorite Chinese restaurant there! <br>
 07.2025: 🔥 1*paper, SciReplicate-Bench, accepted by COLM25, a benchmark for paper replication via code generation. <br>
 05.2025" 🔥 2*papers accepted by ACL25 main conference, including a co-first author paper in faithful rationale generation during LLM inference. <br>
 05.2025: 🔥 3*papers accepted by ICML25, including a first-author paper about meta-reasoning in the Position paper track. <br>
@@ -307,7 +307,6 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 <a href="https://drive.google.com/file/d/1WbJzgHoN0WOF9Ul4cA5BrG9jDtT0DG1B/view">Causality101 (Feb 2022, 2nd PhD) </a> <br>
 <a href="https://drive.google.com/file/d/1uTS3FcM2ouBbusyKwmpi0YMKm2qOOmqi/view"> Explaining Neural Networks (Oct 2020 1st PhD) </a><br>
 
-# Gallery [See updates here](/updates/)
 
 <!-- JavaScript for Filtering -->
 <script>
