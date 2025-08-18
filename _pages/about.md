@@ -84,19 +84,17 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
     - Journal: NeuroComputing, TOIS, TMLR, Transactions on Big Data, Transactions on Artificial Intelligence.
 
 # 💬 Invited Talks
-
 - <strong> University of Southampton, Computer Science </strong>, 04/2025. LLM Reasoning with internal and controllable signals 
 - <strong> University of Surrey, Computer Science </strong>, 04/2025. Controllable generation framework for LLM reasoning
 - <strong> University of Bath, Computer Science </strong>, 04/2025. Disentanglement for interpretability and controllability
 - <strong> University of Birmingham, Computer Science </strong>, 12/2024. Understanding and improving LLM reasoning via representation learning
-- <strong> University of Sheffied, NLP Group</strong>, 12/2024. Robust and Interpretable NLP via representation learning and Path Ahead
-- <strong> Huawei, LLM research team (Singapore)</strong>. Controllable generation and Causality in LLMs.
-- <strong> Amazon, Artificial Generative Intelligence team (London& Cambridge)</strong>. Robust and Interpretable NLP via Representation Learning and Applications in LLMs.
-- <strong> Fudan University, NLP Group</strong>, 07/2024. Representation Learning and Mechanistic Interpretability
-- <strong> UC San Diego, NLP Group</strong>, 02/2024. Robust and Interpretable NLP via representation learning and Path Ahead
-- <strong> Yale University, NLP Group</strong> 01/2024. Robust and Interpretable NLP via representation learning and Path Ahead
-- <strong> Turing AI Fellowship Event</strong>, London, 03/2023, Distinguishability Calibration to In-Context Learning 
-- <strong> UKRI Fellows Workshop</strong>, University of Edinburgh, 04/2022. Interpreting Long Documents and Recommendation Systems via Latent Variable Models
+- <strong> Huawei, LLM research team in Singapore (Remote) </strong>. Controllable generation and Causality in LLMs.
+- <strong> Amazon, Artificial Generative Intelligence team in London (Remote) </strong>. Robust and Interpretable NLP via Representation Learning and Applications in LLMs.
+- <strong> Fudan University, NLP Group </strong>, 07/2024. Representation Learning and Mechanistic Interpretability
+- <strong> UC San Diego, NLP Group </strong>, 02/2024. Robust and Interpretable NLP via representation learning and Path Ahead
+- <strong> Yale University, NLP Group </strong> 01/2024. Robust and Interpretable NLP via representation learning and Path Ahead
+- <strong> Turing AI Fellowship Event </strong>, London, 03/2023, Distinguishability Calibration to In-Context Learning 
+- <strong> UKRI Fellows Workshop </strong>, University of Edinburgh, 04/2022. Interpreting Long Documents and Recommendation Systems via Latent Variable Models
 
 
 <div id="mentee" markdown="1">
