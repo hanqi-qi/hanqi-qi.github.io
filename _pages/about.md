@@ -42,7 +42,7 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-09.2025: I started the lecturer position at KCL. office on 5th floor, south wing, Bush House. Looking forward to more challenges and opportunities ahead! <br>
+09.2025: I started the lecturer position at KCL. Looking forward to more challenges and opportunities ahead! <br>
 07.2025: I go to Vienna, Austria🇦🇹 to present our faithful rationale generation and RAG papers accepted at <strong>ACL 2025</strong>. 🏞️ Excited to escape city life and explore Gosau & Hallstatt! <br>
 07.2025: I go to Vancouver, Canada🇨🇦 to present our LLM reasoning papers accepted at <strong>ICML 2025</strong>. 🍜 Can’t wait to revisit my favorite Chinese restaurant there! <br>
 07.2025: 🔥 1*paper, SciReplicate-Bench, accepted by COLM25, a benchmark for paper replication via code generation. <br>
