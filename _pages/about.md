@@ -23,9 +23,6 @@ Hi everyone! I'm a lecturer (Assistant Professor) at [King's College London](htt
 During Ph.D., I started my Causality Journey(10.2022-02.2023) in visiting Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) affiliated with the Causal Learning and Reasoning Group@CMU. Before Ph.D., I started my NLP journey(07.2019-10.2019) in visiting Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/) affiliated NLP Group @PolyU Hong Kong.
 
 
-I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including  [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT](https://yifeiwang77.com/), [Peking University](https://jingjingxu.com/), [MBZUAI](https://chengy12.github.io/), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en), [University College London](https://yanglinyi.github.io/),[University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support.
-
-
 
 # 🔍 Research Summary
 
@@ -74,24 +71,19 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 
 # 👩‍🏫 Professional Service
 
-  - Co-Chair of the Asian Chapter of the Association for Computational Linguistics (Student Research Workshop) 2022
-  - Organiser of Event - PreTrain 2025: Spotlight on ACL/ICML/ICLR at King's College London
-  - Area Chair: ACL25, EMNLP25 
+  - Organiser
+    - PreTrain 2025: Spotlight on ACL/ICML/ICLR at KCL
+    - Co-Chair of the AACL22-Student Research Workshop
+  - Area Chair:
+    - ACL25, EMNLP25 
   - Reviewers:
     - NLP: AACL, NAACL, EACL, EMNLP, ACL, COLM25
     - AI/ML: UAI, AISTATS, NEURIPS, ICLR, ICML, AAAI26
     - Journal: NeuroComputing, TOIS, TMLR, Transactions on Big Data, Transactions on Artificial Intelligence.
 
 # 💬 Invited Talks
-- <strong> University of Southampton, Computer Science </strong>, 04/2025. LLM Reasoning with internal and controllable signals 
-- <strong> University of Surrey, Computer Science </strong>, 04/2025. Controllable generation framework for LLM reasoning
-- <strong> University of Bath, Computer Science </strong>, 04/2025. Disentanglement for interpretability and controllability
-- <strong> University of Birmingham, Computer Science </strong>, 12/2024. Understanding and improving LLM reasoning via representation learning
-- <strong> Huawei, LLM research team in Singapore (Remote) </strong>. Controllable generation and Causality in LLMs.
-- <strong> Amazon, Artificial Generative Intelligence team in London (Remote) </strong>. Robust and Interpretable NLP via Representation Learning and Applications in LLMs.
+- <strong> Thomson Reuters, Foundational Research Team, invited by Jonathan Richard Schwarz. 08/2025. [Towards More Robust Reasoning for LLMs](https://drive.google.com/file/d/1g24BX-9eICdkmfOrRD5i9z4UnVRuN5Jd/view?usp=sharing)
 - <strong> Fudan University, NLP Group </strong>, 07/2024. Representation Learning and Mechanistic Interpretability
-- <strong> UC San Diego, NLP Group </strong>, 02/2024. Robust and Interpretable NLP via representation learning and Path Ahead
-- <strong> Yale University, NLP Group </strong> 01/2024. Robust and Interpretable NLP via representation learning and Path Ahead
 - <strong> Turing AI Fellowship Event </strong>, London, 03/2023, Distinguishability Calibration to In-Context Learning 
 - <strong> UKRI Fellows Workshop </strong>, University of Edinburgh, 04/2022. Interpreting Long Documents and Recommendation Systems via Latent Variable Models
 
@@ -99,7 +91,7 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 <div id="mentee" markdown="1">
 # 💬 Mentee
 - <strong> PhD students </strong>.\\
-  - 2*scientific literature understanding (accepted by [COLM25](https://arxiv.org/abs/2504.00255) and in submission).
+  - 2*scientific literature understanding (accepted by [COLM25](https://arxiv.org/abs/2504.00255) and in submission). 
   - 2* explainable AI (language and multimodal model). (accepted by [ACL25](https://openreview.net/pdf?id=bOFGdbXdKV) and in submission)
   - 3* robust LLM reasoning (accepted by [ACL24-findings](https://arxiv.org/pdf/2402.15637v2)/[ACL25](https://arxiv.org/abs/2503.01606) and in [submission](https://arxiv.org/abs/2502.21074)).
   - 1* event extraction (accepted by [EMNLP24](https://arxiv.org/abs/2406.18245))
