@@ -138,7 +138,7 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   <br>
   </div>
 
-      <div class="paper-box-text application" markdown="1">
+  <div class="paper-box-text application" markdown="1">
   <b style="color:#783F04;">Drift: Enhancing LLM Faithfulness in Rationale Generation via Dual-Reward Probabilistic Inference
   </b>
   \\
@@ -146,7 +146,6 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   **ACL25, Main** | [Paper](https://openreview.net/pdf?id=bOFGdbXdKV)
   <br>
 <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span>  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>
-  
   <br>
   </div>
   
@@ -162,7 +161,7 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   <br>
   </div>
 
-    <div class="paper-box-text representation" markdown="1">
+  <div class="paper-box-text representation" markdown="1">
   <b style="color:#783F04;">Direct preference optimization using sparse feature-level constraints
   </b>
   \\
@@ -278,7 +277,6 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   **ACL21, Oral** |  [Paper](https://aclanthology.org/2021.acl-long.261.pdf)<br>
   <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Causality</span> <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span> 
   </div>
-</div>
 
 
 # 📝 Notes 
