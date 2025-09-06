@@ -280,17 +280,6 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   </div>
 </div>
 
-<div id="mentee" markdown="1">
-# 💬 Mentee
-- <strong> PhD students </strong>.\\
-  - 2*scientific literature understanding (accepted by [COLM25](https://arxiv.org/abs/2504.00255) and in submission). 
-  - 2* explainable AI (language and multimodal model). (accepted by [ACL25](https://openreview.net/pdf?id=bOFGdbXdKV) and in submission)
-  - 3* robust LLM reasoning (accepted by [ACL24-findings](https://arxiv.org/pdf/2402.15637v2)/[ACL25](https://arxiv.org/abs/2503.01606) and in [submission](https://arxiv.org/abs/2502.21074)).
-  - 1* event extraction (accepted by [EMNLP24](https://arxiv.org/abs/2406.18245))
-- <strong> Master students </strong>. \\
-  - 1*rank efficiency in transformer representation (accepted by [EACL23-findings](https://aclanthology.org/2023.findings-eacl.102/)).
-  - 5*explainable AI (cognition perspective).
-</div>
 
 # 📝 Notes 
 <a href="https://docs.google.com/document/d/1P7ngYVELCz-wxz7u34KCVw67fGQlsUlx6fo2RfWAJmQ/edit?usp=sharing"> o1-technical report (notes for [video](https://www.bilibili.com/video/BV15Rx5eXEnW)) </a> <br>
