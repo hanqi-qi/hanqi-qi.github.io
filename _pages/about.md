@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hanqi Yan is a lecturer (Assistant Professor) at [King's College London](https://kcl.ac.uk/), Department of Informatics, affliated with the [NLP group](https://kclnlp.github.io/index.html).  Before that, she was the postdoctoral researcher in the same department.(2024-2025). She mainly focuses on interpretability and robustness for language models on various reasoning tasks, especially from the representation learning perspective. She serves as area chair for ACL2025, EMNLP2025, and co-organized the student workshop at AACL2022. She obtained her Ph.D from the University of Warwick(2024), Msc and Bng from Peking University (2020) and Beihang University (2017).
+Hanqi Yan is a lecturer (Assistant Professor) at [King's College London](https://kcl.ac.uk/), Department of Informatics, affliated with the [NLP group](https://kclnlp.github.io/index.html).  Before that, she was the postdoctoral researcher in the same department.(2024-2025). She mainly focuses on interpretability and robustness for language models on various reasoning tasks, especially from the representation learning perspective. She serves as area chair for ACL2025, EMNLP2025, and co-organized the student workshop at AACL2022. She obtained her Ph.D from the University of Warwick(2024), Msc and BEng from Peking University (2020) and Beihang University (2017).
 
 I am always on the lookout for excellent PhD students to work with me about LLM reasoning, robustenss, interpretability etc. 
 - Fully-funded positions for exceptional candidates through KCL scholarships. These funding allocations are for full fees and a living stipend (London weighted) for any nationality.
@@ -29,7 +29,7 @@ I am always on the lookout for excellent PhD students to work with me about LLM 
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
 09.2025: 🔥 A joint tutorial "Structured Representation Learning: Interpretability, Robustness and Transferability for Large Language Models" is accepted by <strong>AAAI-26</strong>. See you in Singapore! <br>
-09.2025: 🔥 A new work on safety vulnerabilities in reasoning-intensive setups—like think-mode or fine-tuning on narrow math tasks is released! <strong>"Thinking Hard, Going Misaligned: Emergent Misalignment in LLMs"</strong>strong> <br>
+09.2025: 🔥 A new work on safety vulnerabilities in reasoning-intensive setups—like think-mode or fine-tuning on narrow math tasks is released! <strong>"Thinking Hard, Going Misaligned: Emergent Misalignment in LLMs"</strong> <br>
 09.2025: 🔥 I started the lecturer position at KCL. Looking forward to more challenges and opportunities ahead! <br>
 07.2025: I go to Vienna, Austria🇦🇹 to present our faithful rationale generation and RAG papers accepted at <strong>ACL 2025</strong>. 🏞️ Excited to escape city life and explore Gosau & Hallstatt! <br>
 07.2025: I go to Vancouver, Canada🇨🇦 to present our LLM reasoning papers accepted at <strong>ICML 2025</strong>. 🍜 Can’t wait to revisit my favorite Chinese restaurant there! <br>
@@ -76,6 +76,7 @@ I am always on the lookout for excellent PhD students to work with me about LLM 
 - 07/2024. <strong> Fudan University, NLP Group </strong>. [Representation Learning and Mechanistic Interpretability](https://drive.google.com/file/d/1_fem-cZ6sCda8iTE-PjvmgEWFTeuGDbl/view?usp=sharing)
 - 03/2023. <strong> Turing AI Fellowship Event </strong>, London, Distinguishability Calibration to In-Context Learning 
 - 04/2022. <strong> UKRI Fellows Workshop </strong>, University of Edinburgh, Interpreting Long Documents and Recommendation Systems via Latent Variable Models
+- 07/2021. <strong> SPAAM Seminar. University of Warwick. Emotion Cause detection. 
 
 # 🔍 Research Summary
 
@@ -301,7 +302,7 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 - *2022.10 - 2023.02*, Visiting PhD student, MBZUAI, advised by Prof. Kun Zhang.
 - *2019.07 - 2019.10*, Research Assistant, PolyU HongKong, advised by Prof. Maggie Li. 
 
-# 📝 Notes
+# 📝 Notes 
 <a href="https://docs.google.com/document/d/1P7ngYVELCz-wxz7u34KCVw67fGQlsUlx6fo2RfWAJmQ/edit?usp=sharing"> o1-technical report (notes for [video](https://www.bilibili.com/video/BV15Rx5eXEnW)) </a> <br>
 <a href="https://docs.google.com/presentation/d/1choVI6HIOLpdAywFpWGFR8KMyex7-AhEhEzP_vTsF0Y/edit?usp=sharing"> Machine Unlearning via CausalLens and in NLP tasks</a> <br>
 <a href="https://github.com/hanqi-qi/Large_language_modeling/blob/main/Reading_Material.md">Reading List For Large Language Model</a><br>
