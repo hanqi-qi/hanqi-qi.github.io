@@ -18,7 +18,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hanqi Yan is a lecturer (Assistant Professor) at [King's College London](https://kcl.ac.uk/), Department of Informatics, affliated with the [NLP group](https://kclnlp.github.io/index.html).  Before that, she was the postdoctoral researcher in the same department.(2024-2025). She mainly focuses on interpretability and robustness for language models on various reasoning tasks, especially from the representation learning perspective. She serves as area chair for ACL2025, EMNLP2025, and co-organized the student workshop at AACL2022. She obtained her Ph.D from the University of Warwick(2024), Msc and BEng from Peking University (2020) and Beihang University (2017).
+**Hanqi Yan** is a lecturer (Assistant Professor) at [King's College London](https://kcl.ac.uk/), Department of Informatics, affliated with the [NLP group](https://kclnlp.github.io/index.html).  Before that, she was the postdoctoral researcher in the same department.(2024-2025). She mainly focuses on interpretability and robustness for language models on various reasoning tasks, especially from the representation learning perspective. She has published more than 10+ papers as (co-)first author on related topics in top conferences, such as ACL, EMNLP, Neurips, ICML. She serves as area chair for ACL2025, EMNLP2025, and co-organized the student workshop at AACL2022. She obtained her Ph.D from the University of Warwick(2024), advised by [Prof. Yulan He](https://sites.google.com/view/yulanhe/home) and [Dr. Lin Gui](https://sites.google.com/view/lin-gui/about-me), Msc and BEng from Peking University (2020) and Beihang University (2017).
+
+I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT](https://yifeiwang77.com/), [MBZUAI](https://chengy12.github.io/), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en),[University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support.
+
 
 I am always on the lookout for excellent PhD students to work with me about LLM reasoning, robustenss, interpretability etc. 
 - Fully-funded positions for exceptional candidates through KCL scholarships. These funding allocations are for full fees and a living stipend (London weighted) for any nationality.
@@ -274,6 +277,18 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   **ACL21, Oral** |  [Paper](https://aclanthology.org/2021.acl-long.261.pdf)<br>
   <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Causality</span> <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span> 
   </div>
+</div>
+
+<div id="mentee" markdown="1">
+# 💬 Mentee before Lectureship
+- <strong> PhD students </strong>.\\
+  - 2*scientific literature understanding (accepted by [COLM25](https://arxiv.org/abs/2504.00255) and in submission).
+  - 2* explainable AI (language and multimodal model). (accepted by [ACL25](https://openreview.net/pdf?id=bOFGdbXdKV) and in submission)
+  - 3* robust LLM reasoning (accepted by [ACL24-findings](https://arxiv.org/pdf/2402.15637v2)/[ACL25](https://arxiv.org/abs/2503.01606) and in [submission](https://arxiv.org/abs/2502.21074)).
+  - 1* event extraction (accepted by [EMNLP24](https://arxiv.org/abs/2406.18245))
+- <strong> Master students </strong>. \\
+  - 1*rank efficiency in transformer representation (accepted by [EACL23-findings](https://aclanthology.org/2023.findings-eacl.102/)).
+  - 5*explainable AI (cognition perspective).
 </div>
 
 
