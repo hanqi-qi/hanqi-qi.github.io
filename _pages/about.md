@@ -18,30 +18,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi everyone! I'm a lecturer (Assistant Professor) at [King's College London](https://kcl.ac.uk/), Department of Informatics. I was a postdoctoral researcher at the same department(01.2024-08.2025). I passed my PhD viva with no corrections after a great time at the University of Warwick (10.2020-04.2024), advised by [Prof. Yulan He](https://sites.google.com/view/yulanhe) and [Dr. Lin Gui](https://sites.google.com/view/lin-gui/about-me). I finished my M.S. at Peking University(09.2017-07.2020) and my B.E. at Beihang University(09.2013-06.2017). During Ph.D., I started my Causality Journey(10.2022-02.2023) in visiting Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/). Before Ph.D., I started my NLP journey(07.2019-10.2019) in visiting Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/).
+Hanqi Yan a lecturer (Assistant Professor) at [King's College London](https://kcl.ac.uk/), Department of Informatics. Before that, she was the postdoctoral researcher in the same department.(2024-2025). She mainly focuses on interpretability and robustness for language models on various reasoning tasks, especially from the representation learning perspective. She serves as area chair for ACL2025, EMNLP2025, and co-organized the student workshop at AACL2022. She obtained her Ph.D from the University of Warwick(2024), Msc and Bng from Peking University (2020) and Beihang University (2017).
 
-# 👩‍🏫 PhD opportinuties: 
 I am always on the lookout for excellent PhD students to work with me about LLM reasoning, robustenss, interpretability etc. 
 - Fully-funded positions for exceptional candidates through KCL scholarships. These funding allocations are for full fees and a living stipend (London weighted) for any nationality.
-- King's China Scholarships (for Chinese nationals). These funding allocations are for full fees and a living stipend (London weighted).
-- Alternative funding: if you are keen to do a PhD but are not sure how to fund, or wish to self-fund, I am happy to work towards putting together applications for PhD fellowships for exceptional candidates.
-
-
-# 🔍 Research Summary
-
-My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** and **reliability** of different NLP models, with 10+ (co-)first-authored papers published at top-tier venues: 
-- Mechanistic interpretability (neuron-level) in language models and multi-modal models [[**EMNLP24**](https://arxiv.org/pdf/2406.17969),[**NeurIPS24-RBMF**](https://asu-apg.github.io/rbfm/)], explaining the conflicts between safety and reasoning advancement [[Preprint](https://arxiv.org/abs/2509.00544v1)]; self-explainable models with a conceptualised layer linking the input and decision layer [[**Computational Linguistics 22**](https://aclanthology.org/2022.cl-4.17/),[**TKDE24**](https://arxiv.org/abs/2305.05331)]. 
-- Empirical and principled methods to enhance model robustness over various test inputs, e.g., position bias [[ACL24-findings](https://aclanthology.org/2024.findings-acl.386/),[**ACL21-oral**](https://aclanthology.org/2021.acl-long.261.pdf)],  distribution shifts [[**NeurIPS23**](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)] and 
-representation inefficiency in transformer-based models [[**EMNLP24**](https://arxiv.org/pdf/2406.17969),[**EACL23-findings**](https://aclanthology.org/2023.findings-eacl.102/),[**UAI22-spotlight**](https://proceedings.mlr.press/v180/yan22b.html)]. 
-- Understanding and enhancing LM's reasoning capabilities via injecting external knowledge[[**ACL21-oral**](https://arxiv.org/abs/2106.03518)][[**ACL25**](https://openreview.net/pdf?id=bOFGdbXdKV)], weak supervision [[EMNLP24](https://arxiv.org/abs/2406.18245)], applying a self-refinement mechanism for factual knowledge reasoning [[**ACL24**](https://aclanthology.org/2024.acl-long.382/)]. More recently focus in the two directions:
-  - Science literature understanding, such as code generation for scientific paper replication on our own [SciReplicate-Bench](https://arxiv.org/abs/2504.00255) and novelty assessment.
-  - Reasoning in latent space, such as a position paper at [**ICML25**](https://openreview.net/pdf?id=RrvhbxO2hd) about meta-reasoning, [CODI](https://arxiv.org/abs/2502.21074) in implicit CoT, in retrieved-based QA [[ACL25](https://arxiv.org/abs/2503.01606)], navigating search in latent space [[ICML25spotlight](https://openreview.net/pdf?id=Pp90xRxITT)] and sparse feature for preference optimization [[ICML25](https://arxiv.org/abs/2411.07618)].
-
+- K-CSC (for Chinese nationals). These funding allocations are for full fees and a living stipend (London weighted).
+- [Alternative fundings](https://www.kcl.ac.uk/study/postgraduate-research/funding/scholarships-and-studentships).
 
 # 🔥 News
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-09.2025: 🔥 A joint tutorial "Structured Representation Learning: Interpretability, Robustness and Transferability for Large Language Models" is accepted by <strong>AAAI-26</strong>strong>. See you in Singapore! <br>
+09.2025: 🔥 A joint tutorial "Structured Representation Learning: Interpretability, Robustness and Transferability for Large Language Models" is accepted by <strong>AAAI-26</strong>. See you in Singapore! <br>
 09.2025: A new work on safety vulnerabilities in reasoning-intensive setups—like think-mode or fine-tuning on narrow math tasks is released! <strong>"Thinking Hard, Going Misaligned: Emergent Misalignment in LLMs"</strong>strong> <br>
 09.2025: 🔥 I started the lecturer position at KCL. Looking forward to more challenges and opportunities ahead! <br>
 07.2025: I go to Vienna, Austria🇦🇹 to present our faithful rationale generation and RAG papers accepted at <strong>ACL 2025</strong>. 🏞️ Excited to escape city life and explore Gosau & Hallstatt! <br>
@@ -72,7 +59,6 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 10.2020: I start my PhD📚 journey at University of Warwick, UK🇬🇧. <br>
 </div>
 
-
 # 👩‍🏫 Professional Service
 
   - Organiser
@@ -86,10 +72,10 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
     - Journal: NeuroComputing, TOIS, TMLR, Transactions on Big Data, Transactions on Artificial Intelligence.
 
 # 💬 Invited Talks
-- <strong> Thomson Reuters, Foundational Research Team, invited by Jonathan Richard Schwarz. 08/2025. [Towards More Robust Reasoning for LLMs](https://drive.google.com/file/d/1g24BX-9eICdkmfOrRD5i9z4UnVRuN5Jd/view?usp=sharing)
-- <strong> Fudan University, NLP Group </strong>, 07/2024. Representation Learning and Mechanistic Interpretability
-- <strong> Turing AI Fellowship Event </strong>, London, 03/2023, Distinguishability Calibration to In-Context Learning 
-- <strong> UKRI Fellows Workshop </strong>, University of Edinburgh, 04/2022. Interpreting Long Documents and Recommendation Systems via Latent Variable Models
+- 08/2025. <strong> Thomson Reuters, Foundational Research Team </strong> invited by Jonathan Richard Schwarz.[Towards More Robust Reasoning for LLMs](https://drive.google.com/file/d/1g24BX-9eICdkmfOrRD5i9z4UnVRuN5Jd/view?usp=sharing)
+- 07/2024. <strong> Fudan University, NLP Group </strong>. [Representation Learning and Mechanistic Interpretability](https://drive.google.com/file/d/1_fem-cZ6sCda8iTE-PjvmgEWFTeuGDbl/view?usp=sharing)
+- 03/2023. <strong> Turing AI Fellowship Event </strong>, London, Distinguishability Calibration to In-Context Learning 
+- 04/2022. <strong> UKRI Fellows Workshop </strong>, University of Edinburgh, Interpreting Long Documents and Recommendation Systems via Latent Variable Models
 
 
 <div id="mentee" markdown="1">
@@ -109,13 +95,22 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 -->
 
 <!--
-<div id="educations" markdown="1"> 
-# 📖 Educations
+<div id="Research Visits" markdown="1"> 
+# 📖 Research Visits
 </div>
-- *2020.10 - 2024.04*, Ph.D., University of Warwick.
-- *2017.09 - 2020.07*, Master, Peking University.
-- *2013.09 - 2017.06*, Bachelor, Beihang University.
+- *2022.10 - 2023.02*, Visiting PhD student, MBZUAI, advised by Prof. Kun Zhang.
+- *2019.07 - 2019.10*, Research Assistant, PolyU HongKong, advised by Prof. Maggie Li. 
 -->
+
+# 🔍 Research Summary
+
+My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** and **reliability** of different NLP models, with 10+ **(co-)first-authored** papers published at top-tier venues: 
+- Mechanistic interpretability (neuron-level) in language models and multi-modal models [[**EMNLP24**](https://arxiv.org/pdf/2406.17969),[**NeurIPS24-RBMF**](https://asu-apg.github.io/rbfm/)], explaining the conflicts between safety and reasoning advancement [[**Preprint**](https://arxiv.org/abs/2509.00544v1)]; self-explainable models with a conceptualised layer linking the input and decision layer [[**Computational Linguistics 22**](https://aclanthology.org/2022.cl-4.17/),[**TKDE24**](https://arxiv.org/abs/2305.05331)]. 
+- Empirical and principled methods to enhance model robustness over various test inputs, e.g., position bias [[ACL24-findings](https://aclanthology.org/2024.findings-acl.386/),[**ACL21-oral**](https://aclanthology.org/2021.acl-long.261.pdf)],  distribution shifts [[**NeurIPS23**](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)] and 
+representation inefficiency in transformer-based models [[**EMNLP24**](https://arxiv.org/pdf/2406.17969),[**EACL23-findings**](https://aclanthology.org/2023.findings-eacl.102/),[**UAI22-spotlight**](https://proceedings.mlr.press/v180/yan22b.html)]. 
+- Understanding and enhancing LM's reasoning capabilities via injecting external knowledge[[**ACL21-oral**](https://arxiv.org/abs/2106.03518)][[**ACL25**](https://openreview.net/pdf?id=bOFGdbXdKV)], weak supervision [[EMNLP24](https://arxiv.org/abs/2406.18245)], applying a self-refinement mechanism for factual knowledge reasoning [[**ACL24**](https://aclanthology.org/2024.acl-long.382/)]. More recently focus in the two directions:
+  - Science literature understanding, such as code generation for scientific paper replication on our own [SciReplicate-Bench](https://arxiv.org/abs/2504.00255) and novelty assessment.
+  - Reasoning in latent space, such as a position paper at [**ICML25**](https://openreview.net/pdf?id=RrvhbxO2hd) about meta-reasoning, [CODI](https://arxiv.org/abs/2502.21074) in implicit CoT, in retrieved-based QA [[ACL25](https://arxiv.org/abs/2503.01606)], navigating search in latent space [[ICML25spotlight](https://openreview.net/pdf?id=Pp90xRxITT)] and sparse feature for preference optimization [[ICML25](https://arxiv.org/abs/2411.07618)].
 
 
 # 📝 Publications 
@@ -201,8 +196,6 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
   <br>
   </div>
-  
-
   
   <div class="paper-box-text interpretability representation application" markdown="1">
   <b style="color:#783F04;">Encourage or Inhibit Monosemanticity? Revisit Monosemanticity from a Feature Decorrelation Perspective
