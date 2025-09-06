@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hanqi Yan a lecturer (Assistant Professor) at [King's College London](https://kcl.ac.uk/), Department of Informatics. Before that, she was the postdoctoral researcher in the same department.(2024-2025). She mainly focuses on interpretability and robustness for language models on various reasoning tasks, especially from the representation learning perspective. She serves as area chair for ACL2025, EMNLP2025, and co-organized the student workshop at AACL2022. She obtained her Ph.D from the University of Warwick(2024), Msc and Bng from Peking University (2020) and Beihang University (2017).
+Hanqi Yan is a lecturer (Assistant Professor) at [King's College London](https://kcl.ac.uk/), Department of Informatics, affliated with the [NLP group](https://kclnlp.github.io/index.html).  Before that, she was the postdoctoral researcher in the same department.(2024-2025). She mainly focuses on interpretability and robustness for language models on various reasoning tasks, especially from the representation learning perspective. She serves as area chair for ACL2025, EMNLP2025, and co-organized the student workshop at AACL2022. She obtained her Ph.D from the University of Warwick(2024), Msc and Bng from Peking University (2020) and Beihang University (2017).
 
 I am always on the lookout for excellent PhD students to work with me about LLM reasoning, robustenss, interpretability etc. 
 - Fully-funded positions for exceptional candidates through KCL scholarships. These funding allocations are for full fees and a living stipend (London weighted) for any nationality.
@@ -76,31 +76,6 @@ I am always on the lookout for excellent PhD students to work with me about LLM 
 - 07/2024. <strong> Fudan University, NLP Group </strong>. [Representation Learning and Mechanistic Interpretability](https://drive.google.com/file/d/1_fem-cZ6sCda8iTE-PjvmgEWFTeuGDbl/view?usp=sharing)
 - 03/2023. <strong> Turing AI Fellowship Event </strong>, London, Distinguishability Calibration to In-Context Learning 
 - 04/2022. <strong> UKRI Fellows Workshop </strong>, University of Edinburgh, Interpreting Long Documents and Recommendation Systems via Latent Variable Models
-
-
-<div id="mentee" markdown="1">
-# 💬 Mentee
-- <strong> PhD students </strong>.\\
-  - 2*scientific literature understanding (accepted by [COLM25](https://arxiv.org/abs/2504.00255) and in submission). 
-  - 2* explainable AI (language and multimodal model). (accepted by [ACL25](https://openreview.net/pdf?id=bOFGdbXdKV) and in submission)
-  - 3* robust LLM reasoning (accepted by [ACL24-findings](https://arxiv.org/pdf/2402.15637v2)/[ACL25](https://arxiv.org/abs/2503.01606) and in [submission](https://arxiv.org/abs/2502.21074)).
-  - 1* event extraction (accepted by [EMNLP24](https://arxiv.org/abs/2406.18245))
-- <strong> Master students </strong>. \\
-  - 1*rank efficiency in transformer representation (accepted by [EACL23-findings](https://aclanthology.org/2023.findings-eacl.102/)).
-  - 5*explainable AI (cognition perspective).
-</div>
-
-<!--
-<a href='[https://scholar.google.com/citations?user=YmWi1lgAAAAJ](https://scholar.google.com/citations?user=YmWi1lgAAAAJ)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
--->
-
-<!--
-<div id="Research Visits" markdown="1"> 
-# 📖 Research Visits
-</div>
-- *2022.10 - 2023.02*, Visiting PhD student, MBZUAI, advised by Prof. Kun Zhang.
-- *2019.07 - 2019.10*, Research Assistant, PolyU HongKong, advised by Prof. Maggie Li. 
--->
 
 # 🔍 Research Summary
 
@@ -304,6 +279,27 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   </div>
 </div>
 
+<div id="mentee" markdown="1">
+# 💬 Mentee
+- <strong> PhD students </strong>.\\
+  - 2*scientific literature understanding (accepted by [COLM25](https://arxiv.org/abs/2504.00255) and in submission). 
+  - 2* explainable AI (language and multimodal model). (accepted by [ACL25](https://openreview.net/pdf?id=bOFGdbXdKV) and in submission)
+  - 3* robust LLM reasoning (accepted by [ACL24-findings](https://arxiv.org/pdf/2402.15637v2)/[ACL25](https://arxiv.org/abs/2503.01606) and in [submission](https://arxiv.org/abs/2502.21074)).
+  - 1* event extraction (accepted by [EMNLP24](https://arxiv.org/abs/2406.18245))
+- <strong> Master students </strong>. \\
+  - 1*rank efficiency in transformer representation (accepted by [EACL23-findings](https://aclanthology.org/2023.findings-eacl.102/)).
+  - 5*explainable AI (cognition perspective).
+</div>
+
+<!--
+<a href='[https://scholar.google.com/citations?user=YmWi1lgAAAAJ](https://scholar.google.com/citations?user=YmWi1lgAAAAJ)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+-->
+
+
+# 📖 Research Visits
+</div>
+- *2022.10 - 2023.02*, Visiting PhD student, MBZUAI, advised by Prof. Kun Zhang.
+- *2019.07 - 2019.10*, Research Assistant, PolyU HongKong, advised by Prof. Maggie Li. 
 
 # 📝 Notes
 <a href="https://docs.google.com/document/d/1P7ngYVELCz-wxz7u34KCVw67fGQlsUlx6fo2RfWAJmQ/edit?usp=sharing"> o1-technical report (notes for [video](https://www.bilibili.com/video/BV15Rx5eXEnW)) </a> <br>
