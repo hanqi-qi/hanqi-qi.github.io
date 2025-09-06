@@ -292,15 +292,10 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   - 5*explainable AI (cognition perspective).
 </div>
 
-<!--
-<a href='[https://scholar.google.com/citations?user=YmWi1lgAAAAJ](https://scholar.google.com/citations?user=YmWi1lgAAAAJ)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
--->
-
 
 # 📖 Research Visits
-</div>
-- *2022.10 - 2023.02*, Visiting PhD student, MBZUAI, advised by Prof. Kun Zhang.
-- *2019.07 - 2019.10*, Research Assistant, PolyU HongKong, advised by Prof. Maggie Li. 
+- **2022.10 - 2023.02**, Visiting PhD student, MBZUAI, advised by Prof. Kun Zhang. <br> 
+- **2019.07 - 2019.10**, Research Assistant, PolyU HongKong, advised by Prof. Maggie Li. <br>
 
 # 📝 Notes 
 <a href="https://docs.google.com/document/d/1P7ngYVELCz-wxz7u34KCVw67fGQlsUlx6fo2RfWAJmQ/edit?usp=sharing"> o1-technical report (notes for [video](https://www.bilibili.com/video/BV15Rx5eXEnW)) </a> <br>
