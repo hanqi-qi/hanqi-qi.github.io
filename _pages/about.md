@@ -103,7 +103,7 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 </div>
 
 <div class="publication-list">
-    <div class="paper-box-text application" markdown="1">
+  <div class="paper-box-text representation interpretability" markdown="1">
   <b style="color:#783F04;">Thinking Hard, Going Misaligned: Emergent Misalignment in LLMs
   </b>
   \\
@@ -114,10 +114,8 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   <br>
   </div>
 
-<div class="publication-list">
-    <div class="paper-box-text application" markdown="1">
-  <b style="color:#783F04;">CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation
-  </b>
+  <div class="paper-box-text application representation" markdown="1">
+  <b style="color:#783F04;">CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation</b>
   \\
   Z. Shen, **H. Yan**, L. Zhang, Y. Du, Y. He\\
   **EMNLP25** | [Paper](https://arxiv.org/abs/2502.21074)
@@ -126,8 +124,7 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   <br>
   </div>
   
-<div class="publication-list">
-    <div class="paper-box-text application" markdown="1">
+  <div class="paper-box-text application" markdown="1">
   <b style="color:#783F04;">Position: LLMs Need a Bayesian Meta-Reasoning Framework for More Robust and Generalizable Reasoning
   </b>
   \\
@@ -277,6 +274,7 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   **ACL21, Oral** |  [Paper](https://aclanthology.org/2021.acl-long.261.pdf)<br>
   <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Causality</span> <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span> 
   </div>
+</div>
 
 
 # 📝 Notes 
