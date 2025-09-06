@@ -29,7 +29,7 @@ I am always on the lookout for excellent PhD students to work with me about LLM 
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
 09.2025: 🔥 A joint tutorial "Structured Representation Learning: Interpretability, Robustness and Transferability for Large Language Models" is accepted by <strong>AAAI-26</strong>. See you in Singapore! <br>
-09.2025: A new work on safety vulnerabilities in reasoning-intensive setups—like think-mode or fine-tuning on narrow math tasks is released! <strong>"Thinking Hard, Going Misaligned: Emergent Misalignment in LLMs"</strong>strong> <br>
+09.2025: 🔥 A new work on safety vulnerabilities in reasoning-intensive setups—like think-mode or fine-tuning on narrow math tasks is released! <strong>"Thinking Hard, Going Misaligned: Emergent Misalignment in LLMs"</strong>strong> <br>
 09.2025: 🔥 I started the lecturer position at KCL. Looking forward to more challenges and opportunities ahead! <br>
 07.2025: I go to Vienna, Austria🇦🇹 to present our faithful rationale generation and RAG papers accepted at <strong>ACL 2025</strong>. 🏞️ Excited to escape city life and explore Gosau & Hallstatt! <br>
 07.2025: I go to Vancouver, Canada🇨🇦 to present our LLM reasoning papers accepted at <strong>ICML 2025</strong>. 🍜 Can’t wait to revisit my favorite Chinese restaurant there! <br>
