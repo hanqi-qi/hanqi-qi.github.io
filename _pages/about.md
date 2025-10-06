@@ -108,11 +108,11 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 
 <div class="publication-list">
   <div class="paper-box-text representation interpretability" markdown="1">
-  <b style="color:#783F04;">Thinking Hard, Going Misaligned: Emergent Misalignment in LLMs
+  <b style="color:#783F04;">When THINKING BACKFIRES: MECHANISTIC INSIGHTS INTO REASONING-INDUCED MISALIGNMENT
   </b>
   \\
-  **H. Yan**, H. Xu, Y. He\\
-  **Preprint** | [Paper](https://arxiv.org/abs/2509.00544v1)
+  H. Xu, **H. Yan**, S. Qi, S. Yang, Y. He\\
+  **Preprint** | [Paper](https://arxiv.org/pdf/2509.00544)
   <br>
   <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>
   <br>
