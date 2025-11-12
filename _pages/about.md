@@ -28,12 +28,14 @@ I am always on the lookout for excellent PhD students to work with me about LLM 
 - K-CSC (for Chinese nationals). These funding allocations are for full fees and a living stipend (London weighted).
 - [Alternative fundings](https://www.kcl.ac.uk/study/postgraduate-research/funding/scholarships-and-studentships).
 
-# 🔥 News
+# News
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-09.2025: 🔥 A joint tutorial "Structured Representation Learning: Interpretability, Robustness and Transferability for Large Language Models" is accepted by <strong>AAAI-26</strong>. See you in Singapore! <br>
-09.2025: 🔥 A new work on safety vulnerabilities in reasoning-intensive setups—like think-mode or fine-tuning on narrow math tasks is released! <strong>"Thinking Hard, Going Misaligned: Emergent Misalignment in LLMs"</strong> <br>
-09.2025: 🔥 I started the lecturer position at KCL. Looking forward to more challenges and opportunities ahead! <br>
+11.2025: I go to Suzhou, China  to present our CODI (implicit CoT) and GraphMind (Paper novelty assessment demo) <br>
+11.2025: Zhanghao's paper "Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation" accepted to <strong>AAAI oral</strong>strong> !!! <br>
+09.2025: A joint tutorial "Structured Representation Learning: Interpretability, Robustness and Transferability for Large Language Models" is accepted by <strong>AAAI-26</strong>. See you in Singapore! <br>
+09.2025: A new work on safety vulnerabilities in reasoning-intensive setups—like think-mode or fine-tuning on narrow math tasks is released! <strong>"Thinking Hard, Going Misaligned: Emergent Misalignment in LLMs"</strong> <br>
+09.2025: I started the lecturer position at KCL. Looking forward to more challenges and opportunities ahead! <br>
 08.2025: 1*EMNLP paper is accepted. CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation. <br>
 07.2025: I go to Vienna, Austria🇦🇹 to present our faithful rationale generation and RAG papers accepted at <strong>ACL 2025</strong>. 🏞️ Excited to escape city life and explore Gosau & Hallstatt! <br>
 07.2025: I go to Vancouver, Canada🇨🇦 to present our LLM reasoning papers accepted at <strong>ICML 2025</strong>. 🍜 Can’t wait to revisit my favorite Chinese restaurant there! <br>
@@ -63,37 +65,18 @@ I am always on the lookout for excellent PhD students to work with me about LLM 
 10.2020: I start my PhD📚 journey at University of Warwick, UK🇬🇧. <br>
 </div>
 
-# 👩‍🏫 Professional Service
-
-  - Organiser
-    - PreTrain 2025: Spotlight on ACL/ICML/ICLR at KCL
-    - Co-Chair of the AACL22-Student Research Workshop
-  - Area Chair:
-    - ACL25, EMNLP25 
-  - Reviewers:
-    - NLP: AACL, NAACL, EACL, EMNLP, ACL, COLM25
-    - AI/ML: UAI, AISTATS, NEURIPS, ICLR, ICML, AAAI26
-    - Journal: NeuroComputing, TOIS, TMLR, Transactions on Big Data, Transactions on Artificial Intelligence.
-
-# 💬 Invited Talks
-- 08/2025. <strong> Thomson Reuters, Foundational Research Team </strong> invited by Jonathan Richard Schwarz.[Towards More Robust Reasoning for LLMs](https://drive.google.com/file/d/1g24BX-9eICdkmfOrRD5i9z4UnVRuN5Jd/view?usp=sharing)
-- 07/2024. <strong> Fudan University, NLP Group </strong>. [Representation Learning and Mechanistic Interpretability](https://drive.google.com/file/d/1_fem-cZ6sCda8iTE-PjvmgEWFTeuGDbl/view?usp=sharing)
-- 03/2023. <strong> Turing AI Fellowship Event </strong>, London, Distinguishability Calibration to In-Context Learning 
-- 04/2022. <strong> UKRI Fellows Workshop </strong>, University of Edinburgh, Interpreting Long Documents and Recommendation Systems via Latent Variable Models
-- 07/2021. <strong> SPAAM Seminar. University of Warwick. Emotion Cause detection. 
-
-# 🔍 Research Summary
+# Research Summary
 
 My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** and **reliability** of different NLP models, with 10+ **(co-)first-authored** papers published at top-tier venues: 
-- Mechanistic interpretability (neuron-level) in language models and multi-modal models [[**EMNLP24**](https://arxiv.org/pdf/2406.17969),[**NeurIPS24-RBMF**](https://asu-apg.github.io/rbfm/)], explaining the conflicts between safety and reasoning advancement [[**Preprint**](https://arxiv.org/abs/2509.00544v1)]; self-explainable models with a conceptualised layer linking the input and decision layer [[**Computational Linguistics 22**](https://aclanthology.org/2022.cl-4.17/),[**TKDE24**](https://arxiv.org/abs/2305.05331)]. 
+- Mechanistic interpretability (neuron-level) in language models and multi-modal models [[**EMNLP24**](https://arxiv.org/pdf/2406.17969),[**NeurIPS24-RBMF**](https://asu-apg.github.io/rbfm/)], explaining the conflicts between safety and reasoning advancement [[**Neurips25-MI**](https://arxiv.org/abs/2509.00544v1)]; self-explainable models with a conceptualised layer linking the input and decision layer [[**Computational Linguistics 22**](https://aclanthology.org/2022.cl-4.17/),[**TKDE24**](https://arxiv.org/abs/2305.05331)]. 
 - Empirical and principled methods to enhance model robustness over various test inputs, e.g., position bias [[ACL24-findings](https://aclanthology.org/2024.findings-acl.386/),[**ACL21-oral**](https://aclanthology.org/2021.acl-long.261.pdf)],  distribution shifts [[**NeurIPS23**](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)] and 
 representation inefficiency in transformer-based models [[**EMNLP24**](https://arxiv.org/pdf/2406.17969),[**EACL23-findings**](https://aclanthology.org/2023.findings-eacl.102/),[**UAI22-spotlight**](https://proceedings.mlr.press/v180/yan22b.html)]. 
 - Understanding and enhancing LM's reasoning capabilities via injecting external knowledge[[**ACL21-oral**](https://arxiv.org/abs/2106.03518)][[**ACL25**](https://openreview.net/pdf?id=bOFGdbXdKV)], weak supervision [[EMNLP24](https://arxiv.org/abs/2406.18245)], applying a self-refinement mechanism for factual knowledge reasoning [[**ACL24**](https://aclanthology.org/2024.acl-long.382/)]. More recently focus in the two directions:
-  - Science literature understanding, such as code generation for scientific paper replication on our own [SciReplicate-Bench](https://arxiv.org/abs/2504.00255) and novelty assessment.
-  - Reasoning in latent space, such as a position paper at [**ICML25**](https://openreview.net/pdf?id=RrvhbxO2hd) about meta-reasoning, [CODI](https://arxiv.org/abs/2502.21074) in implicit CoT, in retrieved-based QA [[ACL25](https://arxiv.org/abs/2503.01606)], navigating search in latent space [[ICML25spotlight](https://openreview.net/pdf?id=Pp90xRxITT)] and sparse feature for preference optimization [[ICML25](https://arxiv.org/abs/2411.07618)].
+  - LLM agent for scientific liteture understanding, such as code generation for scientific paper replication on our own [SciReplicate-Bench](https://arxiv.org/abs/2504.00255) and novelty assessment [GraphMind](https://arxiv.org/abs/2510.15706).
+  - Reasoning in latent space, such as a position paper at [**ICML25**](https://openreview.net/pdf?id=RrvhbxO2hd) about meta-reasoning, [EMNLP25](https://arxiv.org/abs/2502.21074) in implicit CoT, in retrieved-based QA [[ACL25](https://arxiv.org/abs/2503.01606)] [[AAAI25 oral](https://arxiv.org/abs/2508.05909)], navigating search in latent space [[ICML25spotlight](https://openreview.net/pdf?id=Pp90xRxITT)] and sparse feature for preference optimization [[ICML25](https://arxiv.org/abs/2411.07618)].
 
 <div id="mentee" markdown="1">
-# 💬 Mentee (Current PhD students in KCL NLP Group)
+# Mentee (Current PhD students in KCL NLP Group)
   
 - **LLM reasoning** 
     - Qinglin Zhu (latent reasoning), Zhanghao Hu (RAG), Zhenyi Shen (implicit CoT), Jiangnan Ye (efficiency) 
@@ -101,8 +84,25 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
     - Jiazheng Li (faithful explaination), Hainiu Xu (mechanistic interpretability) 
 - **LLM agent for scientific literature understanding** 
     - Yanzheng Xiang (code generation), Italo Da Silva (Hypothesis assessment)
-
 </div>
+
+# Professional Service
+  - Organiser
+    - PreTrain 2025: Spotlight on ACL/ICML/ICLR at KCL
+    - Co-Chair of the AACL22-Student Research Workshop
+  - Area Chair:
+    - ACL, EMNLP, EACL
+  - Reviewers:
+    - NLP: AACL, NAACL, EACL, EMNLP, ACL, COLM
+    - AI/ML: UAI, AISTATS, NEURIPS, ICLR, ICML, AAAI
+    - Journal: NeuroComputing, TOIS, TMLR, Transactions on Big Data, Transactions on Artificial Intelligence.
+
+# 💬 Invited Talks
+- 08/2025. <strong> Thomson Reuters, Foundational Research Team </strong> invited by Jonathan Richard Schwarz.[Towards More Robust Reasoning for LLMs](https://drive.google.com/file/d/1g24BX-9eICdkmfOrRD5i9z4UnVRuN5Jd/view?usp=sharing)
+- 07/2024. <strong> Fudan University, NLP Group </strong>. [Representation Learning and Mechanistic Interpretability](https://drive.google.com/file/d/1_fem-cZ6sCda8iTE-PjvmgEWFTeuGDbl/view?usp=sharing)
+- 03/2023. <strong> Turing AI Fellowship Event </strong>, London, Distinguishability Calibration to In-Context Learning 
+- 04/2022. <strong> UKRI Fellows Workshop </strong>, University of Edinburgh, Interpreting Long Documents and Recommendation Systems via Latent Variable Models
+- 07/2021. <strong> SPAAM Seminar. University of Warwick. Emotion Cause detection.
 
 # 📝 Publications 
 
@@ -128,6 +128,30 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>
   <br>
   </div>
+
+    <div class="paper-box-text representation application" markdown="1">
+  <b style="color:#783F04;"> Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation
+  </b>
+  \\
+  Z.Hu, Q.Zhu, S. Qi, Y. He, **H. Yan**, L. Gui\\
+  **AAAI25 Oral** | [Paper](https://arxiv.org/abs/2508.05909)
+  <br>
+<span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span>   <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span> 
+  <br>
+  </div>
+
+  <div class="paper-box-text  application" markdown="1">
+  <b style="color:#783F04;"> GraphMind: Interactive Novelty Assessment System for Accelerating Scientific Discovery
+  </b>
+  \\
+  I. Silva, **H. Yan**, L. Gui, Y. He \\
+  **EMNLP25 Demo** | [Paper](https://arxiv.org/abs/2510.15706)
+  <br>
+<span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span> 
+  <br>
+  </div>
+  
+  
 
   <div class="paper-box-text application representation" markdown="1">
   <b style="color:#783F04;">CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation</b>
