@@ -92,6 +92,16 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   - Science literature understanding, such as code generation for scientific paper replication on our own [SciReplicate-Bench](https://arxiv.org/abs/2504.00255) and novelty assessment.
   - Reasoning in latent space, such as a position paper at [**ICML25**](https://openreview.net/pdf?id=RrvhbxO2hd) about meta-reasoning, [CODI](https://arxiv.org/abs/2502.21074) in implicit CoT, in retrieved-based QA [[ACL25](https://arxiv.org/abs/2503.01606)], navigating search in latent space [[ICML25spotlight](https://openreview.net/pdf?id=Pp90xRxITT)] and sparse feature for preference optimization [[ICML25](https://arxiv.org/abs/2411.07618)].
 
+<div id="mentee" markdown="1">
+# 💬 Mentee (Current PhD students in KCL NLP Group)
+**LLM reasoning** <br>
+- Qinglin Zhu (latent reasoning), Zhanghao Hu (RAG), Zhenyi Shen (implicit CoT), Jiangnan Ye (efficiency) <br>
+**Explainable AI** <br>
+- Jiazheng Li (faithful explaination), Hainiu Xu (mechanistic interpretability) <br>
+LLM agent for scientific literature understanding <br>
+- Yanzheng Xiang (code generation), Italo Da Silva (Hypothesis assessment)
+
+</div>
 
 # 📝 Publications 
 
@@ -280,17 +290,7 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   </div>
 </div>
 
-<div id="mentee" markdown="1">
-# 💬 Mentee before Lectureship
-- <strong> PhD students </strong>.\\
-  - 2*scientific literature understanding (accepted by [COLM25](https://arxiv.org/abs/2504.00255) and in submission).
-  - 2* explainable AI (language and multimodal model). (accepted by [ACL25](https://openreview.net/pdf?id=bOFGdbXdKV) and in submission)
-  - 3* robust LLM reasoning (accepted by [ACL24-findings](https://arxiv.org/pdf/2402.15637v2)/[ACL25](https://arxiv.org/abs/2503.01606) and in [submission](https://arxiv.org/abs/2502.21074)).
-  - 1* event extraction (accepted by [EMNLP24](https://arxiv.org/abs/2406.18245))
-- <strong> Master students </strong>. \\
-  - 1*rank efficiency in transformer representation (accepted by [EACL23-findings](https://aclanthology.org/2023.findings-eacl.102/)).
-  - 5*explainable AI (cognition perspective).
-</div>
+
 
 
 # 📝 Notes 
