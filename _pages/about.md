@@ -94,12 +94,13 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 
 <div id="mentee" markdown="1">
 # 💬 Mentee (Current PhD students in KCL NLP Group)
-**LLM reasoning** <br>
-- Qinglin Zhu (latent reasoning), Zhanghao Hu (RAG), Zhenyi Shen (implicit CoT), Jiangnan Ye (efficiency) <br>
-**Explainable AI** <br>
-- Jiazheng Li (faithful explaination), Hainiu Xu (mechanistic interpretability) <br>
-LLM agent for scientific literature understanding <br>
-- Yanzheng Xiang (code generation), Italo Da Silva (Hypothesis assessment)
+  
+- **LLM reasoning** 
+    - Qinglin Zhu (latent reasoning), Zhanghao Hu (RAG), Zhenyi Shen (implicit CoT), Jiangnan Ye (efficiency) 
+- **Explainable AI** 
+    - Jiazheng Li (faithful explaination), Hainiu Xu (mechanistic interpretability) 
+- **LLM agent for scientific literature understanding** 
+    - Yanzheng Xiang (code generation), Italo Da Silva (Hypothesis assessment)
 
 </div>
 
