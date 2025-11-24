@@ -32,11 +32,11 @@ I am always on the lookout for excellent PhD students to work with me about LLM 
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
 11.2025: I go to Suzhou, China  to present our CODI (implicit CoT) and GraphMind (Paper novelty assessment demo) <br>
-11.2025: Zhanghao's paper "Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation" accepted to <strong>AAAI oral</strong>strong> !!! <br>
-09.2025: A joint tutorial "Structured Representation Learning: Interpretability, Robustness and Transferability for Large Language Models" is accepted by <strong>AAAI-26</strong>. See you in Singapore! <br>
-09.2025: A new work on safety vulnerabilities in reasoning-intensive setups—like think-mode or fine-tuning on narrow math tasks is released! <strong>"Thinking Hard, Going Misaligned: Emergent Misalignment in LLMs"</strong> <br>
+11.2025: Zhanghao's paper "Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation" accepted to <strong> AAAI26 oral </strong> ! <br>
+09.2025: A joint tutorial "Structured Representation Learning: Interpretability, Robustness and Transferability for Large Language Models" is accepted by <strong> AAAI26 </strong>. See you in Singapore! <br>
+09.2025: Paper "Thinking Hard, Going Misaligned: Emergent Misalignment in LLMs" accepted to Neurips25-Mechanistic Interpretability Workshop <br>
 09.2025: I started the lecturer position at KCL. Looking forward to more challenges and opportunities ahead! <br>
-08.2025: 1*EMNLP paper is accepted. CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation. <br>
+08.2025: 2*EMNLP paper is accepted. CODI (implicit CoT) and GraphMind(LLM for novelty assessment, demo) <br>
 07.2025: I go to Vienna, Austria🇦🇹 to present our faithful rationale generation and RAG papers accepted at <strong>ACL 2025</strong>. 🏞️ Excited to escape city life and explore Gosau & Hallstatt! <br>
 07.2025: I go to Vancouver, Canada🇨🇦 to present our LLM reasoning papers accepted at <strong>ICML 2025</strong>. 🍜 Can’t wait to revisit my favorite Chinese restaurant there! <br>
 07.2025: 1*paper, SciReplicate-Bench, accepted by COLM25, a benchmark for paper replication via code generation. <br>
