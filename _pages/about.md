@@ -23,9 +23,10 @@ redirect_from:
 I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT](https://yifeiwang77.com/), [MBZUAI](https://chengy12.github.io/), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en),[University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support.
 
 
-I am always on the lookout for excellent PhD students to work with me about LLM reasoning, robustenss, interpretability etc. 
+I am always on the lookout for excellent visiting/PhD students to work with me about LLM reasoning, safety, interpretability etc. 
 - Fully-funded positions for exceptional candidates through KCL scholarships. These funding allocations are for full fees and a living stipend (London weighted) for any nationality.
-- K-CSC (for Chinese nationals). These funding allocations are for full fees and a living stipend (London weighted).
+- [K-CSC](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) (for Chinese nationals). These funding allocations are for full fees and a living stipend (London weighted).
+- CDT (EPSRC Centre for Doctoral Training, 4year fully funded): [Driven-Health](https://showcase.drive-health.org.uk/project/genai-for-early-detection-of-treatment-resistance-and-fair-access-to-clozapine-in-schizophrenia/)
 - [Alternative fundings](https://www.kcl.ac.uk/study/postgraduate-research/funding/scholarships-and-studentships).
 
 # News
