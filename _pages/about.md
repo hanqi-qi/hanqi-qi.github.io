@@ -25,8 +25,8 @@ I’ve been incredibly lucky to have a number of amazing collaborators and mento
 
 I am always on the lookout for excellent visiting/PhD students to work with me about LLM reasoning, safety, interpretability etc. 
 - Fully-funded positions for exceptional candidates through KCL scholarships. These funding allocations are for full fees and a living stipend (London weighted) for any nationality.
-- [K-CSC](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) (for Chinese nationals). These funding allocations are for full fees and a living stipend (London weighted).
-- CDT (EPSRC Centre for Doctoral Training, 4year fully funded): [Driven-Health](https://showcase.drive-health.org.uk/project/genai-for-early-detection-of-treatment-resistance-and-fair-access-to-clozapine-in-schizophrenia/)
+- PhD Opening: One [K-CSC](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) (for Chinese nationals) is available. Deadline: 1st January 2026.
+- PhD Openining: One Position "GenAI for Early Detection of Treatment Resistance and Fair Access to Clozapine in Schizophrenia" through the EPSRC [DRIVE-Health](https://showcase.drive-health.org.uk/project/genai-for-early-detection-of-treatment-resistance-and-fair-access-to-clozapine-in-schizophrenia/) CDT is available. Deadline: 12 January 2026.
 - [Alternative fundings](https://www.kcl.ac.uk/study/postgraduate-research/funding/scholarships-and-studentships).
 
 # News
