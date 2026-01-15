@@ -74,18 +74,23 @@ My research interests lie in the intersection of Machine Learning and Natural La
 - Empirical and principled methods to enhance model robustness over various test inputs, e.g., position bias [[ACL24-findings](https://aclanthology.org/2024.findings-acl.386/),[**ACL21-oral**](https://aclanthology.org/2021.acl-long.261.pdf)],  distribution shifts [[**NeurIPS23**](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)] and 
 representation inefficiency in transformer-based models [[**EMNLP24**](https://arxiv.org/pdf/2406.17969),[**EACL23-findings**](https://aclanthology.org/2023.findings-eacl.102/),[**UAI22-spotlight**](https://proceedings.mlr.press/v180/yan22b.html)]. 
 - Understanding and enhancing LM's reasoning capabilities via injecting external knowledge[[**ACL21-oral**](https://arxiv.org/abs/2106.03518)][[**ACL25**](https://openreview.net/pdf?id=bOFGdbXdKV)], weak supervision [[EMNLP24](https://arxiv.org/abs/2406.18245)], applying a self-refinement mechanism for factual knowledge reasoning [[**ACL24**](https://aclanthology.org/2024.acl-long.382/)]. More recently focus in the two directions:
-  - LLM agent for scientific liteture understanding, such as code generation for scientific paper replication on our own [SciReplicate-Bench](https://arxiv.org/abs/2504.00255) and novelty assessment [GraphMind](https://arxiv.org/abs/2510.15706).
+  - LLM agent for scientific literature understanding, such as code generation for scientific paper replication on our own [SciReplicate-Bench](https://arxiv.org/abs/2504.00255) and novelty assessment [GraphMind](https://arxiv.org/abs/2510.15706).
   - Reasoning in latent space, such as a position paper at [**ICML25**](https://openreview.net/pdf?id=RrvhbxO2hd) about meta-reasoning, [EMNLP25](https://arxiv.org/abs/2502.21074) in implicit CoT, in retrieved-based QA [[ACL25](https://arxiv.org/abs/2503.01606)] [[AAAI25 oral](https://arxiv.org/abs/2508.05909)], navigating search in latent space [[ICML25spotlight](https://openreview.net/pdf?id=Pp90xRxITT)] and sparse feature for preference optimization [[ICML25](https://arxiv.org/abs/2411.07618)].
 
 <div id="mentee" markdown="1">
 # Mentee (Current PhD students in KCL NLP Group)
   
 - **LLM reasoning** 
-    - Qinglin Zhu (latent reasoning), Zhanghao Hu (RAG), Zhenyi Shen (implicit CoT), Jiangnan Ye (efficiency) 
+    - Qinglin Zhu (latent reasoning)
+    - Zhanghao Hu (RAG)
+    - Zhenyi Shen (implicit CoT)
+    - Jiangnan Ye (efficiency) 
 - **Explainable AI** 
-    - Jiazheng Li (faithful explaination), Hainiu Xu (mechanistic interpretability) 
+    - Jiazheng Li (faithful explanation)
+    - Hainiu Xu (mechanistic interpretability) 
 - **LLM agent for scientific literature understanding** 
-    - Yanzheng Xiang (code generation), Italo Da Silva (Hypothesis assessment)
+    - Yanzheng Xiang (code generation & diffusion model)
+    - Italo Da Silva (Hypothesis assessment)
 </div>
 
 # Professional Service
@@ -93,11 +98,20 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
     - PreTrain 2025: Spotlight on ACL/ICML/ICLR at KCL
     - Co-Chair of the AACL22-Student Research Workshop
   - Area Chair:
-    - ACL, EMNLP, EACL
+    - ACL,
+    - EMNLP
+    - EACL
+    - NAACL
   - Reviewers:
     - NLP: AACL, NAACL, EACL, EMNLP, ACL, COLM
     - AI/ML: UAI, AISTATS, NEURIPS, ICLR, ICML, AAAI
-    - Journal: NeuroComputing, TOIS, TMLR, Transactions on Big Data, Transactions on Artificial Intelligence.
+    - Journal:
+        - NeuroComputing
+        - ACM Transactions on Information Systems
+        - Transactions on Machine Learning Research
+        - Transactions on Big Data
+        - Transactions on Artificial Intelligence
+        - Journal of Selected Topics in Signal Processing
 
 # 💬 Invited Talks
 - 08/2025. <strong> Thomson Reuters, Foundational Research Team </strong> invited by Jonathan Richard Schwarz.[Towards More Robust Reasoning for LLMs](https://drive.google.com/file/d/1g24BX-9eICdkmfOrRD5i9z4UnVRuN5Jd/view?usp=sharing)
