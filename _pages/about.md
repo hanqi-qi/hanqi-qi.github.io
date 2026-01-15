@@ -18,12 +18,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Hanqi Yan** is a lecturer (Assistant Professor) at [King's College London](https://www.kcl.ac.uk/people/hanqi-yan), Department of Informatics, affliated with the [NLP group](https://kclnlp.github.io/index.html).  Before that, she was the postdoctoral researcher in the same department (2024-2025). She mainly focuses on interpretability and robustness for language models on various reasoning tasks, especially from the representation learning perspective. She has published more than 10+ papers as (co-)first author on related topics in top conferences, such as ACL, EMNLP, NeurIPS, ICML. She serves as area chair for ACL, EMNLP, and co-organized the student workshop at AACL2022. She obtained her Ph.D from the University of Warwick(2024), advised by [Prof. Yulan He](https://sites.google.com/view/yulanhe/home) and [Dr. Lin Gui](https://sites.google.com/view/lin-gui/about-me), Msc and BEng from Peking University (2020) and Beihang University (2017).
+**Hanqi Yan** is a lecturer (Assistant Professor) at [King's College London](https://www.kcl.ac.uk/people/hanqi-yan), Department of Informatics, affliated with the [NLP group](https://kclnlp.github.io/index.html).  Before that, she was a postdoctoral researcher in the same department (2024-2025). She mainly focuses on interpretability and robustness for language models on various reasoning tasks, especially from the representation learning perspective. She has published more than 10+ papers as (co-)first author on related topics in top conferences, such as ACL, EMNLP, NeurIPS, ICML. She serves as area chair for ACL, EMNLP, EACL, NAACL and co-organized the student workshop at AACL2022. She obtained her Ph.D from the University of Warwick(2024), advised by [Prof. Yulan He](https://sites.google.com/view/yulanhe/home) and [Dr. Lin Gui](https://sites.google.com/view/lin-gui/about-me), Msc and BEng from Peking University (2020) and Beihang University (2017).
 
 I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT/PKU](https://yifeiwang77.com/), [MBZUAI/Tsinghua](https://chengy12.github.io/), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en), [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support.
 
 
-I am always on the lookout for excellent visiting/PhD students to work with me about LLM reasoning, safety, interpretability etc. 
+I am always on the lookout for excellent visiting/PhD students to work with me on LLM reasoning, safety, interpretability, etc. 
 - Fully-funded positions for exceptional candidates through KCL scholarships. These funding allocations are for full fees and a living stipend (London weighted) for any nationality.
 - PhD Opening: One [K-CSC](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) (for Chinese nationals) is available. Deadline: 1st January 2026.
 - PhD Opening: One Position "GenAI for Early Detection of Treatment Resistance and Fair Access to Clozapine in Schizophrenia" through the EPSRC [DRIVE-Health](https://showcase.drive-health.org.uk/project/genai-for-early-detection-of-treatment-resistance-and-fair-access-to-clozapine-in-schizophrenia/) CDT is available. Deadline: 12 January 2026.
@@ -33,7 +33,7 @@ I am always on the lookout for excellent visiting/PhD students to work with me a
 # News
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-11.2025: I go to Suzhou, China  to present our CODI (implicit CoT) and GraphMind (Paper novelty assessment demo) <br>
+11.2025: I go to Suzhou, China🇨🇳  to present our CODI (implicit CoT) and GraphMind (Paper novelty assessment demo) <br>
 11.2025: Zhanghao's paper "Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation" accepted to <strong> AAAI26 oral </strong> ! <br>
 09.2025: A joint tutorial "Structured Representation Learning: Interpretability, Robustness and Transferability for Large Language Models" is accepted by <strong> AAAI26 </strong>. See you in Singapore! <br>
 09.2025: Paper "Thinking Hard, Going Misaligned: Emergent Misalignment in LLMs" accepted to Neurips25-Mechanistic Interpretability Workshop <br>
