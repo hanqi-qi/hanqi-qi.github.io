@@ -35,6 +35,9 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 # News
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+01.2026: I give a talk at NTU about "structure representation learning for LLM thinking in the latent space", host by Prof. Wei Lu <br>
+01.2026: A paper "When THINKING BACKFIRES: MECHANISTIC INSIGHTS INTO REASONING-INDUCED MISALIGNMENT" is accepted to ICLR26. My first 1st author ICLR paper <br>
+01.2026: I go to Singapore to give a tutorial at AAAI26🇸🇬. <br>
 11.2025: I go to Suzhou, China🇨🇳  to present our CODI (implicit CoT) and GraphMind (Paper novelty assessment demo) <br>
 11.2025: Zhanghao's paper "Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation" accepted to <strong> AAAI26 oral </strong> ! <br>
 09.2025: A joint tutorial "Structured Representation Learning: Interpretability, Robustness and Transferability for Large Language Models" is accepted by <strong> AAAI26 </strong>. See you in Singapore! <br>
@@ -141,8 +144,8 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   <b style="color:#783F04;">When THINKING BACKFIRES: MECHANISTIC INSIGHTS INTO REASONING-INDUCED MISALIGNMENT
   </b>
   \\
-  H. Xu, **H. Yan**, S. Qi, S. Yang, Y. He\\
-  **Preprint** | [Paper](https://arxiv.org/pdf/2509.00544)
+  **H. Yan**, H, Xu*, S. Qi, S. Yang, Y. He\\
+  **ICLR26** | [Paper](https://arxiv.org/pdf/2509.00544)
   <br>
   <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>
   <br>
