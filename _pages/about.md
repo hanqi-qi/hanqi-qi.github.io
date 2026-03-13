@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## short Bio
+## Short Bio
 
 **Hanqi Yan** is a lecturer (Assistant Professor) at [King's College London](https://www.kcl.ac.uk/people/hanqi-yan), Department of Informatics, affiliated with the [NLP group](https://kclnlp.github.io/index.html).  Before that, she was a postdoctoral researcher in the same department (2024-2025). She mainly focuses on interpretability and robustness for language models on various reasoning tasks, especially from the representation learning perspective. She has published more than 10+ papers as (co-)first author on related topics in top conferences, such as ACL, EMNLP, NeurIPS, ICML. She serves as area chair for ACL, EMNLP, EACL, NAACL and co-organized the student workshop at AACL2022. She obtained her Ph.D from the University of Warwick(2024), Msc and BEng from Peking University (2020) and Beihang University (2017).
 
@@ -29,9 +29,9 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 # News
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-03.2026: I deliver a masterclass at STAI-CDT at KCL about "structured representation learning for latent thinking."
-03.2026: I give a research talk about "limitation of LLMs' reasoning and agency" at the Royal Society for ""AI for and with Humans" workshop. 
-01&02.2026: I give talks at NTU, SUSTeach, and the University of Queensland about "structured representation learning for latent thinking".
+03.2026: I deliver a masterclass at STAI-CDT at KCL about "structured representation learning for latent thinking." <br>
+03.2026: I give a research talk about "limitation of LLMs' reasoning and agency" at the Royal Society for ""AI for and with Humans" workshop. <br>
+01&02.2026: I give talks at NTU, SUSTeach, and the University of Queensland about "structured representation learning for latent thinking". <br>
 01.2026: A paper "When THINKING BACKFIRES: MECHANISTIC INSIGHTS INTO REASONING-INDUCED MISALIGNMENT" is accepted to ICLR26. My first 1st author ICLR paper <br>
 01.2026: I go to Singapore to give a tutorial at AAAI26🇸🇬. <br>
 11.2025: I go to Suzhou, China🇨🇳  to present our CODI (implicit CoT) and GraphMind (Paper novelty assessment demo) <br>
