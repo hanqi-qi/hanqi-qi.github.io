@@ -3,7 +3,9 @@ main:
     url: /openings/
   - title: "Publications"
     url: /publication/
-  - title: "service"
+  - title: "Service"
     url: /service/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Notes"
     url: /notes/
