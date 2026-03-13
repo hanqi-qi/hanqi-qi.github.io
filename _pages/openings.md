@@ -12,3 +12,19 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 " through the [STaR-AI CDT](https://www.findaphd.com/phds/project/from-one-size-fits-all-to-audience-aware-personalized-explainable-ai-for-decision-making/?p193523) is available. Deadline: 2 March 2026.
 - [Joint PhD Scholarships 2026/27](https://www.kcl.ac.uk/study-legacy/funding/joint-phd-scholarship). Partner Universities: The University of Hong Kong/Humboldt University, Berlin/The National University of Singapore/The University of Sao Paulo. Deadline: 5 February 2026
 - [Alternative fundings](https://www.kcl.ac.uk/study/postgraduate-research/funding/scholarships-and-studentships).
+
+
+<div id="mentee" markdown="1">
+# Current PhD students in KCL NLP Group
+- **LLM reasoning** 
+    - Qinglin Zhu (latent reasoning)
+    - Zhanghao Hu (RAG)
+    - Zhenyi Shen (implicit CoT)
+    - Jiangnan Ye (efficiency) 
+- **Explainable AI** 
+    - Jiazheng Li (faithful explanation)
+    - Hainiu Xu (mechanistic interpretability) 
+- **LLM agent for scientific literature understanding** 
+    - Yanzheng Xiang (code generation & diffusion model)
+    - Italo Da Silva (Hypothesis assessment)
+</div>
