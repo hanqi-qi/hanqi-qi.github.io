@@ -29,7 +29,7 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 # News
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-03.2026: I deliver a masterclass at STAI-CDT at KCL about "structured representation learning for latent thinking." <br>
+03.2026: I deliver a masterclass for PhD students at KCL: STAI-CDT about "structured representation learning for latent thinking." <br>
 03.2026: I give a research talk about "limitation of LLMs' reasoning and agency" at the Royal Society for ""AI for and with Humans" workshop. <br>
 01&02.2026: I give talks at NTU, SUSTeach, and the University of Queensland about "structured representation learning for latent thinking". <br>
 01.2026: A paper "When THINKING BACKFIRES: MECHANISTIC INSIGHTS INTO REASONING-INDUCED MISALIGNMENT" is accepted to ICLR26. My first 1st author ICLR paper <br>
