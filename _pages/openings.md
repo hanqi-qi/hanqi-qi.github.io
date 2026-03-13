@@ -20,7 +20,7 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
     - Qinglin Zhu (latent reasoning)
     - Zhanghao Hu (RAG)
     - Zhenyi Shen (implicit CoT)
-    - Jiangnan Ye (efficiency) 
+    - Jiangnan Ye (efficiency, co-supervised with Yulan He) 
 - **Explainable AI** 
     - Jiazheng Li (faithful explanation)
     - Hainiu Xu (mechanistic interpretability) 
@@ -28,6 +28,7 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
     - Yanzheng Xiang (code generation & diffusion model)
     - Italo Da Silva (Hypothesis assessment)
 </div>
+
 
 
 <!-- Basic Styling for Buttons and Papers -->
