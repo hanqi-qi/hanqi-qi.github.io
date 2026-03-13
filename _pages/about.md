@@ -64,44 +64,6 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   - LLM agent for scientific literature understanding, such as code generation for scientific paper replication on our own [SciReplicate-Bench](https://arxiv.org/abs/2504.00255) and novelty assessment [GraphMind](https://arxiv.org/abs/2510.15706).
   - Reasoning in latent space, such as a position paper at [**ICML25**](https://openreview.net/pdf?id=RrvhbxO2hd) about meta-reasoning, [EMNLP25](https://arxiv.org/abs/2502.21074) in implicit CoT, in retrieved-based QA [[ACL25](https://arxiv.org/abs/2503.01606)] [[AAAI25 oral](https://arxiv.org/abs/2508.05909)], navigating search in latent space [[ICML25spotlight](https://openreview.net/pdf?id=Pp90xRxITT)] and sparse feature for preference optimization [[ICML25](https://arxiv.org/abs/2411.07618)].
 
-# Professional Service
-  - Organiser
-    - PreTrain 2025: Spotlight on ACL/ICML/ICLR at KCL
-    - Co-Chair of the AACL22-Student Research Workshop
-  - Area Chair:
-    - ACL,
-    - EMNLP
-    - EACL
-    - NAACL
-  - Reviewers:
-    - NLP: AACL, NAACL, EACL, EMNLP, ACL, COLM
-    - AI/ML: UAI, AISTATS, NEURIPS, ICLR, ICML, AAAI
-    - Journal:
-        - NeuroComputing
-        - ACM Transactions on Information Systems
-        - Transactions on Machine Learning Research
-        - Transactions on Big Data
-        - Transactions on Artificial Intelligence
-        - Journal of Selected Topics in Signal Processing
-
-# Invited Talks
-- 01/2026. <strong> Nanyang Technological University </strong> invited by Prof. Wei Lu. [Structured Representation Learning for Latent Thinking in LLMs](https://drive.google.com/file/d/1Y0zHazNcY83YqlpYso-nedLjR8VoSAn2/view?usp=sharing)
-- 08/2025. <strong> Thomson Reuters, Foundational Research Team </strong> invited by Jonathan Richard Schwarz.[Towards More Robust Reasoning for LLMs](https://drive.google.com/file/d/1g24BX-9eICdkmfOrRD5i9z4UnVRuN5Jd/view?usp=sharing)
-- 07/2024. <strong> Fudan University, NLP Group </strong>. [Representation Learning and Mechanistic Interpretability](https://drive.google.com/file/d/1_fem-cZ6sCda8iTE-PjvmgEWFTeuGDbl/view?usp=sharing)
-- 03/2023. <strong> Turing AI Fellowship Event </strong>, London, Distinguishability Calibration to In-Context Learning 
-- 04/2022. <strong> UKRI Fellows Workshop </strong>, University of Edinburgh, Interpreting Long Documents and Recommendation Systems via Latent Variable Models
-- 07/2021. <strong> SPAAM Seminar. University of Warwick. Emotion Cause detection.
-
-
-# 📝 Notes 
-<a href="https://docs.google.com/document/d/1P7ngYVELCz-wxz7u34KCVw67fGQlsUlx6fo2RfWAJmQ/edit?usp=sharing"> o1-technical report (notes for [video](https://www.bilibili.com/video/BV15Rx5eXEnW)) </a> <br>
-<a href="https://docs.google.com/presentation/d/1choVI6HIOLpdAywFpWGFR8KMyex7-AhEhEzP_vTsF0Y/edit?usp=sharing"> Machine Unlearning via CausalLens and in NLP tasks</a> <br>
-<a href="https://github.com/hanqi-qi/Large_language_modeling/blob/main/Reading_Material.md">Reading List For Large Language Model</a><br>
-<a href="https://zhuanlan.zhihu.com/p/665841340">Identifiability101 in Causality (3rd PhD) </a> <br>
-<a href="https://zhuanlan.zhihu.com/p/652269984">Induction Head_ contribute to In-context Learning (3rd PhD) </a><br>
-<a href="https://github.com/hanqi-qi/NLPReadingGroup/blob/main/CausalInference/CausalInference_RS_hanqi.pdf">Recommendation with Causality (2nd PhD) </a><br>
-<a href="https://drive.google.com/file/d/1WbJzgHoN0WOF9Ul4cA5BrG9jDtT0DG1B/view">Causality101 (Feb 2022, 2nd PhD) </a> <br>
-<a href="https://drive.google.com/file/d/1uTS3FcM2ouBbusyKwmpi0YMKm2qOOmqi/view"> Explaining Neural Networks (Oct 2020 1st PhD) </a><br>
 
 
 
