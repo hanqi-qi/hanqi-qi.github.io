@@ -214,3 +214,50 @@ layout: single
   <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Causality</span> <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span> 
   </div>
 </div>
+
+
+<!-- JavaScript for Filtering -->
+<script>
+function filterPubs(category) {
+  var papers = document.getElementsByClassName('paper-box-text');
+  if (category == 'all') category = '';
+  
+  // Loop through all publications
+  for (var i = 0; i < papers.length; i++) {
+    if (papers[i].className.indexOf(category) > -1) {
+      papers[i].style.display = "block"; // Show if matches category
+    } else {
+      papers[i].style.display = "none";  // Hide if not
+    }
+  }
+}
+</script>
+
+<!-- Basic Styling for Buttons and Papers -->
+<style>
+  .filter-btn {
+    background-color: #ddd;
+    border: none;
+    padding: 8px 16px;
+    margin-right: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .filter-btn:hover {
+    background-color: #ccc;
+  }
+
+  .publication-list {
+    margin-top: 20px;
+  }
+
+  .paper-box-text {
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 0px solid #ccc;
+    border-radius: 0px;
+    display: block;
+}
+
+</style>
