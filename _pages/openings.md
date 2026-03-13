@@ -1,10 +1,8 @@
 ---
 permalink: /openings/
 title: "Openings"
-author_profile: true
+layout: single
 ---
-
-
 
 I am always on the lookout for excellent visiting/PhD students to work with me on LLM reasoning, safety, interpretability, etc. 
 - Fully-funded positions for exceptional candidates through KCL scholarships. These funding allocations are for full fees and a living stipend (London weighted) for any nationality.
