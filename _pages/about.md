@@ -64,22 +64,6 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
   - LLM agent for scientific literature understanding, such as code generation for scientific paper replication on our own [SciReplicate-Bench](https://arxiv.org/abs/2504.00255) and novelty assessment [GraphMind](https://arxiv.org/abs/2510.15706).
   - Reasoning in latent space, such as a position paper at [**ICML25**](https://openreview.net/pdf?id=RrvhbxO2hd) about meta-reasoning, [EMNLP25](https://arxiv.org/abs/2502.21074) in implicit CoT, in retrieved-based QA [[ACL25](https://arxiv.org/abs/2503.01606)] [[AAAI25 oral](https://arxiv.org/abs/2508.05909)], navigating search in latent space [[ICML25spotlight](https://openreview.net/pdf?id=Pp90xRxITT)] and sparse feature for preference optimization [[ICML25](https://arxiv.org/abs/2411.07618)].
 
-<div id="mentee" markdown="1">
-# Mentee (Current PhD students in KCL NLP Group)
-  
-- **LLM reasoning** 
-    - Qinglin Zhu (latent reasoning)
-    - Zhanghao Hu (RAG)
-    - Zhenyi Shen (implicit CoT)
-    - Jiangnan Ye (efficiency) 
-- **Explainable AI** 
-    - Jiazheng Li (faithful explanation)
-    - Hainiu Xu (mechanistic interpretability) 
-- **LLM agent for scientific literature understanding** 
-    - Yanzheng Xiang (code generation & diffusion model)
-    - Italo Da Silva (Hypothesis assessment)
-</div>
-
 # Professional Service
   - Organiser
     - PreTrain 2025: Spotlight on ACL/ICML/ICLR at KCL
