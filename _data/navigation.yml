@@ -1,12 +1,12 @@
-  - title: "Bio"
-    url: "/bio/"
+  - title: "Openings"
+    url: /openings/
   - title: "Research Summary"
-    url: "/research/"
+    url: /research/
   - title: "News"
-    url: "/news/"
+    url: /news/
   - title: "Publications"
-    url: "/publications/"
+    url: /publications/
   - title: "Professional Service"
-    url: "/service/"
+    url: /service/
   - title: "Notes"
-    url: "/notes/"
+    url: /notes/
