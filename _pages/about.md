@@ -118,7 +118,7 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
         - Transactions on Artificial Intelligence
         - Journal of Selected Topics in Signal Processing
 
-# 💬 Invited Talks
+# Invited Talks
 - 01/2026. <strong> Nanyang Technological University </strong> invited by Prof. Wei Lu. [Structured Representation Learning for Latent Thinking in LLMs](https://drive.google.com/file/d/1Y0zHazNcY83YqlpYso-nedLjR8VoSAn2/view?usp=sharing)
 - 08/2025. <strong> Thomson Reuters, Foundational Research Team </strong> invited by Jonathan Richard Schwarz.[Towards More Robust Reasoning for LLMs](https://drive.google.com/file/d/1g24BX-9eICdkmfOrRD5i9z4UnVRuN5Jd/view?usp=sharing)
 - 07/2024. <strong> Fudan University, NLP Group </strong>. [Representation Learning and Mechanistic Interpretability](https://drive.google.com/file/d/1_fem-cZ6sCda8iTE-PjvmgEWFTeuGDbl/view?usp=sharing)
@@ -126,7 +126,7 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 - 04/2022. <strong> UKRI Fellows Workshop </strong>, University of Edinburgh, Interpreting Long Documents and Recommendation Systems via Latent Variable Models
 - 07/2021. <strong> SPAAM Seminar. University of Warwick. Emotion Cause detection.
 
-# 📝 Publications 
+# Publications 
 
 (* indicates equal contribution)
 
