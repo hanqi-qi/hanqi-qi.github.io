@@ -10,14 +10,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Hanqi Yan** is a lecturer (Assistant Professor) at [King's College London](https://www.kcl.ac.uk/people/hanqi-yan), Department of Informatics, affiliated with the [NLP group](https://kclnlp.github.io/index.html).  Before that, she was a postdoctoral researcher in the same department (2024-2025). She mainly focuses on interpretability and robustness for language models on various reasoning tasks, especially from the representation learning perspective. She has published more than 10+ papers as (co-)first author on related topics in top conferences, such as ACL, EMNLP, NeurIPS, ICML. She serves as area chair for ACL, EMNLP, EACL, NAACL and co-organized the student workshop at AACL2022. She obtained her Ph.D from the University of Warwick(2024), advised by [Prof. Yulan He](https://sites.google.com/view/yulanhe/home) and [Dr. Lin Gui](https://sites.google.com/view/lin-gui/about-me), Msc and BEng from Peking University (2020) and Beihang University (2017).
+## short Bio
 
-I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT/PKU](https://yifeiwang77.com/), [MBZUAI/Tsinghua](https://chengy12.github.io/), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en), [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support.
+**Hanqi Yan** is a lecturer (Assistant Professor) at [King's College London](https://www.kcl.ac.uk/people/hanqi-yan), Department of Informatics, affiliated with the [NLP group](https://kclnlp.github.io/index.html).  Before that, she was a postdoctoral researcher in the same department (2024-2025). She mainly focuses on interpretability and robustness for language models on various reasoning tasks, especially from the representation learning perspective. She has published more than 10+ papers as (co-)first author on related topics in top conferences, such as ACL, EMNLP, NeurIPS, ICML. She serves as area chair for ACL, EMNLP, EACL, NAACL and co-organized the student workshop at AACL2022. She obtained her Ph.D from the University of Warwick(2024), Msc and BEng from Peking University (2020) and Beihang University (2017).
+
+I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT/PKU](https://yifeiwang77.com/), [MBZUAI/Tsinghua](https://chengy12.github.io/), [KAUST](https://shuyhere.notion.site/Shu-Yang-1210f14e46e080f18511e448279487e6), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en), [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support.
+
+## Research Summary
+My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** of Language models, with highlighted **(co-)first-authored** papers published at top-tier venues: 
+- Mechanistic interpretability (neuron-level): during DPO [**EMNLP24**](https://arxiv.org/pdf/2406.17969), for safety-reasoning trade-off [[**Neurips25-MI&ICLR26**](https://arxiv.org/abs/2509.00544v1)] and multi-modal models [[**NeurIPS24-RBMF**](https://asu-apg.github.io/rbfm/)]
+- Generating better explainations: enhance the reasoning faithfulness [[**ACL25**](https://openreview.net/pdf?id=bOFGdbXdKV)], fine-grained rationaled for classifier [[**Computational Linguistics 22**](https://aclanthology.org/2022.cl-4.17/) and recommendation system [**TKDE24**](https://arxiv.org/abs/2305.05331)];
+- Explaining/alleviating the model's vulnerability via representation perspectives: meta-reasoning [[**ICML25**](https://openreview.net/pdf?id=RrvhbxO2hd)] for better generalisability; Latent CoT for better effectiveness [[EMNLP25](https://arxiv.org/abs/2502.21074)]; Retrieval-Reader alignment for RAG [[[AAAI25 oral](https://arxiv.org/abs/2508.05909)] and inference-time searching [[ICML25spotlight](https://openreview.net/pdf?id=Pp90xRxITT)].
+
+Previously (before LLMs), I focused on robustness over distribution shifts, such as position bias [[ACL24-findings](https://aclanthology.org/2024.findings-acl.386/),[**ACL21-oral**](https://aclanthology.org/2021.acl-long.261.pdf)], distribution shifts for controllable generation [[**NeurIPS23**](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)],
+representation inefficiency in transformer-based models [[**EMNLP24**](https://arxiv.org/pdf/2406.17969),[**EACL23-findings**](https://aclanthology.org/2023.findings-eacl.102/),[**UAI22-spotlight**](https://proceedings.mlr.press/v180/yan22b.html)]. 
+
 
 # News
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-01.2026: I give a talk at NTU about "structure representation learning for LLM thinking in the latent space", host by Prof. Wei Lu <br>
+03.2026: I deliver a masterclass at STAI-CDT at KCL about "structured representation learning for latent thinking."
+03.2026: I give a research talk about "limitation of LLMs' reasoning and agency" at the Royal Society for ""AI for and with Humans" workshop. 
+01&02.2026: I give talks at NTU, SUSTeach, and the University of Queensland about "structured representation learning for latent thinking".
 01.2026: A paper "When THINKING BACKFIRES: MECHANISTIC INSIGHTS INTO REASONING-INDUCED MISALIGNMENT" is accepted to ICLR26. My first 1st author ICLR paper <br>
 01.2026: I go to Singapore to give a tutorial at AAAI26🇸🇬. <br>
 11.2025: I go to Suzhou, China🇨🇳  to present our CODI (implicit CoT) and GraphMind (Paper novelty assessment demo) <br>
@@ -53,17 +67,3 @@ I’ve been incredibly lucky to have a number of amazing collaborators and mento
 05.2021: The first time to get paper accepted! 1*first-author paper is accepted by ACL21 🌟Oral. A super encouragement in my early PhD career. <br> 
 10.2020: I start my PhD📚 journey at University of Warwick, UK🇬🇧. <br>
 </div>
-
-# Research Summary
-
-My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** and **reliability** of different NLP models, with 10+ **(co-)first-authored** papers published at top-tier venues: 
-- Mechanistic interpretability (neuron-level) in language models and multi-modal models [[**EMNLP24**](https://arxiv.org/pdf/2406.17969),[**NeurIPS24-RBMF**](https://asu-apg.github.io/rbfm/)], explaining the conflicts between safety and reasoning advancement [[**Neurips25-MI**](https://arxiv.org/abs/2509.00544v1)]; self-explainable models with a conceptualised layer linking the input and decision layer [[**Computational Linguistics 22**](https://aclanthology.org/2022.cl-4.17/),[**TKDE24**](https://arxiv.org/abs/2305.05331)]. 
-- Empirical and principled methods to enhance model robustness over various test inputs, e.g., position bias [[ACL24-findings](https://aclanthology.org/2024.findings-acl.386/),[**ACL21-oral**](https://aclanthology.org/2021.acl-long.261.pdf)],  distribution shifts [[**NeurIPS23**](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)] and 
-representation inefficiency in transformer-based models [[**EMNLP24**](https://arxiv.org/pdf/2406.17969),[**EACL23-findings**](https://aclanthology.org/2023.findings-eacl.102/),[**UAI22-spotlight**](https://proceedings.mlr.press/v180/yan22b.html)]. 
-- Understanding and enhancing LM's reasoning capabilities via injecting external knowledge[[**ACL21-oral**](https://arxiv.org/abs/2106.03518)][[**ACL25**](https://openreview.net/pdf?id=bOFGdbXdKV)], weak supervision [[EMNLP24](https://arxiv.org/abs/2406.18245)], applying a self-refinement mechanism for factual knowledge reasoning [[**ACL24**](https://aclanthology.org/2024.acl-long.382/)]. More recently focus in the two directions:
-  - LLM agent for scientific literature understanding, such as code generation for scientific paper replication on our own [SciReplicate-Bench](https://arxiv.org/abs/2504.00255) and novelty assessment [GraphMind](https://arxiv.org/abs/2510.15706).
-  - Reasoning in latent space, such as a position paper at [**ICML25**](https://openreview.net/pdf?id=RrvhbxO2hd) about meta-reasoning, [EMNLP25](https://arxiv.org/abs/2502.21074) in implicit CoT, in retrieved-based QA [[ACL25](https://arxiv.org/abs/2503.01606)] [[AAAI25 oral](https://arxiv.org/abs/2508.05909)], navigating search in latent space [[ICML25spotlight](https://openreview.net/pdf?id=Pp90xRxITT)] and sparse feature for preference optimization [[ICML25](https://arxiv.org/abs/2411.07618)].
-
-
-
-
