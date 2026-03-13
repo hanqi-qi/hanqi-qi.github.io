@@ -1,10 +1,16 @@
 ---
-title: "Bio"
-permalink: /bio/
-layout: single
+permalink: /openings/
+title: "Openings"
+author_profile: true
 ---
 
 
-**Hanqi Yan** is a lecturer (Assistant Professor) at [King's College London](https://www.kcl.ac.uk/people/hanqi-yan), Department of Informatics, affiliated with the [NLP group](https://kclnlp.github.io/index.html).  Before that, she was a postdoctoral researcher in the same department (2024-2025). She mainly focuses on interpretability and robustness for language models on various reasoning tasks, especially from the representation learning perspective. She has published more than 10+ papers as (co-)first author on related topics in top conferences, such as ACL, EMNLP, NeurIPS, ICML. She serves as area chair for ACL, EMNLP, EACL, NAACL and co-organized the student workshop at AACL2022. She obtained her Ph.D from the University of Warwick(2024), advised by [Prof. Yulan He](https://sites.google.com/view/yulanhe/home) and [Dr. Lin Gui](https://sites.google.com/view/lin-gui/about-me), Msc and BEng from Peking University (2020) and Beihang University (2017).
 
-I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT/PKU](https://yifeiwang77.com/), [MBZUAI/Tsinghua](https://chengy12.github.io/), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en), [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support.
+I am always on the lookout for excellent visiting/PhD students to work with me on LLM reasoning, safety, interpretability, etc. 
+- Fully-funded positions for exceptional candidates through KCL scholarships. These funding allocations are for full fees and a living stipend (London weighted) for any nationality.
+- PhD Opening: One [K-CSC](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) (for Chinese nationals) is available. ~~Deadline: 1st January 2026~~.
+- PhD Opening: One Position "GenAI for Early Detection of Treatment Resistance and Fair Access to Clozapine in Schizophrenia" through the EPSRC [DRIVE-Health](https://showcase.drive-health.org.uk/project/genai-for-early-detection-of-treatment-resistance-and-fair-access-to-clozapine-in-schizophrenia/) CDT is available. ~~Deadline: 12 January 2026~~.
+-  PhD Opening for home-fee student: One Position "From One-Size-Fits-All to Audience-Aware: Personalized Explainable AI for Decision-Making
+" through the [STaR-AI CDT](https://www.findaphd.com/phds/project/from-one-size-fits-all-to-audience-aware-personalized-explainable-ai-for-decision-making/?p193523) is available. Deadline: 2 March 2026.
+- [Joint PhD Scholarships 2026/27](https://www.kcl.ac.uk/study-legacy/funding/joint-phd-scholarship). Partner Universities: The University of Hong Kong/Humboldt University, Berlin/The National University of Singapore/The University of Sao Paulo. Deadline: 5 February 2026
+- [Alternative fundings](https://www.kcl.ac.uk/study/postgraduate-research/funding/scholarships-and-studentships).
