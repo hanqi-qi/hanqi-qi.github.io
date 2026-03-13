@@ -1,10 +1,6 @@
 main:
   - title: "Openings"
     url: /openings/
-  - title: "Research Summary"
-    url: /research/
-  - title: "News"
-    url: /news/
   - title: "Publications"
     url: /publication/
   - title: "service"
