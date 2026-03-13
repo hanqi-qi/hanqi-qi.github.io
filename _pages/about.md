@@ -317,48 +317,4 @@ representation inefficiency in transformer-based models [[**EMNLP24**](https://a
 <a href="https://drive.google.com/file/d/1uTS3FcM2ouBbusyKwmpi0YMKm2qOOmqi/view"> Explaining Neural Networks (Oct 2020 1st PhD) </a><br>
 
 
-<!-- JavaScript for Filtering -->
-<script>
-function filterPubs(category) {
-  var papers = document.getElementsByClassName('paper-box-text');
-  if (category == 'all') category = '';
-  
-  // Loop through all publications
-  for (var i = 0; i < papers.length; i++) {
-    if (papers[i].className.indexOf(category) > -1) {
-      papers[i].style.display = "block"; // Show if matches category
-    } else {
-      papers[i].style.display = "none";  // Hide if not
-    }
-  }
-}
-</script>
 
-<!-- Basic Styling for Buttons and Papers -->
-<style>
-  .filter-btn {
-    background-color: #ddd;
-    border: none;
-    padding: 8px 16px;
-    margin-right: 5px;
-    cursor: pointer;
-    border-radius: 5px;
-  }
-
-  .filter-btn:hover {
-    background-color: #ccc;
-  }
-
-  .publication-list {
-    margin-top: 20px;
-  }
-
-  .paper-box-text {
-    margin-bottom: 5px;
-    padding: 5px;
-    border: 0px solid #ccc;
-    border-radius: 0px;
-    display: block;
-}
-
-</style>
