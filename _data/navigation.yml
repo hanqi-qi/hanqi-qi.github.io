@@ -7,7 +7,7 @@ main:
     url: /news/
   - title: "Publications"
     url: /publication/
-  - title: "Professional Service"
+  - title: "service"
     url: /service/
   - title: "Notes"
     url: /notes/
