@@ -28,3 +28,33 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
     - Yanzheng Xiang (code generation & diffusion model)
     - Italo Da Silva (Hypothesis assessment)
 </div>
+
+
+<!-- Basic Styling for Buttons and Papers -->
+<style>
+  .filter-btn {
+    background-color: #ddd;
+    border: none;
+    padding: 8px 16px;
+    margin-right: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .filter-btn:hover {
+    background-color: #ccc;
+  }
+
+  .publication-list {
+    margin-top: 20px;
+  }
+
+  .paper-box-text {
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 0px solid #ccc;
+    border-radius: 0px;
+    display: block;
+}
+
+</style>
