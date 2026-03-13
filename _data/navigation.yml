@@ -1,19 +1,12 @@
-# main links links
-main:
   - title: "Bio"
-    url: "/#about-me"
-
+    url: "/bio/"
   - title: "Research Summary"
-    url: "/#-research-summary"
-
+    url: "/research/"
   - title: "News"
-    url: "/#-news"
-
+    url: "/news/"
   - title: "Publications"
-    url: "/#-publications"
-    
+    url: "/publications/"
   - title: "Professional Service"
-    url: "/#-professional-service"
-
+    url: "/service/"
   - title: "Notes"
-    url: "/#-notes"
+    url: "/notes/"
