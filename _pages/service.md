@@ -14,6 +14,7 @@ layout: single
     - EMNLP
     - EACL
     - NAACL
+    - COLM
   - Reviewers(program committee):
     - NLP:
       - AACL,
