@@ -20,10 +20,7 @@ layout: single
 <div class="publication-list">
 
     <div class="paper-box-text application" markdown="1">
-  <b style="color:#783F04;">AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor
-
-  </b>
-  \\
+  <b style="color:#783F04;">AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor </b>
   S. Yang, J. Hu, T. Li, **H. Yan**, W. Wang, D. Wang \\
   **ACL26-findings** | [Paper](https://arxiv.org/abs/2502.14888)
   <br>
@@ -33,10 +30,9 @@ layout: single
 
   
     <div class="paper-box-text representation interpretability" markdown="1">
-  <b style="color:#783F04;">Multi-Faceted Multimodal Monosemanticity
-  </b>
+  <b style="color:#783F04;">Multi-Faceted Multimodal Monosemanticity</b>
   \\
-  ** H. Yan* **, X. Cui*, Y. Lu, P Liang, J. Gu, Y. He, Y. Wang \\
+  **H. Yan**, X. Cui*, Y. Lu, P Liang, J. Gu, Y. He, Y. Wang \\
   **ACL26-findings** | [Paper](https://arxiv.org/abs/2502.14888)
   <br>
   <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>
