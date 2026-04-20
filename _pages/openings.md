@@ -24,7 +24,7 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 - **Explainable AI** 
     - Jiazheng Li (faithful explanation)
     - Hainiu Xu (mechanistic interpretability) 
-- **LLM agent for scientific literature understanding** 
+- **AI for science** 
     - Yanzheng Xiang (code generation & diffusion model)
     - Italo Da Silva (Hypothesis assessment)
 </div>
