@@ -18,14 +18,14 @@ I’ve been incredibly lucky to have a number of amazing collaborators and mento
 
 ## Research Summary
 My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** of Language models, with highlighted **(co-)first-authored** papers published at top-tier venues: 
-- Mechanistic interpretability (neuron-level): during DPO [[**EMNLP24**](https://arxiv.org/pdf/2406.17969)], for safety-reasoning trade-off [[**ICLR26**](https://arxiv.org/abs/2509.00544v1)] and multi-modal models [[**NeurIPS24-RBMF**](https://asu-apg.github.io/rbfm/)]
+- Mechanistic interpretability (neuron-level): during DPO [[**EMNLP24**](https://arxiv.org/pdf/2406.17969)], for safety-reasoning trade-off [[**ICLR26**](https://arxiv.org/abs/2509.00544v1)] and multi-modal models [[**NeurIPS24-RBMF**](https://asu-apg.github.io/rbfm/)] [[**ACL26-finding**](https://openreview.net/pdf?id=oVSQIwRwqs)]
 - Generating better explainations: enhance the reasoning faithfulness [[**ACL25**](https://openreview.net/pdf?id=bOFGdbXdKV)], fine-grained rationaled for classifier [[**Computational Linguistics 22**](https://aclanthology.org/2022.cl-4.17/),recommendation system [[**TKDE24**](https://arxiv.org/abs/2305.05331)], also use gradient subspace for knowledge gap explaination [[GRADE](https://arxiv.org/abs/2604.02830)]
 - Explaining/alleviating the model's vulnerability via representation perspectives:
-    - better efficency [ComprExIT for compression](https://arxiv.org/abs/2602.03784), [EMNLP25-CODI for latent CoT](https://arxiv.org/abs/2502.21074), [ICML25spotlight-InferenceOpt](https://openreview.net/pdf?id=Pp90xRxITT);
-    - Retrieval-Reader alignment for RAG [[AAAI25 oral](https://arxiv.org/abs/2508.05909)], [BeyondRag](https://arxiv.org/abs/2602.02007), 
-    - Better Generalisation [**ICML25-position**](https://icml.cc/virtual/2025/poster/40142), [**EMNLP24**](https://arxiv.org/pdf/2406.17969),[**EACL23-findings**](https://aclanthology.org/2023.findings-eacl.102/),[**UAI22-spotlight**](https://proceedings.mlr.press/v180/yan22b.html).
+    - better efficency [[ComprExIT for compression](https://arxiv.org/abs/2602.03784)], [[EMNLP25-CODI for latent CoT](https://arxiv.org/abs/2502.21074)], [[ICML25spotlight-InferenceOpt](https://openreview.net/pdf?id=Pp90xRxITT)];
+    - Retrieval-based reasoning [[AAAI25 oral](https://arxiv.org/abs/2508.05909)], [[BeyondRag](https://arxiv.org/abs/2602.02007)], 
+    - Better Generalisation [**ICML25-position**](https://icml.cc/virtual/2025/poster/40142)], [[**EMNLP24**](https://arxiv.org/pdf/2406.17969)],[[**EACL23-findings**](https://aclanthology.org/2023.findings-eacl.102/)],[[**UAI22-spotlight**](https://proceedings.mlr.press/v180/yan22b.html)].
 
-On the application side, I mostly focus on AI for science, such as Code generation for paper replication[[**COLM25**](https://arxiv.org/pdf/2504.00255)], novelty assessment [[**EMNLP25-demo**](https://arxiv.org/abs/2510.15706)].
+On the application side, I mostly focus on AI for science, such as Code generation for paper replication [[**COLM25**](https://arxiv.org/pdf/2504.00255)], novelty assessment [[**EMNLP25-demo**](https://arxiv.org/abs/2510.15706)].
 
 Previously, I focused on robustness over distribution shifts, such as position bias [[**ACL21-oral**](https://aclanthology.org/2021.acl-long.261.pdf)], distribution shifts from a causality perspective [[**NeurIPS23**](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)].
 
