@@ -29,6 +29,15 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
     - Italo Da Silva (Hypothesis assessment)
 </div>
 
+# Research Master Student
+- Lakshmipriya Ragupathi (KCL MSc)
+- Yu Tian (Visiting student from Beijing Jiaotong University)
+
+# Master's Thesis Supervise
+- Five projects in retrieval-based QA (2025-2026)
+
+  
+
 
 
 <!-- Basic Styling for Buttons and Papers -->
