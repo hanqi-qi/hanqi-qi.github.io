@@ -28,10 +28,10 @@ Previously, I focused on robustness over distribution shifts, such as position b
 # News
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-04.2026: Two papers accepted by ACL26, in multimodal interpretability and LLM monitoring benchmark (AutoMonitor-Bench). <br>
-04.2026: Our CODI paper led by Zhenyi Shen, received the best paper award 🏆 from Responsible Ai UK. <br>
+04.2026: Two papers accepted by <strong> ACL26 </strong>, in multimodal interpretability and LLM monitoring benchmark (AutoMonitor-Bench). <br>
+04.2026: Our CODI paper led by Zhenyi Shen, received the <strong> best paper award </strong>🏆 from Responsible Ai UK. <br>
 03.2026: I deliver a masterclass for PhD students at KCL: STAI-CDT about "structured representation learning for latent thinking." <br>
-03.2026: I give a research talk about "limitation of LLMs' reasoning and agency" at the Royal Society for ""AI for and with Humans" workshop. <br>
+03.2026: I give a research talk about "limitation of LLMs' reasoning and agency" at the Royal Society for "AI for and with Humans" workshop. <br>
 01&02.2026: I give talks at NTU, SUSTeach, and the University of Queensland about "structured representation learning for latent thinking". <br>
 01.2026: A paper "When THINKING BACKFIRES: MECHANISTIC INSIGHTS INTO REASONING-INDUCED MISALIGNMENT" is accepted to ICLR26. My first 1st author ICLR paper <br>
 01.2026: I go to Singapore to give a tutorial at AAAI26🇸🇬. <br>
