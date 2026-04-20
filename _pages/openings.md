@@ -27,15 +27,12 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 - **AI for science** 
     - Yanzheng Xiang (code generation & diffusion model)
     - Italo Da Silva (Hypothesis assessment)
-
 ## Research Master Student
 - Lakshmipriya Ragupathi (KCL MSc)
 - Yu Tian (Visiting student from Beijing Jiaotong University)
-
 ## Master's Thesis Supervise
 - Five projects in retrieval-based QA (2025-2026)
-
-  </div>
+</div>
 
 
 
