@@ -15,7 +15,7 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 
 
 <div id="mentee" markdown="1">
-# Current PhD students in KCL NLP Group
+## Current PhD students in KCL NLP Group
 - **LLM reasoning** 
     - Qinglin Zhu (latent reasoning)
     - Zhanghao Hu (RAG)
@@ -27,16 +27,15 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 - **AI for science** 
     - Yanzheng Xiang (code generation & diffusion model)
     - Italo Da Silva (Hypothesis assessment)
-</div>
 
-# Research Master Student
+## Research Master Student
 - Lakshmipriya Ragupathi (KCL MSc)
 - Yu Tian (Visiting student from Beijing Jiaotong University)
 
-# Master's Thesis Supervise
+## Master's Thesis Supervise
 - Five projects in retrieval-based QA (2025-2026)
 
-  
+  </div>
 
 
 
