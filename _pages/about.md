@@ -23,7 +23,7 @@ My research interests lie in the intersection of Machine Learning and Natural La
 - Explaining/alleviating the model's vulnerability via representation perspectives:
     - better efficency [[ComprExIT for compression](https://arxiv.org/abs/2602.03784)], [[EMNLP25-CODI for latent CoT](https://arxiv.org/abs/2502.21074)], [[ICML25spotlight-InferenceOpt](https://openreview.net/pdf?id=Pp90xRxITT)];
     - Retrieval-based reasoning [[AAAI25 oral](https://arxiv.org/abs/2508.05909)], [[BeyondRag](https://arxiv.org/abs/2602.02007)], 
-    - Better Generalisation [**ICML25-position**](https://icml.cc/virtual/2025/poster/40142)], [[**EMNLP24**](https://arxiv.org/pdf/2406.17969)],[[**EACL23-findings**](https://aclanthology.org/2023.findings-eacl.102/)],[[**UAI22-spotlight**](https://proceedings.mlr.press/v180/yan22b.html)].
+    - Better Generalisation [[**ICML25-position**](https://icml.cc/virtual/2025/poster/40142)], [[**EMNLP24**](https://arxiv.org/pdf/2406.17969)],[[**EACL23-findings**](https://aclanthology.org/2023.findings-eacl.102/)],[[**UAI22-spotlight**](https://proceedings.mlr.press/v180/yan22b.html)].
 
 On the application side, I mostly focus on AI for science, such as Code generation for paper replication [[**COLM25**](https://arxiv.org/pdf/2504.00255)], novelty assessment [[**EMNLP25-demo**](https://arxiv.org/abs/2510.15706)].
 
