@@ -14,7 +14,7 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 - [Alternative fundings](https://www.kcl.ac.uk/study/postgraduate-research/funding/scholarships-and-studentships).
 
 
-<div id="mentee" markdown="1">
+
 ## Current PhD students in KCL NLP Group
 - **LLM reasoning** 
     - Qinglin Zhu (latent reasoning)
@@ -28,11 +28,11 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
     - Yanzheng Xiang (code generation & diffusion model)
     - Italo Da Silva (Hypothesis assessment)
 ## Research Master Student
+- Yujing Wang (Buaa Msc)
 - Lakshmipriya Ragupathi (KCL MSc)
 - Yu Tian (Visiting student from Beijing Jiaotong University)
 ## Master's Thesis Supervise
 - Five projects in retrieval-based QA (2025-2026)
-</div>
 
 
 
