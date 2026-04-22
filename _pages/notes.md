@@ -1,7 +1,6 @@
 ---
 permalink: /notes/
 title: "Notes"
-layout: single
 author_profile: true
 ---
 
