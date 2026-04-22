@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-layout: single
+layout: subpage
 ---
 
 # 📝 Teaching  
