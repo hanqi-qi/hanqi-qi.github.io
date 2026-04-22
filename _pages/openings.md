@@ -3,6 +3,9 @@ permalink: /openings/
 title: "Openings"
 layout: single
 ---
+
+<div style="max-width: 750px; margin: 0 auto;">
+
 I am always on the lookout for excellent visiting/PhD students to work with me on LLM reasoning, safety, interpretability, etc.
 - Fully-funded positions for exceptional candidates through KCL scholarships. These funding allocations are for full fees and a living stipend (London weighted) for any nationality.
 - PhD Opening: One [K-CSC](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) (for Chinese nationals) is available. ~~Deadline: 1st January 2026~~.
@@ -44,38 +47,9 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 ## Master Thesis
 - Five projects in retrieval-based QA (2025-2026)
 
+</div>
 
 <style>
-  /* Your existing styles */
-
-  .page__content {
-  max-width: 550px;
-  margin: 0 auto;
-}
-  
-  .filter-btn {
-    background-color: #ddd;
-    border: none;
-    padding: 8px 16px;
-    margin-right: 5px;
-    cursor: pointer;
-    border-radius: 5px;
-  }
-  .filter-btn:hover {
-    background-color: #ccc;
-  }
-  .publication-list {
-    margin-top: 20px;
-  }
-  .paper-box-text {
-    margin-bottom: 5px;
-    padding: 5px;
-    border: 0px solid #ccc;
-    border-radius: 0px;
-    display: block;
-  }
-
-  /* PhD student list styling */
   .student-list {
     list-style: none;
     padding: 0;
