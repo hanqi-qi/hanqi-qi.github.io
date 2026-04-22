@@ -47,6 +47,12 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 
 <style>
   /* Your existing styles */
+
+  .page__content {
+  max-width: 750px;
+  margin: 0 auto;
+}
+  
   .filter-btn {
     background-color: #ddd;
     border: none;
