@@ -6,6 +6,31 @@ layout: compress
 <head>
   {% include head.html %}
   {% include head/custom.html %}
+  <style>
+    .sidebar, #sidebar, .author__avatar {
+      display: none !important;
+    }
+    #main {
+      width: 100% !important;
+      float: none !important;
+    }
+    .page__inner-wrap {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2em;
+      float: none !important;
+    }
+    .page__content h2 {
+      font-size: 1.3em;
+      margin-top: 1.8em;
+      border-bottom: 1px solid #eee;
+      padding-bottom: 0.3em;
+    }
+    .page__content p, .page__content li {
+      line-height: 1.75;
+      font-size: 0.97em;
+    }
+  </style>
 </head>
 <body>
   {% include browser-upgrade.html %}
