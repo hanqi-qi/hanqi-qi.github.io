@@ -1,7 +1,7 @@
 ---
-permalink: /notes/
-title: "Notes"
-author_profile: true
+permalink: /openings/
+title: "Openings"
+layout: subpage
 ---
 
 
