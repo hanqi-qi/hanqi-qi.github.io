@@ -13,7 +13,7 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 
 ## Current PhD students in KCL NLP Group
 
-<ul>
+<ul class="student-list">
   <li><strong>LLM reasoning</strong>
     <ul>
       <li>Qinglin Zhu (latent reasoning)</li>
@@ -43,3 +43,60 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 
 ## Master Thesis
 - Five projects in retrieval-based QA (2025-2026)
+
+
+<style>
+  /* Your existing styles */
+  .filter-btn {
+    background-color: #ddd;
+    border: none;
+    padding: 8px 16px;
+    margin-right: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .filter-btn:hover {
+    background-color: #ccc;
+  }
+  .publication-list {
+    margin-top: 20px;
+  }
+  .paper-box-text {
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 0px solid #ccc;
+    border-radius: 0px;
+    display: block;
+  }
+
+  /* PhD student list styling */
+  .student-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 1em 0;
+  }
+  .student-list > li {
+    margin-bottom: 0.6em;
+    padding: 10px 14px;
+    background-color: #f7f7f7;
+    border-left: 4px solid #4a90d9;
+    border-radius: 4px;
+  }
+  .student-list > li > ul {
+    list-style: none;
+    padding: 0;
+    margin: 8px 0 0 0;
+  }
+  .student-list > li > ul > li {
+    padding: 3px 0 3px 16px;
+    position: relative;
+    color: #444;
+    font-size: 0.95em;
+  }
+  .student-list > li > ul > li::before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: #4a90d9;
+  }
+</style>
