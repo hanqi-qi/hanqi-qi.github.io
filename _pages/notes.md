@@ -1,6 +1,6 @@
 ---
-permalink: /openings/
-title: "Openings"
+permalink: /notes/
+title: "Notes"
 layout: subpage
 ---
 
