@@ -2,9 +2,8 @@
 permalink: /openings/
 title: "Openings"
 layout: single
+author_profile: true
 ---
-
-<div style="max-width: 750px; margin: 0 auto;">
 
 I am always on the lookout for excellent visiting/PhD students to work with me on LLM reasoning, safety, interpretability, etc.
 - Fully-funded positions for exceptional candidates through KCL scholarships. These funding allocations are for full fees and a living stipend (London weighted) for any nationality.
@@ -47,7 +46,6 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 ## Master Thesis
 - Five projects in retrieval-based QA (2025-2026)
 
-</div>
 
 <style>
   .student-list {
