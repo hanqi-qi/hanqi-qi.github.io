@@ -14,3 +14,10 @@ layout: subpage
 <a href="https://github.com/hanqi-qi/NLPReadingGroup/blob/main/CausalInference/CausalInference_RS_hanqi.pdf">Recommendation with Causality (2nd PhD) </a><br>
 <a href="https://drive.google.com/file/d/1WbJzgHoN0WOF9Ul4cA5BrG9jDtT0DG1B/view">Causality101 (Feb 2022, 2nd-year PhD) </a> <br>
 <a href="https://drive.google.com/file/d/1uTS3FcM2ouBbusyKwmpi0YMKm2qOOmqi/view"> Explaining Neural Networks (Oct 2020 1st-year PhD) </a><br>
+
+
+<style>
+  .sidebar {
+    display: none !important;
+  }
+</style>
