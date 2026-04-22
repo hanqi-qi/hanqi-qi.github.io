@@ -1,7 +1,7 @@
 ---
 permalink: /service/
 title: "Service & Talks"
-layout: single
+layout: subpage
 ---
 
 
