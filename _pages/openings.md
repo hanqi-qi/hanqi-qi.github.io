@@ -36,7 +36,7 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
       <li>Italo Da Silva (Hypothesis assessment)</li>
     </ul>
   </li>
-</ul> 
+</ul>
 
 ## Research Master Student
 - Yujing Wang (Buaa Msc)
@@ -45,7 +45,6 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 
 ## Master Thesis
 - Five projects in retrieval-based QA (2025-2026)
-
 
 <style>
   .student-list {
@@ -77,5 +76,4 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
     left: 0;
     color: #4a90d9;
   }
-</style> 
-
+</style>
