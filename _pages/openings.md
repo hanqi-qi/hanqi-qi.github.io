@@ -15,7 +15,7 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 
 ## Current PhD students in KCL NLP Group
 
-<ul class="student-list">
+<!-- <ul class="student-list">
   <li><strong>LLM reasoning</strong>
     <ul>
       <li>Qinglin Zhu (latent reasoning)</li>
@@ -36,7 +36,7 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
       <li>Italo Da Silva (Hypothesis assessment)</li>
     </ul>
   </li>
-</ul>
+</ul> -->
 
 ## Research Master Student
 - Yujing Wang (Buaa Msc)
@@ -47,7 +47,7 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 - Five projects in retrieval-based QA (2025-2026)
 
 
-<style>
+<!-- <style>
   .student-list {
     list-style: none;
     padding: 0;
@@ -77,4 +77,4 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
     left: 0;
     color: #4a90d9;
   }
-</style>
+</style> -->
