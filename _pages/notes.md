@@ -18,6 +18,6 @@ layout: subpage
 
 <style>
   .sidebar {
-    display: none !important;
+    visibility: hidden !important;
   }
 </style>
