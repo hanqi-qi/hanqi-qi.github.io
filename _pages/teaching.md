@@ -4,7 +4,7 @@ title: "Teaching"
 layout: subpage
 ---
 
-# 📝 Teaching  
+# Teaching  
 
 - Msc Module: AI safety and Privacy, King’s College London (2026 Spring). Content Designer
 - BSc Module: AI and Robotics, King’s College London (2025 Fall). Module Leader
