@@ -1,7 +1,7 @@
 ---
 permalink: /notes/
 title: "Notes"
-layout: subpage
+layout: single
 ---
 
 
@@ -18,6 +18,12 @@ layout: subpage
 
 <style>
   .sidebar {
-    visibility: hidden !important;
+    width: 200px;
+    float: left;
+    visibility: hidden;
+  }
+  .page {
+    float: right;
+    width: calc(100% - 200px - 3em);
   }
 </style>
