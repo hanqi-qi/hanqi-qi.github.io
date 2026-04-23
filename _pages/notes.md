@@ -1,7 +1,7 @@
 ---
 permalink: /notes/
 title: "Notes"
-layout: single
+layout: subpage
 ---
 
 
