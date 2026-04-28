@@ -43,7 +43,7 @@ layout: subpage
   </div>
 
   
-  <div class="paper-box-text safety representation interpretability" markdown="1">
+  <div class="paper-box-text safety representation interpretability generalisation" markdown="1">
   <b style="color:#783F04;">When Thinking Backfires: Mechanistic intepretability into reason-induced misalignment
   </b>
   \\
@@ -143,7 +143,7 @@ layout: subpage
   <br>
   </div>
 
-  <div class="paper-box-text generalisability application" markdown="1">
+  <div class="paper-box-text generalisation application" markdown="1">
   <b style="color:#783F04;"> Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems
   </b>
   \\
@@ -153,13 +153,13 @@ layout: subpage
   <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Generalisability</span> <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span> 
   </div>
 
-  <div class="paper-box-text interpretability" markdown="1">
+  <div class="paper-box-text interpretability application generalisation" markdown="1">
   <b style="color:#783F04;"> The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities
   </b>
   \\
   Y. Zhou, J. Li, Y.Xiang, **H.Yan**, L. Gui, Y. He\\
   **EMNLP24, main** |  [Paper](https://arxiv.org/abs/2311.00237) <br>
-  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  
+  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>   <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span> 
   <br>
   </div>
 
@@ -184,13 +184,13 @@ layout: subpage
   </div>
   
 
-  <div class='paper-box-text representation causality application' markdown="1">
+  <div class='paper-box-text representation  application generalisation' markdown="1">
   <b style="color:#783F04;"> Counterfactual Generation with Identifiability Guarantee
   </b>
   \\
   <strong>H. Yan</strong>, L. Kong, L. Gui, Y. Chi, Eric. Xing, Y. He, K. Zhang\\
   **Neurips23, main** |  [Paper](https://neurips.cc/virtual/2023/poster/71063)<br>
-  <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Causality</span> <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span> 
+  <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Generalisation</span> <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span> 
   </div>
 
   <div class='paper-box-text interpretability application' markdown="1">
@@ -211,7 +211,7 @@ layout: subpage
   <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>   <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span> 
   </div>
 
-  <div class='paper-box-text representation' markdown="1">
+  <div class='paper-box-text representation generalisation' markdown="1">
   <b style="color:#783F04;"> Addressing Token Uniformity in Transformers via Singular Value Transformation
   </b>
   \\
@@ -220,7 +220,7 @@ layout: subpage
   <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
   </div>
 
-  <div class='paper-box-text representation' markdown="1">
+  <div class='paper-box-text representation generalisation' markdown="1">
   <b style="color:#783F04;"> Distinguishability Calibration to In-Context Learning
   </b>
   \\
@@ -229,7 +229,7 @@ layout: subpage
    <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  
   </div>
   
-  <div class='paper-box-text causality application' markdown="1">
+  <div class='paper-box-text application' markdown="1">
   <b style="color:#783F04;"> A Knowledge-Aware Graph Model for Emotion Cause Extraction
   </b>
   \\
