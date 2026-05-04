@@ -33,6 +33,7 @@ Previously, I focused on robustness over distribution shifts, such as position b
 # News
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+05.2026: A paper accepted by ICML26🇰🇷 about an effective revision mechanism in diffusion models led by Yanzheng. <br>
 04.2026: New paper GRADE led by Yujing released about knowledge boundary detection🧠❓ via gradient subspace analysis. <br>
 04.2026: Two papers accepted by <strong> ACL26 </strong>, in multimodal interpretability and LLM safety monitoring benchmark (AutoMonitor-Bench). <br>
 04.2026: Our CODI paper led by Zhenyi Shen, received the <strong> best paper award </strong>🏆 from Responsible Ai UK. <br>
