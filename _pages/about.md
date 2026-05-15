@@ -33,14 +33,14 @@ Previously, I focused on robustness over distribution shifts, such as position b
 # News
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-05.2026: A paper accepted by ICML26🇰🇷 about an effective revision mechanism in diffusion models led by Yanzheng. <br>
+05.2026: A paper accepted by <strong>ICML26</strong>🇰🇷 about an effective revision mechanism in diffusion models led by Yanzheng. <br>
 04.2026: New paper GRADE led by Yujing released about knowledge boundary detection🧠❓ via gradient subspace analysis. <br>
 04.2026: Two papers accepted by <strong> ACL26 </strong>, in multimodal interpretability and LLM safety monitoring benchmark (AutoMonitor-Bench). <br>
 04.2026: Our CODI paper led by Zhenyi Shen, received the <strong> best paper award </strong>🏆 from Responsible Ai UK. <br>
 03.2026: I deliver a masterclass for PhD students at KCL: STAI-CDT about "structured representation learning for latent thinking." <br>
 03.2026: I give a research talk about "limitation⚠️ of LLMs' reasoning and agency" at the Royal Society for "AI for and with Humans" workshop. <br>
 01&02.2026: I give talks at NTU🇸🇬, SUSTeach🇨🇳, and the University of Queensland🇦🇺 about "structured representation learning for latent thinking". <br>
-01.2026: A paper "When THINKING BACKFIRES: MECHANISTIC INSIGHTS INTO REASONING-INDUCED MISALIGNMENT," is accepted to ICLR26. My first 1st author ICLR paper <br>
+01.2026: A 1st-author paper "When THINKING BACKFIRES: MECHANISTIC INSIGHTS INTO REASONING-INDUCED MISALIGNMENT," is accepted to ICLR26. <br>
 01.2026: I go to Singapore to give a tutorial at AAAI26🇸🇬. <br>
 11.2025: I go to Suzhou, China🇨🇳  to present our CODI (implicit CoT) and GraphMind (Paper novelty assessment demo) <br>
 11.2025: Zhanghao's paper "Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation" accepted to <strong> AAAI26 oral </strong> ! <br>
