@@ -19,11 +19,11 @@ layout: subpage
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
   <figure>
-    <img src="/images/vienna_1.png" alt="description">
+    <img src="/images/vienna_1.jpg" alt="description">
     <figcaption>📍 Vienna (ACL25) </figcaption>
   </figure>
     <figure>
-    <img src="/images/vienna_2.png" alt="description">
+    <img src="/images/vienna_2.jpg" alt="description">
     <figcaption>📍 Vienna (ACL25) </figcaption>
   </figure>
 </div>
