@@ -78,4 +78,4 @@ Previously, I focused on robustness over distribution shifts: [[ACL24finding-Dem
 </div>
 
 <br>
-Beyond research, I love travelling — a passion that keeps me excited about international conferences! To date, I have presented at 10 conferences spanning 🇳🇱🇦🇪🇺🇸(*3)🇹🇭🇨🇦🇦🇹🇨🇳🇸🇬, in addition to personal traveling to 🇮🇪🇧🇪🇪🇸🇹🇷🇭🇰🇯🇵🇹🇼
+Beyond research, I love travelling — a passion that keeps me excited about international conferences! To date, I have presented at 10 conferences spanning 🇳🇱🇦🇪🇺🇸(*3)🇹🇭🇨🇦🇦🇹🇨🇳🇸🇬, in addition to personal traveling to 🇬🇧🇮🇪🇧🇪🇪🇸🇹🇷🇭🇰🇯🇵🇹🇼
