@@ -12,7 +12,7 @@ layout: subpage
     <figcaption>📍 Hawaii (ICML23) </figcaption>
   </figure>
     <figure>
-    <img src="/images/hawaii_sea.jpeg" alt="description">
+    <img src="/images/hawaii_sea.png" alt="description">
     <figcaption>📍 Hawaii (ICML23) </figcaption>
   </figure>
 </div>
