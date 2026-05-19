@@ -4,11 +4,11 @@ title: "Misc"
 layout: subpage
 ---
 
-# 📸 My Pictures
+# 📸 Around the World
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
   <figure>
-    <img src="/images/hawaii.jpeg" alt="Conference 1">
-    <figcaption>📍 Amsterdam, Netherlands 🇳🇱</figcaption>
+    <img src="/images/hawaii.jpeg" alt="description">
+    <figcaption>📍 Hawaii (ICML23) </figcaption>
   </figure>
 </div>
