@@ -15,6 +15,10 @@ layout: subpage
     <img src="/images/hawaii_sea.png" alt="description">
     <figcaption>📍 Hawaii (ICML23) </figcaption>
   </figure>
+      <figure>
+    <img src="/images/hawaii_3.jpg" alt="description">
+    <figcaption>📍 Hawaii (ICML23) </figcaption>
+  </figure>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
