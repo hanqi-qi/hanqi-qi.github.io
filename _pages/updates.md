@@ -11,4 +11,8 @@ layout: subpage
     <img src="/images/hawaii.jpeg" alt="description">
     <figcaption>📍 Hawaii (ICML23) </figcaption>
   </figure>
+    <figure>
+    <img src="/images/hawaii_sea.jpeg" alt="description">
+    <figcaption>📍 Hawaii (ICML23) </figcaption>
+  </figure>
 </div>
