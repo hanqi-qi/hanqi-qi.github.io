@@ -42,37 +42,39 @@ Previously, I focused on robustness over distribution shifts: [[ACL24finding-Dem
 03.2026: I give a research talk about "limitation⚠️ of LLMs' reasoning and agency" at the Royal Society for "AI for and with Humans" workshop. <br>
 01&02.2026: I give talks at NTU🇸🇬, SUSTeach🇨🇳, and the University of Queensland🇦🇺 about "structured representation learning for latent thinking". <br>
 01.2026: A 1st-author paper "When THINKING BACKFIRES: MECHANISTIC INSIGHTS INTO REASONING-INDUCED MISALIGNMENT," is accepted to ICLR26. <br>
-01.2026: I go to Singapore to give a tutorial at AAAI26🇸🇬. <br>
-11.2025: I go to Suzhou, China🇨🇳  to present our CODI (implicit CoT) and GraphMind (Paper novelty assessment demo) <br>
+01.2026: ✈️I go to Singapore to give a tutorial at AAAI26🇸🇬. <br>
+11.2025: ✈️I go to Suzhou, China🇨🇳  to present our CODI (implicit CoT) and GraphMind (Paper novelty assessment demo) <br>
 11.2025: Zhanghao's paper "Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation" accepted to <strong> AAAI26 oral </strong> ! <br>
 09.2025: A joint tutorial "Structured Representation Learning: Interpretability, Robustness and Transferability for Large Language Models" is accepted by <strong> AAAI26 </strong>. See you in Singapore! <br>
 09.2025: Paper "Thinking Hard, Going Misaligned: Emergent Misalignment in LLMs" accepted to Neurips25-Mechanistic Interpretability Workshop <br>
 09.2025: I started the lecturer position at KCL. Looking forward to more challenges and opportunities ahead! <br>
 08.2025: 2*EMNLP paper is accepted. CODI (implicit CoT) and GraphMind(LLM for novelty assessment, demo) <br>
-07.2025: I go to Vienna, Austria🇦🇹 to present our faithful rationale generation and RAG papers accepted at <strong>ACL 2025</strong>. 🏞️ Excited to escape city life and explore Gosau & Hallstatt! <br>
-07.2025: I go to Vancouver, Canada🇨🇦 to present our LLM reasoning papers accepted at <strong>ICML 2025</strong>. 🍜 Can’t wait to revisit my favorite Chinese restaurant there! <br>
+07.2025: ✈️I go to Vienna, Austria🇦🇹 to present our faithful rationale generation and RAG papers accepted at <strong>ACL 2025</strong>. 🏞️ Excited to escape city life and explore Gosau & Hallstatt! <br>
+07.2025: ✈️I go to Vancouver, Canada🇨🇦 to present our LLM reasoning papers accepted at <strong>ICML 2025</strong>. 🍜 Can’t wait to revisit my favorite Chinese restaurant there! <br>
 07.2025: 1*paper, SciReplicate-Bench, accepted by COLM25, a benchmark for paper replication via code generation. <br>
 05.2025" 2*papers accepted by ACL25 main conference, including a co-first author paper in faithful rationale generation during LLM inference. <br>
 05.2025: 3*papers accepted by ICML25, including a first-author paper about meta-reasoning in the Position paper track. <br>
-11.2024: I go to Miami☀️🌊🍹🏝, US for EMNLP24 to present our accepted papers and connect with like-minded researchers👩‍💻👨‍💻.<br>
+11.2024: ✈️I go to 🇺🇸Miami☀️🌊🍹🏝, US for EMNLP24 to present our accepted papers and connect with like-minded researchers👩‍💻👨‍💻.<br>
 10.2024: 1*first-author paper about <strong>monosemantic neuron in multi-modal model</strong> is accepted by Neurips-RBMF workshop.<br>
 09.2024: 3*papers (<strong>monomsemantic neurons</strong>, <strong>oral survey in ICL</strong>, <strong>weak2strong event extraction</strong>) are accepted by EMNLP24 Main Conference. 🎉<br> 
-08.2024: I go to Bangkok, Thailand🇹🇭 for ACL24. ✈️ <br> 
+08.2024: ✈️I go to Bangkok, Thailand🇹🇭 for ACL24.  <br> 
 06.2024: 2* paper accepted by ACL24, including 1 1st author in main and 1 in findings.  <br>
 04.2024: I pass the PhD viva with no corrections 🎓. <br> 
 01.2024: I become a PostDoc👩‍🏫 at King's College London, NLP Group. <br> 
-01.2024: I finish my PhD thesis (draft) on the same day of my birthday.<br> 
+01.2024: I finish my PhD thesis (draft) on the same day of my birthday during the trip at LA .<br> 
 01.2024: 1*first-author paper is finally accepted by TKDE.<br> 
-12.2023: I go to New Orleans🎷, US to present our Neurips paper. <br>
-07.2023: I go to Hawaii🌴, US to present our ICML-workshop paper. <br> 
+12.2023: ✈️I go to 🇺🇸New Orleans🎷, US to present our Neurips paper. <br>
+07.2023: ✈️I go to 🇺🇸Hawaii🌴, US to present our ICML-workshop paper. <br> 
 07.2023: 1*first-author paper is accepted by Neurips (my Neurips paper).<br> 
 02.2023: I go back to the UK from Abu Dhabi, UAE🇦🇪, finish my Machine Learning trip in MBZUAI. <br> 
-02.2023: I attend the EMNLP23 held in Abu Dhabi, to present our Computational Linguistics paper. <br> 
+02.2023: ✈️ I attend the EMNLP23 held in Abu Dhabi, to present our Computational Linguistics paper. <br> 
 01.2023: 1*paper is accepted by EACL23🇭🇷-findings (first time as a mentor for a master's student). <br> 
 12.2022: Lionel Messi leads Argentina to win the ⚽️World Cup championship. <br> 
-10.2022: I start to be a funded visiting student in Machine Learning, Department at MBZUAI🏫, Abu Dhabi, UAE, advised by Prof. Kun Zhang. <br>
-08.2022: I go to Eindhoven, Netherlands🇳🇱 to present our UAI paper. <br> 
+10.2022: ✈️I start to be a funded visiting student in Machine Learning, Department at MBZUAI🏫, Abu Dhabi, UAE, advised by Prof. Kun Zhang. <br>
+08.2022: ✈️ I go to Eindhoven, Netherlands🇳🇱 to present our UAI paper. <br> 
 05.2022: 1*first-author paper is accepted by UAI23-spotlight (🥳my first ML paper) <br> 
 05.2021: The first time to get paper accepted! 1*first-author paper is accepted by ACL21 🌟Oral. A super encouragement in my early PhD career. <br> 
 10.2020: I start my PhD📚 journey at University of Warwick, UK🇬🇧. <br>
 </div>
+
+Beyond research, I love travelling — a passion that keeps me excited about international conferences! To date, I have presented at 10 conferences spanning 🇳🇱🇦🇪🇺🇸🇺🇸🇺🇸🇹🇭🇨🇦🇦🇹🇨🇳🇸🇬
