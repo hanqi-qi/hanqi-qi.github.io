@@ -1,8 +1,7 @@
 ---
-layout: single
+permalink: /misc/
 title: "Misc"
-permalink: /my-pictures/
-author_profile: true
+layout: subpage
 ---
 
 # 📸 My Pictures
