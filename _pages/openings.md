@@ -18,10 +18,10 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 <ul class="student-list">
   <li><strong>LLM reasoning</strong>
     <ul>
-      <li>Qinglin Zhu (latent reasoning)</li>
+      <li>Qinglin Zhu (Search&Plan) </li>
       <li>Zhanghao Hu (RAG)</li>
-      <li>Zhenyi Shen (implicit CoT)</li>
-      <li>Jiangnan Ye (efficiency, co-supervised with Yulan He)</li>
+      <li>Zhenyi Shen (Self-distillation)</li>
+      <li>Jiangnan Ye (Compression, co-supervised with Yulan He)</li>
     </ul>
   </li>
   <li><strong>Explainable AI</strong>
@@ -33,12 +33,13 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
   <li><strong>AI for science</strong>
     <ul>
       <li>Yanzheng Xiang (code generation & diffusion model)</li>
-      <li>Italo Da Silva (Hypothesis assessment)</li>
+      <li>Italo Da Silva (Novelty assessment)</li>
     </ul>
   </li>
 </ul>
 
-## Research Master Student
+## Other mentorship
+- Ahmed Oumar (MBZUAI PhD)
 - Yujing Wang (Buaa Msc)
 - Lakshmipriya Ragupathi (KCL MSc)
 - Yu Tian (Visiting student from Beijing Jiaotong University)
