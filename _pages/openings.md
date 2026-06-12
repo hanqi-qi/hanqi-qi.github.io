@@ -39,8 +39,8 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 </ul>
 
 ## Other mentorship
-- Ahmed Oumar (MBZUAI PhD)
-- Yujing Wang (Buaa Msc)
+- Ahmed Oumar (Remote, MBZUAI PhD)
+- Yujing Wang (Remote, Buaa Msc)
 - Lakshmipriya Ragupathi (KCL MSc)
 - Yu Tian (Visiting student from Beijing Jiaotong University)
 
