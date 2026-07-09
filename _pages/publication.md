@@ -27,7 +27,7 @@ layout: subpage
   Y. Wang, Y. Liang, Y. Li, H. Zhang, **H. Yan** \\
   **COLM26** | [Paper](https://arxiv.org/abs/2604.02830)
   <br>
-<span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span>
+<span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span> <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>
   <br>
   </div>
   
@@ -43,8 +43,6 @@ layout: subpage
   </div>
   
 
-  
-  
     <div class="paper-box-text alignment application" markdown="1">
   <b style="color:#783F04;">AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor </b>
   \\
