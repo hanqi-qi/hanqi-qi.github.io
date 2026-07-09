@@ -33,7 +33,7 @@ Previously, I focused on robustness over distribution shifts: [[ACL24finding-Dem
 # News
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-07.2026: A paper GRADE about LLM knowledge gap detection was accepted by <strong>COLM26</strong>, first author is my incoming PhD Student, Yujing Wang. <br>
+07.2026: A paper GRADE about LLM knowledge gap detection was accepted by <strong>COLM26</strong>🇺🇸, first author is my incoming PhD Student, Yujing Wang. <br>
 05.2026: A paper GraphMind accepted by <strong>KDD26</strong>🇰🇷 about novelty assessment for scientific papers using graph reasoning led by Italo. <br>
 05.2026: A paper accepted by <strong>ICML26</strong>🇰🇷 about an effective revision mechanism in diffusion models led by Yanzheng. <br>
 04.2026: New paper GRADE led by Yujing released about knowledge boundary detection🧠❓ via gradient subspace analysis. <br>
