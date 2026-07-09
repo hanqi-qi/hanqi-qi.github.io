@@ -14,12 +14,23 @@ layout: subpage
   <button class="filter-btn" onclick="filterPubs('interpretability')">Interpretability</button>
   <button class="filter-btn" onclick="filterPubs('representation')">Representation</button>
   <button class="filter-btn" onclick="filterPubs('generalisation')">Generalisation</button>
-   <button class="filter-btn" onclick="filterPubs('safety')">Safety</button>
+   <button class="filter-btn" onclick="filterPubs('alignment')">Alignment</button>
   <button class="filter-btn" onclick="filterPubs('application')">Application</button>
  
 </div>
 
 <div class="publication-list">
+
+    <div class="paper-box-text interpretability application" markdown="1">
+  <b style="color:#783F04;">GRADE: Probing Knowledge Gaps in LLMs through Gradient Subspace Dynamics</b>
+  \\
+  Y. Wang, Y. Liang, Y. Li, H. Zhang, **H. Yan** \\
+  **COLM26** | [Paper](https://arxiv.org/abs/2604.02830)
+  <br>
+<span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span>
+  <br>
+  </div>
+  
 
     <div class="paper-box-text representation application" markdown="1">
   <b style="color:#783F04;"> Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding </b>
@@ -30,15 +41,17 @@ layout: subpage
 <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span> <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">application</span>
   <br>
   </div>
+  
 
   
-    <div class="paper-box-text safety application" markdown="1">
+  
+    <div class="paper-box-text alignment application" markdown="1">
   <b style="color:#783F04;">AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor </b>
   \\
   S. Yang, J. Hu, T. Li, **H. Yan**, W. Wang, D. Wang \\
   **ACL26-findings** | [Paper](https://arxiv.org/abs/2502.14888)
   <br>
-<span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Safety</span>
+<span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">alignment</span>
   <br>
   </div>
 
@@ -54,14 +67,14 @@ layout: subpage
   </div>
 
   
-  <div class="paper-box-text safety representation interpretability generalisation" markdown="1">
+  <div class="paper-box-text alignment representation interpretability generalisation" markdown="1">
   <b style="color:#783F04;">When Thinking Backfires: Mechanistic intepretability into reason-induced misalignment
   </b>
   \\
   ** H. Yan* **, H, Xu*, S. Qi, S. Yang, Y. He\\
   **ICLR26** | [Paper](https://arxiv.org/pdf/2509.00544)
   <br>
-  <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span> <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Safety</span>
+  <span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Representation</span>  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span> <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">alignment</span>
   <br>
   </div>
 
