@@ -13,7 +13,7 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 - [Joint PhD Scholarships 2026/27](https://www.kcl.ac.uk/study-legacy/funding/joint-phd-scholarship). Partner Universities: The University of Hong Kong/Humboldt University, Berlin/The National University of Singapore/The University of Sao Paulo. Deadline: 5 February 2026
 - [Alternative fundings](https://www.kcl.ac.uk/study/postgraduate-research/funding/scholarships-and-studentships).
 
-## Current PhD students in KCL NLP Group
+## Cooperation with PhD students (KCL-NLP)
 
 <ul class="student-list">
   <li><strong>LLM reasoning</strong>
