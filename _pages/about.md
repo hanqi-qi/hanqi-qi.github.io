@@ -18,14 +18,14 @@ I’ve been incredibly lucky to have a number of amazing collaborators and mento
 
 ## Research Highlights
 My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** and **reliability** of Language models, with highlighted **(co-)first-authored/Corresponding** papers:
-- Mechanistic interpretability (mostly LLM safety):  [[**EMNLP24**](https://arxiv.org/pdf/2406.17969)], [[**ICLR26**](https://arxiv.org/abs/2509.00544v1)], [[ICLR26Blog]](https://iclr-blogposts.github.io/2026/blog/2026/misalign-failure-mode/)], [[**NeurIPS24RBMF**](https://asu-apg.github.io/rbfm/)] [[**ACL26finding**](https://openreview.net/pdf?id=oVSQIwRwqs)],[[ACL26finding](https://arxiv.org/abs/2601.05752)]
-- Generating better explanations: [[**ACL25**](https://openreview.net/pdf?id=bOFGdbXdKV)],[[**Computational Linguistics22**](https://aclanthology.org/2022.cl-4.17/)], [[**TKDE24**](https://arxiv.org/abs/2305.05331)],[[**COLM26**](https://arxiv.org/abs/2604.02830)],[[CodeComplexity](https://arxiv.org/abs/2601.21894)]
+- Mechanistic interpretability (for alignment and AI safety):[[**COLM26-KnowledgeGap**](https://arxiv.org/abs/2604.02830)],[[**ICLR26-safety**](https://arxiv.org/abs/2509.00544v1)], [[ICLR26Blog-Misalignment](https://iclr-blogposts.github.io/2026/blog/2026/misalign-failure-mode/)], [[**NeurIPS24RBMF-multimodal**](https://asu-apg.github.io/rbfm/)]&[[**ACL26finding**](https://openreview.net/pdf?id=oVSQIwRwqs)],[[ACL26finding-sycophancy](https://arxiv.org/abs/2601.05752)], [[**EMNLP24-monosemanticity**](https://arxiv.org/pdf/2406.17969)]
+- Generating better explanations: [[**ACL25-faithful**](https://openreview.net/pdf?id=bOFGdbXdKV)],[[**Computational Linguistics22**](https://aclanthology.org/2022.cl-4.17/)], [[**TKDE24**](https://arxiv.org/abs/2305.05331)],[[CodeComplexity](https://arxiv.org/abs/2601.21894)]
 - Explaining/alleviating the model's vulnerability via representation perspectives:
     - Efficiency [[Compression](https://arxiv.org/abs/2602.03784)], [[EMNLP25](https://arxiv.org/abs/2502.21074)], [[ICML25](https://openreview.net/forum?id=LidZXoqZ2Q)], [[ICML25spotlight](https://openreview.net/pdf?id=Pp90xRxITT)], [[ICML26](https://arxiv.org/pdf/2602.06161)];
     - Retrieval-based reasoning [[AAAI25oral](https://arxiv.org/abs/2508.05909)], [[BeyondRAG](https://arxiv.org/abs/2602.02007)],
     - Better Generalisation [[**ICML25**](https://icml.cc/virtual/2025/poster/40142)], [[**EMNLP24**](https://arxiv.org/pdf/2406.17969)], [[**EACL23findings**](https://aclanthology.org/2023.findings-eacl.102/)], [[**UAI22Spotlight**](https://proceedings.mlr.press/v180/yan22b.html)].
   
-On the application side, I mostly focus on AI for science: [[COLM25](https://arxiv.org/pdf/2504.00255)], [[EMNLP25Demo](https://arxiv.org/abs/2510.15706)], [KDD26].
+On the application side, I mostly focus on AI for science: [[COLM25-PaperReplicate](https://arxiv.org/pdf/2504.00255)], [[EMNLP25Demo-Novelty](https://arxiv.org/abs/2510.15706)], [KDD26-Novelty].
 
 Previously, I focused on robustness over distribution shifts: [[ACL24finding](https://aclanthology.org/2024.findings-acl.386/)],[[**ACL21Oral**](https://aclanthology.org/2021.acl-long.261.pdf)],[[**NeurIPS23**](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)].
 
