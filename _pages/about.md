@@ -18,22 +18,22 @@ I’ve been incredibly lucky to have a number of amazing collaborators and mento
 
 ## Research Highlights
 My research interests lie in the intersection of Machine Learning and Natural Language Processing, i.e., incorporating fundamental representation learning to enhance the **interpretability** and **reliability** of Language models, with highlighted **(co-)first-authored/Corresponding** papers:
-- Mechanistic interpretability (mostly LLM safety):  [[**EMNLP24-DPOOverfit**](https://arxiv.org/pdf/2406.17969)], [[**ICLR26-ReasonInducedMisalign**](https://arxiv.org/abs/2509.00544v1)], [[ICLR26Blog-RLMisalign](https://iclr-blogposts.github.io/2026/blog/2026/misalign-failure-mode/)], [[**NeurIPS24RBMF-multimodal**](https://asu-apg.github.io/rbfm/)] [[**ACL26finding-multimodal**](https://openreview.net/pdf?id=oVSQIwRwqs)],[[ACL26finding-AutoMonitorBench](https://arxiv.org/abs/2601.05752)]
-- Generating better explanations: [[**ACL25-faithful**](https://openreview.net/pdf?id=bOFGdbXdKV)],[[**Computational Linguistics22-classifier**](https://aclanthology.org/2022.cl-4.17/)], [[**TKDE24-Recommendation**](https://arxiv.org/abs/2305.05331)],[[**GradientforKnowledgeGap**](https://arxiv.org/abs/2604.02830)],[[CodeComplexity](https://arxiv.org/abs/2601.21894)]
+- Mechanistic interpretability (mostly LLM safety):  [[**EMNLP24**](https://arxiv.org/pdf/2406.17969)], [[**ICLR26**](https://arxiv.org/abs/2509.00544v1)], [[ICLR26Blog]](https://iclr-blogposts.github.io/2026/blog/2026/misalign-failure-mode/)], [[**NeurIPS24RBMF**](https://asu-apg.github.io/rbfm/)] [[**ACL26finding**](https://openreview.net/pdf?id=oVSQIwRwqs)],[[ACL26finding](https://arxiv.org/abs/2601.05752)]
+- Generating better explanations: [[**ACL25**](https://openreview.net/pdf?id=bOFGdbXdKV)],[[**Computational Linguistics22**](https://aclanthology.org/2022.cl-4.17/)], [[**TKDE24**](https://arxiv.org/abs/2305.05331)],[[**COLM26**](https://arxiv.org/abs/2604.02830)],[[CodeComplexity](https://arxiv.org/abs/2601.21894)]
 - Explaining/alleviating the model's vulnerability via representation perspectives:
-    - Efficiency [[Compression](https://arxiv.org/abs/2602.03784)], [[EMNLP25Latent CoT](https://arxiv.org/abs/2502.21074)], [[ICML25-SparseDPO](https://openreview.net/forum?id=LidZXoqZ2Q)], [[ICML25spotlight-InferenceBayes](https://openreview.net/pdf?id=Pp90xRxITT)], [[ICML26-Diffusion](https://arxiv.org/pdf/2602.06161)];
+    - Efficiency [[Compression](https://arxiv.org/abs/2602.03784)], [[EMNLP25](https://arxiv.org/abs/2502.21074)], [[ICML25](https://openreview.net/forum?id=LidZXoqZ2Q)], [[ICML25spotlight](https://openreview.net/pdf?id=Pp90xRxITT)], [[ICML26](https://arxiv.org/pdf/2602.06161)];
     - Retrieval-based reasoning [[AAAI25oral](https://arxiv.org/abs/2508.05909)], [[BeyondRAG](https://arxiv.org/abs/2602.02007)],
-    - Better Generalisation [[**ICML25-MetaLearning**](https://icml.cc/virtual/2025/poster/40142)], [[**EMNLP24-DPO**](https://arxiv.org/pdf/2406.17969)], [[**EACL23findings-classifier**](https://aclanthology.org/2023.findings-eacl.102/)], [[**UAI22Spotlight-TokenUniformity**](https://proceedings.mlr.press/v180/yan22b.html)].
+    - Better Generalisation [[**ICML25**](https://icml.cc/virtual/2025/poster/40142)], [[**EMNLP24**](https://arxiv.org/pdf/2406.17969)], [[**EACL23findings**](https://aclanthology.org/2023.findings-eacl.102/)], [[**UAI22Spotlight**](https://proceedings.mlr.press/v180/yan22b.html)].
   
-On the application side, I mostly focus on AI for science: [[COLM25-CodeReplicate](https://arxiv.org/pdf/2504.00255)], [[EMNLP25Demo-NoveltyAssessment](https://arxiv.org/abs/2510.15706)], [KDD26-NoveltyAssessment].
+On the application side, I mostly focus on AI for science: [[COLM25](https://arxiv.org/pdf/2504.00255)], [[EMNLP25Demo](https://arxiv.org/abs/2510.15706)], [KDD26].
 
-Previously, I focused on robustness over distribution shifts: [[ACL24finding-DemoOrder](https://aclanthology.org/2024.findings-acl.386/)],[[**ACL21Oral-PositionBias**](https://aclanthology.org/2021.acl-long.261.pdf)],[[**NeurIPS23-DomainShifts**](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)].
+Previously, I focused on robustness over distribution shifts: [[ACL24finding](https://aclanthology.org/2024.findings-acl.386/)],[[**ACL21Oral**](https://aclanthology.org/2021.acl-long.261.pdf)],[[**NeurIPS23**](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)].
 
 
 # News
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-07.2026: A paper GRADE about LLM knowledge gap detection was accepted by <strong>COLM26</strong>🇺🇸, first author is my incoming PhD Student, Yujing Wang. <br>
+07.2026: A paper GRADE about LLM knowledge gap detection was accepted by <strong>COLM26</strong>🇺🇸, first author is my incoming PhD Student, Yujing <br>
 05.2026: A paper GraphMind accepted by <strong>KDD26</strong>🇰🇷 about novelty assessment for scientific papers using graph reasoning led by Italo. <br>
 05.2026: A paper accepted by <strong>ICML26</strong>🇰🇷 about an effective revision mechanism in diffusion models led by Yanzheng. <br>
 04.2026: New paper GRADE led by Yujing released about knowledge boundary detection🧠❓ via gradient subspace analysis. <br>
@@ -53,7 +53,7 @@ Previously, I focused on robustness over distribution shifts: [[ACL24finding-Dem
 07.2025: ✈️I go to Vienna, Austria🇦🇹 to present our faithful rationale generation and RAG papers accepted at <strong>ACL 2025</strong>. 🏞️ Excited to escape city life and explore Gosau & Hallstatt! <br>
 07.2025: ✈️I go to Vancouver, Canada🇨🇦 to present our LLM reasoning papers accepted at <strong>ICML 2025</strong>. 🍜 Can’t wait to revisit my favorite Chinese restaurant there! <br>
 07.2025: 1*paper, SciReplicate-Bench, accepted by COLM25, a benchmark for paper replication via code generation. <br>
-05.2025" 2*papers accepted by ACL25 main conference, including a co-first author paper in faithful rationale generation during LLM inference. <br>
+05.2025: 2*papers accepted by ACL25 main conference, including a co-first author paper in faithful rationale generation during LLM inference. <br>
 05.2025: 3*papers accepted by ICML25, including a first-author paper about meta-reasoning in the Position paper track. <br>
 11.2024: ✈️I go to 🇺🇸Miami☀️🌊🍹🏝, US for EMNLP24 to present our accepted papers and connect with like-minded researchers👩‍💻👨‍💻.<br>
 10.2024: 1*first-author paper about <strong>monosemantic neuron in multi-modal model</strong> is accepted by Neurips-RBMF workshop.<br>
