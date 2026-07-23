@@ -21,13 +21,13 @@ My research interests lie in the intersection of Machine Learning and Natural La
 - Mechanistic interpretability (for alignment and AI safety):[[**COLM26-KnowledgeGap**](https://arxiv.org/abs/2604.02830)],[[**ICLR26-safety**](https://arxiv.org/abs/2509.00544v1)], [[ICLR26Blog-Misalignment](https://iclr-blogposts.github.io/2026/blog/2026/misalign-failure-mode/)], [[**NeurIPS24RBMF-multimodal**](https://asu-apg.github.io/rbfm/)]&[[**ACL26finding**](https://openreview.net/pdf?id=oVSQIwRwqs)],[[ACL26finding-sycophancy](https://arxiv.org/abs/2601.05752)], [[**EMNLP24-monosemanticity**](https://arxiv.org/pdf/2406.17969)]
 - Generating better explanations: [[**ACL25-faithful**](https://openreview.net/pdf?id=bOFGdbXdKV)],[[**Computational Linguistics22**](https://aclanthology.org/2022.cl-4.17/)], [[**TKDE24**](https://arxiv.org/abs/2305.05331)],[[CodeComplexity](https://arxiv.org/abs/2601.21894)]
 - Explaining/alleviating the model's vulnerability via representation perspectives:
-    - Efficiency [[Compression](https://arxiv.org/abs/2602.03784)], [[EMNLP25](https://arxiv.org/abs/2502.21074)], [[ICML25](https://openreview.net/forum?id=LidZXoqZ2Q)], [[ICML25spotlight](https://openreview.net/pdf?id=Pp90xRxITT)], [[ICML26](https://arxiv.org/pdf/2602.06161)];
-    - Retrieval-based reasoning [[AAAI25oral](https://arxiv.org/abs/2508.05909)], [[BeyondRAG](https://arxiv.org/abs/2602.02007)],
+    - Efficiency [[ICML26-diffusion](https://arxiv.org/pdf/2602.06161)], [[Compression](https://arxiv.org/abs/2602.03784)], [[EMNLP25-CODI](https://arxiv.org/abs/2502.21074)], [[ICML25-MetaReason](https://openreview.net/forum?id=LidZXoqZ2Q)], [[ICML25spotlight-SoftReason](https://openreview.net/pdf?id=Pp90xRxITT)]
+    - Retrieval-based reasoning and Memory [[AAAI25oral](https://arxiv.org/abs/2508.05909)], [[BeyondRAG](https://arxiv.org/abs/2602.02007)],
     - Better Generalisation [[**ICML25**](https://icml.cc/virtual/2025/poster/40142)], [[**EMNLP24**](https://arxiv.org/pdf/2406.17969)], [[**EACL23findings**](https://aclanthology.org/2023.findings-eacl.102/)], [[**UAI22Spotlight**](https://proceedings.mlr.press/v180/yan22b.html)].
   
-On the application side, I mostly focus on AI for science: [[COLM25-PaperReplicate](https://arxiv.org/pdf/2504.00255)], [[EMNLP25Demo-Novelty](https://arxiv.org/abs/2510.15706)], [KDD26-Novelty].
+On the application side, I mostly focus on AI for science: [KDD26-Novelty], [[COLM25-PaperReplicate](https://arxiv.org/pdf/2504.00255)], [[EMNLP25Demo-Novelty](https://arxiv.org/abs/2510.15706)]
 
-Previously, I focused on robustness over distribution shifts: [[ACL24finding](https://aclanthology.org/2024.findings-acl.386/)],[[**ACL21Oral**](https://aclanthology.org/2021.acl-long.261.pdf)],[[**NeurIPS23**](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)].
+Previously, I focused on robustness over distribution shifts: [[ACL24finding](https://aclanthology.org/2024.findings-acl.386/)],[[**NeurIPS23**](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)],[[**ACL21Oral**](https://aclanthology.org/2021.acl-long.261.pdf)]
 
 
 # News
@@ -36,7 +36,6 @@ Previously, I focused on robustness over distribution shifts: [[ACL24finding](ht
 07.2026: A paper GRADE about LLM knowledge gap detection was accepted by <strong>COLM26</strong>🇺🇸, first author is my incoming PhD Student, Yujing <br>
 05.2026: A paper GraphMind accepted by <strong>KDD26</strong>🇰🇷 about novelty assessment for scientific papers using graph reasoning led by Italo. <br>
 05.2026: A paper accepted by <strong>ICML26</strong>🇰🇷 about an effective revision mechanism in diffusion models led by Yanzheng. <br>
-04.2026: New paper GRADE led by Yujing released about knowledge boundary detection🧠❓ via gradient subspace analysis. <br>
 04.2026: Two papers accepted by <strong> ACL26 </strong>, in multimodal interpretability and LLM safety monitoring benchmark (AutoMonitor-Bench). <br>
 04.2026: Our CODI paper led by Zhenyi Shen, received the <strong> best paper award </strong>🏆 from Responsible Ai UK. <br>
 03.2026: I deliver a masterclass for PhD students at KCL: STAI-CDT about "structured representation learning for latent thinking." <br>
