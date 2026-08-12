@@ -9,12 +9,13 @@ layout: subpage
   - Organiser
     - PreTrain 2025: Spotlight on ACL/ICML/ICLR at KCL
     - Co-Chair of the AACL22-Student Research Workshop
-  - Area Chair:
+  - Area Chair/Senior Program Committee:
     - ACL,
     - EMNLP
     - EACL
     - NAACL
     - COLM
+    - AAAI
   - Reviewers(program committee):
     - NLP:
       - AACL,
