@@ -12,7 +12,7 @@ redirect_from:
 
 ## Short Bio
 
-**Hanqi Yan** is an Assistant Professor (UK lecturer) at [King's College London](https://www.kcl.ac.uk/people/hanqi-yan) (hanqi.yan@kcl.ac.uk), Department of Informatics, affiliated with the [NLP group](https://kclnlp.github.io/index.html).  Before that, she was a postdoctoral researcher in the same department (2024-2025). She mainly focuses on interpretability and robustness for language models on various reasoning tasks, especially from the representation learning perspective. She serves as Area Chair for ACL, EMNLP, EACL, NAACL, COLM, and SPC for AAAI. She chaired the student workshop at AACL2022 and delivered a tutorial about "structured representation learning for LLM interpretability, generalisability and transferability" at AAAI26. She obtained her Ph.D from the University of Warwick(2024), Msc and BEng from Peking University and Beihang University.
+**Hanqi Yan** is an Assistant Professor (UK lecturer) at [King's College London](https://www.kcl.ac.uk/people/hanqi-yan) (hanqi.yan@kcl.ac.uk), Department of Informatics, affiliated with the [NLP group](https://kclnlp.github.io/index.html).  Before that, she was a postdoctoral researcher in the same department (2024-2025). She mainly focuses on interpretability and robustness for language models on various reasoning tasks, especially from the representation learning perspective. She serves as Area Chair for ACL, EMNLP, EACL, NAACL, COLM, and Senior PC member for AAAI. She chaired the student workshop at AACL2022 and delivered a tutorial about "structured representation learning for LLM interpretability, generalisability and transferability" at AAAI26. She obtained her Ph.D from the University of Warwick(2024), Msc and BEng from Peking University and Beihang University.
 
 <!-- I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT/PKU](https://yifeiwang77.com/), [MBZUAI/Tsinghua](https://chengy12.github.io/), [KAUST](https://shuyhere.notion.site/Shu-Yang-1210f14e46e080f18511e448279487e6), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en), [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support. -->
 
@@ -33,6 +33,7 @@ Previously, I focused on robustness over distribution shifts: [[ACL24finding](ht
 # News
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+08.2026: Two papers accepted by EMNLP26🇭🇺 main conferences. Congrats to Hainiu Xu (theory of mind) and Gerrit Quaremba (latent probe for machine-generated texts)! <br>
 07.2026: A paper GRADE about LLM knowledge gap detection was accepted by <strong>COLM26</strong>🇺🇸, first author is my incoming PhD Student, Yujing <br>
 05.2026: A paper GraphMind accepted by <strong>KDD26</strong>🇰🇷 about novelty assessment for scientific papers using graph reasoning led by Italo. <br>
 05.2026: A paper accepted by <strong>ICML26</strong>🇰🇷 about an effective revision mechanism in diffusion models led by Yanzheng. <br>
