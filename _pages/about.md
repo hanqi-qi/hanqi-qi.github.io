@@ -33,7 +33,7 @@ Previously, I focused on robustness over distribution shifts: [[ACL24finding](ht
 # News
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-08.2026: Two papers accepted by EMNLP26🇭🇺 main conferences. Congrats to Hainiu Xu (theory of mind) and Gerrit Quaremba (latent probe for machine-generated texts)! <br>
+08.2026: Two papers accepted by <strong>EMNLP26</strong>🇭🇺 main conferences. Congrats to Hainiu Xu (theory of mind) and Gerrit Quaremba (latent probe for machine-generated texts)! <br>
 07.2026: A paper GRADE about LLM knowledge gap detection was accepted by <strong>COLM26</strong>🇺🇸, first author is my incoming PhD Student, Yujing <br>
 05.2026: A paper GraphMind accepted by <strong>KDD26</strong>🇰🇷 about novelty assessment for scientific papers using graph reasoning led by Italo. <br>
 05.2026: A paper accepted by <strong>ICML26</strong>🇰🇷 about an effective revision mechanism in diffusion models led by Yanzheng. <br>
