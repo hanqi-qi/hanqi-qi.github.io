@@ -21,6 +21,27 @@ layout: subpage
 <div class="publication-list">
 
     <div class="paper-box-text interpretability alignment" markdown="1">
+  <b style="color:#783F04;">Linear Probing Provides Robust and Efficient Detection of Machine-Generated Text</b>
+  \\
+  Gerrit Quaremba, **Hanqi. Yan**, Elizabeth Black, Denny Vrandecic, Elena Simperl  \\
+  **EMNLP26** | [Paper](https://arxiv.org/abs/2608.24780)
+  <br>
+<span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">alignment</span> <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>
+  <br>
+  </div>
+
+    <div class="paper-box-text alignment" markdown="1">
+  <b style="color:#783F04;">Why It Hurts: Identifying the Drivers of Negative Thoughts in Emotional Support Conversations</b>
+  \\
+  Hainiu Xu, Zhaoyue Sun, **Hanqi Yan**, Jinhua Du, Caroline Catmur, Yulan He \\
+  **EMNLP26** | [Paper](https://arxiv.org/abs/2607.28648)
+  <br>
+<span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">alignment</span> 
+  <br>
+  </div>
+  
+
+    <div class="paper-box-text interpretability alignment" markdown="1">
   <b style="color:#783F04;">GRADE: Probing Knowledge Gaps in LLMs through Gradient Subspace Dynamics</b>
   \\
   Y. Wang, Y. Liang, Y. Li, H. Zhang, **H. Yan** \\
