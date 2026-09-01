@@ -21,7 +21,7 @@ layout: subpage
 <div class="publication-list">
 
     <div class="paper-box-text interpretability alignment" markdown="1">
-  <b style="color:#783F04;">Linear Probing Provides Robust and Efficient Detection of Machine-Generated Text</b>
+  <b style="color:#000000;">Linear Probing Provides Robust and Efficient Detection of Machine-Generated Text</b>
   \\
   Gerrit Quaremba, **Hanqi. Yan**, Elizabeth Black, Denny Vrandecic, Elena Simperl  \\
   **EMNLP26** | [Paper](https://arxiv.org/abs/2608.24780)
@@ -30,8 +30,8 @@ layout: subpage
   <br>
   </div>
 
-    <div class="paper-box-text alignment" markdown="1">
-  <b style="color:#783F04;">Why It Hurts: Identifying the Drivers of Negative Thoughts in Emotional Support Conversations</b>
+  <div class="paper-box-text alignment" markdown="1">
+  <b style="color:#000000;">Why It Hurts: Identifying the Drivers of Negative Thoughts in Emotional Support Conversations</b>
   \\
   Hainiu Xu, Zhaoyue Sun, **Hanqi Yan**, Jinhua Du, Caroline Catmur, Yulan He \\
   **EMNLP26** | [Paper](https://arxiv.org/abs/2607.28648)
@@ -42,7 +42,7 @@ layout: subpage
   
 
     <div class="paper-box-text interpretability alignment" markdown="1">
-  <b style="color:#783F04;">GRADE: Probing Knowledge Gaps in LLMs through Gradient Subspace Dynamics</b>
+  <b style="color:#000000;">GRADE: Probing Knowledge Gaps in LLMs through Gradient Subspace Dynamics</b>
   \\
   Y. Wang, Y. Liang, Y. Li, H. Zhang, **H. Yan** \\
   **COLM26** | [Paper](https://arxiv.org/abs/2604.02830)
@@ -52,7 +52,7 @@ layout: subpage
   </div>
 
       <div class="paper-box-text  aiforscience" markdown="1">
-  <b style="color:#783F04;"> GraphMind: Unveiling Scientific Reasoning through Contextual Graphs for Novelty Assessment
+  <b style="color:#000000;"> GraphMind: Unveiling Scientific Reasoning through Contextual Graphs for Novelty Assessment
   </b>
   \\
   I. Silva, **H. Yan**, L. Gui, Y. He \\
@@ -64,7 +64,7 @@ layout: subpage
   
 
     <div class="paper-box-text reasoning " markdown="1">
-  <b style="color:#783F04;"> Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding </b>
+  <b style="color:#000000;"> Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding </b>
   \\
   Y. Xiang*, W. Lan*, ..., **H. Yan**, ..., Y. He \\
   **ICML26** | [Paper](https://arxiv.org/abs/2602.06161))
@@ -75,7 +75,7 @@ layout: subpage
   
 
     <div class="paper-box-text alignment" markdown="1">
-  <b style="color:#783F04;">AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor </b>
+  <b style="color:#000000;">AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor </b>
   \\
   S. Yang, J. Hu, T. Li, **H. Yan**, W. Wang, D. Wang \\
   **ACL26-findings** | [Paper](https://arxiv.org/abs/2502.14888)
@@ -86,7 +86,7 @@ layout: subpage
 
   
      <div class="paper-box-text interpretability" markdown="1">
-  <b style="color:#783F04;">Multi-Faceted Multimodal Monosemanticity</b>
+  <b style="color:#000000;">Multi-Faceted Multimodal Monosemanticity</b>
   \\
   **H. Yan**, X. Cui*, Y. Lu, P Liang, J. Gu, Y. He, Y. Wang \\
   **ACL26-findings** | [Paper](https://arxiv.org/abs/2502.14888)
@@ -97,7 +97,7 @@ layout: subpage
 
   
     <div class="paper-box-text alignment interpretability" markdown="1">
-  <b style="color:#783F04;"> When Thinking Backfires: Mechanistic intepretability into reason-induced misalignment </b>
+  <b style="color:#000000;"> When Thinking Backfires: Mechanistic intepretability into reason-induced misalignment </b>
   \\
   **H. Yan**, H, Xu, S. Qi, S. Yang, Y. He \\
   **ICLR26** | [Paper](https://arxiv.org/pdf/2509.00544)
@@ -107,7 +107,7 @@ layout: subpage
   </div>
 
     <div class="paper-box-text reasoning" markdown="1">
-  <b style="color:#783F04;"> Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation
+  <b style="color:#000000;"> Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation
   </b>
   \\
   Z.Hu, Q.Zhu, S. Qi, Y. He, **H. Yan**, L. Gui\\
@@ -118,7 +118,7 @@ layout: subpage
   </div>
 
     <div class="paper-box-text  aiforscience" markdown="1">
-  <b style="color:#783F04;"> GraphMind: Interactive Novelty Assessment System for Accelerating Scientific Discovery
+  <b style="color:#000000;"> GraphMind: Interactive Novelty Assessment System for Accelerating Scientific Discovery
   </b>
   \\
   I. Silva, **H. Yan**, L. Gui, Y. He \\
@@ -130,7 +130,7 @@ layout: subpage
   
 
   <div class="paper-box-text reasoning" markdown="1">
-  <b style="color:#783F04;">CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation</b>
+  <b style="color:#000000;">CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation</b>
   \\
   Z. Shen, **H. Yan**, L. Zhang, Y. Du, Y. He\\
   **EMNLP25** | [Paper](https://arxiv.org/abs/2502.21074)
@@ -140,7 +140,7 @@ layout: subpage
   </div>
   
   <div class="paper-box-text reasoning alignment" markdown="1">
-  <b style="color:#783F04;">Position: LLMs Need a Bayesian Meta-Reasoning Framework for More Robust and Generalizable Reasoning
+  <b style="color:#000000;">Position: LLMs Need a Bayesian Meta-Reasoning Framework for More Robust and Generalizable Reasoning
   </b>
   \\
   **H. Yan**, L. Zhang, J. Li, Z. S, Y. He\\
@@ -151,7 +151,7 @@ layout: subpage
   </div>
 
   <div class="paper-box-text reasoning alignment" markdown="1">
-  <b style="color:#783F04;">Drift: Enhancing LLM Faithfulness in Rationale Generation via Dual-Reward Probabilistic Inference
+  <b style="color:#000000;">Drift: Enhancing LLM Faithfulness in Rationale Generation via Dual-Reward Probabilistic Inference
   </b>
   \\
   J. Li, **H. Yan**, Y. He\\
@@ -163,7 +163,7 @@ layout: subpage
   
 
   <div class="paper-box-text reasoning" markdown="1">
-  <b style="color:#783F04;">Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration
+  <b style="color:#000000;">Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration
   </b>
   \\
   Q. Zhu, R. Zhao. **H. Yan**, Y. He, Y. Chen, L. Gui\\
@@ -174,7 +174,7 @@ layout: subpage
   </div>
 
   <div class="paper-box-text reasoning" markdown="1">
-  <b style="color:#783F04;">Direct preference optimization using sparse feature-level constraints
+  <b style="color:#000000;">Direct preference optimization using sparse feature-level constraints
   </b>
   \\
   Q. Yin, C. Leong, H. Zhang, M. Zhu, **H. Yan**, Q. Zhang, Y. He, W. Li, J. Wang, Y. Zhang, L. Yang\\
@@ -185,7 +185,7 @@ layout: subpage
   </div>
 
   <div class="paper-box-text aiforscience" markdown="1">
-  <b style="color:#783F04;"> SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers
+  <b style="color:#000000;"> SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction from Research Papers
   </b>
   \\
     Y. Xiang, **H. Yan**, S. Ouyang, L. Gui, Y. He
@@ -198,7 +198,7 @@ layout: subpage
   
   
   <div class="paper-box-text interpretability  reasoning" markdown="1">
-  <b style="color:#783F04;">Encourage or Inhibit Monosemanticity? Revisit Monosemanticity from a Feature Decorrelation Perspective
+  <b style="color:#000000;">Encourage or Inhibit Monosemanticity? Revisit Monosemanticity from a Feature Decorrelation Perspective
   </b>
   \\
   **H. Yan**, Y. Xiang, G Chen, Y. Wang, L. Gui, Y. He\\
@@ -209,7 +209,7 @@ layout: subpage
   </div>
 
   <div class="paper-box-text reasoning" markdown="1">
-  <b style="color:#783F04;"> Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems
+  <b style="color:#000000;"> Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems
   </b>
   \\
   I. Silva, **H. Yan**, L. Gui, Y. He\\
@@ -219,7 +219,7 @@ layout: subpage
   </div>
 
   <div class="paper-box-text interpretability reasoning" markdown="1">
-  <b style="color:#783F04;"> The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities
+  <b style="color:#000000;"> The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities
   </b>
   \\
   Y. Zhou, J. Li, Y.Xiang, **H.Yan**, L. Gui, Y. He\\
@@ -229,7 +229,7 @@ layout: subpage
   </div>
 
   <div class="paper-box-text reasoning" markdown="1">
-  <b style="color:#783F04;"> Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning
+  <b style="color:#000000;"> Mirror: A Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning
   </b>
   \\
    <strong>H. Yan</strong>, Q. Zhu, X. Wang, L. Gui, Y. He\\
@@ -239,7 +239,7 @@ layout: subpage
   </div>
 
   <div class="paper-box-text reasoning" markdown="1">
-  <b style="color:#783F04;">Addressing Order Sensitivity of In-Context Demonstration Examples in Causal Language Models. 
+  <b style="color:#000000;">Addressing Order Sensitivity of In-Context Demonstration Examples in Causal Language Models. 
   </b>
   \\
   Y. Xiang, **H. Yan**, L. Gui, Y. He\\
@@ -250,7 +250,7 @@ layout: subpage
   
 
   <div class='paper-box-text reasoning interpretability' markdown="1">
-  <b style="color:#783F04;"> Counterfactual Generation with Identifiability Guarantee
+  <b style="color:#000000;"> Counterfactual Generation with Identifiability Guarantee
   </b>
   \\
   <strong>H. Yan</strong>, L. Kong, L. Gui, Y. Chi, Eric. Xing, Y. He, K. Zhang\\
@@ -259,7 +259,7 @@ layout: subpage
   </div>
 
   <div class='paper-box-text interpretability reasoning' markdown="1">
-  <b style="color:#783F04;"> Explainable Recommender with Geometric Information Bottleneck
+  <b style="color:#000000;"> Explainable Recommender with Geometric Information Bottleneck
   </b>
   \\
   <strong>H. Yan</strong>, L. Gui, M. Wang, K. Zhang and Y. He\\
@@ -268,7 +268,7 @@ layout: subpage
   </div>
 
   <div class='paper-box-text interpretability application' markdown="1">
-  <b style="color:#783F04;"> Hierarchical Interpretation of Neural Text Classification
+  <b style="color:#000000;"> Hierarchical Interpretation of Neural Text Classification
   </b>
   \\
   <strong>H. Yan</strong>, L. Gui and Y. He \\
@@ -277,7 +277,7 @@ layout: subpage
   </div>
 
   <div class='paper-box-text interpretability reasoning' markdown="1">
-  <b style="color:#783F04;"> Addressing Token Uniformity in Transformers via Singular Value Transformation
+  <b style="color:#000000;"> Addressing Token Uniformity in Transformers via Singular Value Transformation
   </b>
   \\
   <strong>H. Yan</strong>, L. Gui, W. Li and Y. He \\
@@ -286,7 +286,7 @@ layout: subpage
   </div>
 
   <div class='paper-box-text interpretability reasoning' markdown="1">
-  <b style="color:#783F04;"> Distinguishability Calibration to In-Context Learning
+  <b style="color:#000000;"> Distinguishability Calibration to In-Context Learning
   </b>
   \\
   H. Li, <strong>H. Yan</strong>, L. Gui, W. Li and Y. He \\
@@ -295,7 +295,7 @@ layout: subpage
   </div>
   
   <div class='paper-box-text reasoning' markdown="1">
-  <b style="color:#783F04;"> A Knowledge-Aware Graph Model for Emotion Cause Extraction
+  <b style="color:#000000;"> A Knowledge-Aware Graph Model for Emotion Cause Extraction
   </b>
   \\
   <strong>H. Yan</strong>, L. Gui and Y. He \\
