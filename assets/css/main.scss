@@ -108,16 +108,18 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-
 /* Custom font — Inter */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
-body, p, li, a {
-  font-family: 'Times New Roman', Times, serif !important;
-  font-size: 1.05em !important;
+body {
+  font-family: 'Inter', sans-serif !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Times New Roman', Times, serif !important;
-  font-weight: 700 !important;
+  font-family: 'Inter', sans-serif !important;
+  font-weight: 600 !important;
+}
+
+p, li, a {
+  font-family: 'Inter', sans-serif !important;
 }
