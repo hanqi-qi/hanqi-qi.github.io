@@ -146,7 +146,7 @@ layout: subpage
   **H. Yan**, L. Zhang, J. Li, Z. S, Y. He\\
   **ICML25, Position Track** | [Paper](https://kclpure.kcl.ac.uk/portal/en/publications/position-llms-need-a-bayesian-meta-Reasoning-framework-for-more-r)
   <br>
-  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Reasoning</span> <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Trustworthy</span>
+  <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Reasoning</span> <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">Trustworthy</span>
   <br>
   </div>
 
