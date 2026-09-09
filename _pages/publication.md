@@ -11,43 +11,43 @@ layout: subpage
 <!-- Filter Buttons -->
 <div id="filter-container">
   <button class="filter-btn" onclick="filterPubs('all')">All</button>
-  <button class="filter-btn" onclick="filterPubs('interpretability')">Interpretability</button>
+  <button class="filter-btn" onclick="filterPubs('mechanism')">Mechanism</button>
   <button class="filter-btn" onclick="filterPubs('reasoning')">reasoning</button>
-   <button class="filter-btn" onclick="filterPubs('alignment')">Alignment</button>
+   <button class="filter-btn" onclick="filterPubs('trustworthy')">Trustworthy</button>
   <button class="filter-btn" onclick="filterPubs('aiforscience')">AI4Science</button>
  
 </div>
 
 <div class="publication-list">
 
-    <div class="paper-box-text interpretability alignment" markdown="1">
+    <div class="paper-box-text mechanism trustworthy" markdown="1">
   <b style="color:#000000;">Linear Probing Provides Robust and Efficient Detection of Machine-Generated Text</b>
   \\
   Gerrit Quaremba, **Hanqi. Yan**, Elizabeth Black, Denny Vrandecic, Elena Simperl  \\
   **EMNLP26** | [Paper](https://arxiv.org/abs/2608.24780)
   <br>
-<span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">alignment</span> <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>
+<span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">trustworthy</span> <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>
   <br>
   </div>
 
-  <div class="paper-box-text alignment" markdown="1">
+  <div class="paper-box-text trustworthy" markdown="1">
   <b style="color:#000000;">Why It Hurts: Identifying the Drivers of Negative Thoughts in Emotional Support Conversations</b>
   \\
   Hainiu Xu, Zhaoyue Sun, **Hanqi Yan**, Jinhua Du, Caroline Catmur, Yulan He \\
   **EMNLP26** | [Paper](https://arxiv.org/abs/2607.28648)
   <br>
-<span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">alignment</span> 
+<span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">trustworthy</span> 
   <br>
   </div>
   
 
-    <div class="paper-box-text interpretability alignment" markdown="1">
+    <div class="paper-box-text mechanism trustworthy" markdown="1">
   <b style="color:#000000;">GRADE: Probing Knowledge Gaps in LLMs through Gradient Subspace Dynamics</b>
   \\
   Y. Wang, Y. Liang, Y. Li, H. Zhang, **H. Yan** \\
   **COLM26** | [Paper](https://arxiv.org/abs/2604.02830)
   <br>
-<span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">alignment</span> <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>
+<span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">trustworthy</span> <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>
   <br>
   </div>
 
@@ -74,18 +74,18 @@ layout: subpage
   </div>
   
 
-    <div class="paper-box-text alignment" markdown="1">
+    <div class="paper-box-text trustworthy" markdown="1">
   <b style="color:#000000;">AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor </b>
   \\
   S. Yang, J. Hu, T. Li, **H. Yan**, W. Wang, D. Wang \\
   **ACL26-findings** | [Paper](https://arxiv.org/abs/2502.14888)
   <br>
-<span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">alignment</span>
+<span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">trustworthy</span>
   <br>
   </div>
 
   
-     <div class="paper-box-text interpretability" markdown="1">
+     <div class="paper-box-text mechanism" markdown="1">
   <b style="color:#000000;">Multi-Faceted Multimodal Monosemanticity</b>
   \\
   **H. Yan**, X. Cui*, Y. Lu, P Liang, J. Gu, Y. He, Y. Wang \\
@@ -96,13 +96,13 @@ layout: subpage
   </div>
 
   
-    <div class="paper-box-text alignment interpretability" markdown="1">
-  <b style="color:#000000;"> When Thinking Backfires: Mechanistic intepretability into reason-induced misalignment </b>
+    <div class="paper-box-text trustworthy mechanism" markdown="1">
+  <b style="color:#000000;"> When Thinking Backfires: Mechanistic intepretability into reason-induced mistrustworthy </b>
   \\
   **H. Yan**, H, Xu, S. Qi, S. Yang, Y. He \\
   **ICLR26** | [Paper](https://arxiv.org/pdf/2509.00544)
   <br>
- <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span> <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">alignment</span>
+ <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span> <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">trustworthy</span>
   <br>
   </div>
 
@@ -139,25 +139,25 @@ layout: subpage
   <br>
   </div>
   
-  <div class="paper-box-text reasoning alignment" markdown="1">
+  <div class="paper-box-text reasoning trustworthy" markdown="1">
   <b style="color:#000000;">Position: LLMs Need a Bayesian Meta-Reasoning Framework for More Robust and Generalizable Reasoning
   </b>
   \\
   **H. Yan**, L. Zhang, J. Li, Z. S, Y. He\\
   **ICML25, Position Track** | [Paper](https://kclpure.kcl.ac.uk/portal/en/publications/position-llms-need-a-bayesian-meta-reasoning-framework-for-more-r)
   <br>
-  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">reasoning</span> <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">alignment</span>
+  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">reasoning</span> <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">trustworthy</span>
   <br>
   </div>
 
-  <div class="paper-box-text reasoning alignment" markdown="1">
+  <div class="paper-box-text reasoning trustworthy" markdown="1">
   <b style="color:#000000;">Drift: Enhancing LLM Faithfulness in Rationale Generation via Dual-Reward Probabilistic Inference
   </b>
   \\
   J. Li, **H. Yan**, Y. He\\
   **ACL25, Main** | [Paper](https://openreview.net/pdf?id=bOFGdbXdKV)
   <br>
-<span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">reasoning</span>  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span> <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">alignment</span>
+<span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">reasoning</span>  <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span> <span style="background-color: #f0f4d4; color: #000; padding: 2px 6px; border-radius: 4px;">trustworthy</span>
   <br>
   </div>
   
@@ -197,7 +197,7 @@ layout: subpage
   </div>
   
   
-  <div class="paper-box-text interpretability  reasoning" markdown="1">
+  <div class="paper-box-text mechanism  reasoning" markdown="1">
   <b style="color:#000000;">Encourage or Inhibit Monosemanticity? Revisit Monosemanticity from a Feature Decorrelation Perspective
   </b>
   \\
@@ -218,7 +218,7 @@ layout: subpage
 <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">reasoning</span> 
   </div>
 
-  <div class="paper-box-text interpretability reasoning" markdown="1">
+  <div class="paper-box-text mechanism reasoning" markdown="1">
   <b style="color:#000000;"> The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities
   </b>
   \\
@@ -249,7 +249,7 @@ layout: subpage
   </div>
   
 
-  <div class='paper-box-text reasoning interpretability' markdown="1">
+  <div class='paper-box-text reasoning mechanism' markdown="1">
   <b style="color:#000000;"> Counterfactual Generation with Identifiability Guarantee
   </b>
   \\
@@ -258,7 +258,7 @@ layout: subpage
 <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">reasoning</span> 
   </div>
 
-  <div class='paper-box-text interpretability reasoning' markdown="1">
+  <div class='paper-box-text mechanism reasoning' markdown="1">
   <b style="color:#000000;"> Explainable Recommender with Geometric Information Bottleneck
   </b>
   \\
@@ -267,7 +267,7 @@ layout: subpage
     <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>  <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">reasoning</span> 
   </div>
 
-  <div class='paper-box-text interpretability application' markdown="1">
+  <div class='paper-box-text mechanism application' markdown="1">
   <b style="color:#000000;"> Hierarchical Interpretation of Neural Text Classification
   </b>
   \\
@@ -276,7 +276,7 @@ layout: subpage
   <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>   <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">reasoning</span> 
   </div>
 
-  <div class='paper-box-text interpretability reasoning' markdown="1">
+  <div class='paper-box-text mechanism reasoning' markdown="1">
   <b style="color:#000000;"> Addressing Token Uniformity in Transformers via Singular Value Transformation
   </b>
   \\
@@ -285,7 +285,7 @@ layout: subpage
   <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Interpretability</span>   <span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">reasoning</span> 
   </div>
 
-  <div class='paper-box-text interpretability reasoning' markdown="1">
+  <div class='paper-box-text mechanism reasoning' markdown="1">
   <b style="color:#000000;"> Distinguishability Calibration to In-Context Learning
   </b>
   \\
