@@ -12,7 +12,7 @@ layout: subpage
 <div id="filter-container">
   <button class="filter-btn" onclick="filterPubs('all')">All</button>
   <button class="filter-btn" onclick="filterPubs('mechanism')">Mechanism</button>
-  <button class="filter-btn" onclick="filterPubs('reasoning')">reasoning</button>
+  <button class="filter-btn" onclick="filterPubs('reasoning')">Reasoning</button>
    <button class="filter-btn" onclick="filterPubs('trustworthy')">Trustworthy</button>
   <button class="filter-btn" onclick="filterPubs('aiforscience')">AI4Science</button>
  
