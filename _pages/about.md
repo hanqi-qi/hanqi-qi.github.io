@@ -22,7 +22,7 @@ My research aims to uncover the internal mechanisms of language models and use t
 
 - How can mechanistic understanding translate into models that are faithful, efficient, and trustworthy? We apply mechanistic insights to improve model behaviour — faithfully correct[[COLM26](https://arxiv.org/abs/2604.02830)] [[EMNLP26](https://arxiv.org/pdf/2608.24780)] [[ACL25](https://openreview.net/pdf?id=bOFGdbXdKV)], reasoning efficiency [[EMNLP25](https://arxiv.org/abs/2502.21074)][[ICML26](https://arxiv.org/abs/2602.06161)], reasoning diversity [[ICML25Spotlight](https://openreview.net/pdf?id=Pp90xRxITT)][[ACL24](https://arxiv.org/abs/2402.14963)], distribution shifts [[NeurIPS23](https://proceedings.neurips.cc/paper_files/paper/2023/file/afda6bf3fb086eabbaf161ba1cec5a9a-Paper-Conference.pdf)],[[ACL21Oral](https://aclanthology.org/2021.acl-long.261.pdf)] and conceptual meta-reasoning framework [[ICML25Position](https://icml.cc/virtual/2025/poster/40142)] 
 
-On the application side, I mostly focus on AI for science (AutoResearch): [[KDD26](https://dl.acm.org/doi/10.1145/3770855.3818195)], [[COLM25](https://arxiv.org/pdf/2504.00255)], [[EMNLP25Demo](https://arxiv.org/abs/2510.15706)]
+On the application side, I mostly focus on LLMs for AutoResearch: [[KDD26](https://dl.acm.org/doi/10.1145/3770855.3818195)], [[COLM25](https://arxiv.org/pdf/2504.00255)], [[EMNLP25Demo](https://arxiv.org/abs/2510.15706)]
 
 # News
 
