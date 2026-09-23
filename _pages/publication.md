@@ -14,7 +14,7 @@ layout: subpage
   <button class="filter-btn" onclick="filterPubs('Mechanism')">Mechanism</button>
   <button class="filter-btn" onclick="filterPubs('Reasoning')">Reasoning</button>
    <button class="filter-btn" onclick="filterPubs('Trustworthy')">Trustworthy</button>
-  <button class="filter-btn" onclick="filterPubs('aiforscience')">AI4Science</button>
+  <button class="filter-btn" onclick="filterPubs('aiforscience')">AutoResearch</button>
  
 </div>
 
@@ -58,7 +58,7 @@ layout: subpage
   I. Silva, **H. Yan**, L. Gui, Y. He \\
   **KDD26** | [Paper]([https://arxiv.org/abs/2510.15706](https://openreview.net/forum?id=oax3bTAC5B#discussion))
   <br>
-<span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">AI4science</span>  
+<span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">AutoResearch</span>  
   <br>
   </div>
   
@@ -124,7 +124,7 @@ layout: subpage
   I. Silva, **H. Yan**, L. Gui, Y. He \\
   **EMNLP25 Demo** | [Paper](https://arxiv.org/abs/2510.15706)
   <br>
-<span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">AI4science</span>  
+<span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">AutoResearch</span>  
   <br>
   </div>
   
@@ -192,7 +192,7 @@ layout: subpage
   \\
   **COLM25** | [Paper](https://arxiv.org/abs/2504.00255)
   <br>
-<span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">AI4science</span>  
+<span style="background-color: #f0d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">AutoResearch</span>  
   <br>
   </div>
   
