@@ -48,7 +48,6 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
       <li>Qinglin Zhu (Search&Plan) </li>
       <li>Zhanghao Hu (RAG)</li>
       <li>Zhenyi Shen (Self-distillation)</li>
-      <li>Jiangnan Ye (self-evolve)</li>
     </ul>
   </li>
   <li><strong>Explainable AI</strong>
