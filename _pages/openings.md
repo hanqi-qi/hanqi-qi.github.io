@@ -18,23 +18,23 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="text-align: center;">
-    <img src="yujing.jpg" alt="Yujing Wang" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+    <img src="/images/yujing.jpg" alt="Yujing Wang" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
     <br>
-    <a href="https://yujing-website.com">Yujing Wang</a>
+    <a href="https://yjeugenia.github.io/">Yujing Wang</a>
   </div>
 
   <div style="text-align: center;">
-    <img src="jiangnan.jpg" alt="Jiangnan Ye" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+    <img src="/images/jiangnanye.jpg" alt="Jiangnan Ye" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
     <br>
-    <a href="https://jiangnan-website.com">Jiangnan Ye</a>
+    <a href="https://scholar.google.com/citations?user=vZNU7wcAAAAJ&hl=zh-CN&inst=15159612047463182172">Jiangnan Ye</a>
     <br>
     <span style="font-size: 0.8em; color: gray;">(1st supervisor: Yulan He)</span>
   </div>
 
   <div style="text-align: center;">
-    <img src="xiyuan.jpg" alt="Xiyuan Cao" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+    <img src="/images/xiyuan.png" alt="Xiyuan Cao" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
     <br>
-    <a href="https://xiyuan-website.com">Xiyuan Cao</a>
+    <a href="">Xiyuan Cao</a>
     <br>
     <span style="font-size: 0.8em; color: gray;">(1st supervisor: Denise Hawkes)</span>
   </div>
