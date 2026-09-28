@@ -13,15 +13,42 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 - [Joint PhD Scholarships 2026/27](https://www.kcl.ac.uk/study-legacy/funding/joint-phd-scholarship). Partner Universities: The University of Hong Kong/Humboldt University, Berlin/The National University of Singapore/The University of Sao Paulo. Deadline: 5 February 2026
 - [Alternative fundings](https://www.kcl.ac.uk/study/postgraduate-research/funding/scholarships-and-studentships).
 
-## Cooperation with PhD students (KCL-NLP)
+## PhD students
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <div style="text-align: center;">
+    <img src="yujing.jpg" alt="Yujing Wang" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+    <br>
+    <a href="https://yujing-website.com">Yujing Wang</a>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="jiangnan.jpg" alt="Jiangnan Ye" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+    <br>
+    <a href="https://jiangnan-website.com">Jiangnan Ye</a>
+    <br>
+    <span style="font-size: 0.8em; color: gray;">(1st supervisor: Yulan He)</span>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="xiyuan.jpg" alt="Xiyuan Cao" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+    <br>
+    <a href="https://xiyuan-website.com">Xiyuan Cao</a>
+    <br>
+    <span style="font-size: 0.8em; color: gray;">(1st supervisor: Denise Hawkes)</span>
+  </div>
+
+</div>
+
+## Co-authorship students at KCL-NLP Group
 <ul class="student-list">
   <li><strong>LLM reasoning</strong>
     <ul>
       <li>Qinglin Zhu (Search&Plan) </li>
       <li>Zhanghao Hu (RAG)</li>
       <li>Zhenyi Shen (Self-distillation)</li>
-      <li>Jiangnan Ye (Compression, co-supervised with Yulan He)</li>
+      <li>Jiangnan Ye (self-evolve)</li>
     </ul>
   </li>
   <li><strong>Explainable AI</strong>
@@ -39,8 +66,9 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 </ul>
 
 ## Other mentorship
+- Xinnong zhang (Remote & Onsite, Fudan PhD)
 - Ahmed Oumar (Remote, MBZUAI PhD)
-- Yujing Wang (Remote, Buaa Msc)
+- Yujing Wang (Remote, Buaa Msc, Now KCL PhD)
 - Lakshmipriya Ragupathi (KCL MSc)
 - Yu Tian (Visiting student from Beijing Jiaotong University)
 
