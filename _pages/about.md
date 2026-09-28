@@ -27,12 +27,12 @@ On the application side, I mostly focus on LLMs for AutoResearch: [[KDD26](https
 # News
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-09.2026: Three paper accepted by  <strong>Neurips26</strong>. Congrats to Jiangnan (compression), Zhanghao (agentic memory) and Xijie (agentic tool call) ! <br>
-08.2026: Two papers accepted by <strong>EMNLP26</strong>🇭🇺 main conferences. Congrats to Hainiu Xu (theory of mind) and Gerrit Quaremba (latent probe for machine-generated texts)! <br>
-07.2026: A paper GRADE about LLM knowledge gap detection was accepted by <strong>COLM26</strong>🇺🇸, first author is my incoming PhD Student, Yujing <br>
-05.2026: A paper GraphMind accepted by <strong>KDD26</strong>🇰🇷 about novelty assessment for scientific papers using graph reasoning led by Italo. <br>
-05.2026: A paper accepted by <strong>ICML26</strong>🇰🇷 about an effective revision mechanism in diffusion models led by Yanzheng. <br>
-04.2026: Two papers accepted by <strong> ACL26 </strong>, in multimodal interpretability and LLM safety monitoring benchmark (AutoMonitor-Bench). <br>
+09.2026: 3 paper accepted by  <strong>Neurips26</strong>. Congrats to Jiangnan (compression), Zhanghao (agentic memory) and Xijie (agentic tool call) ! <br>
+08.2026: 2 papers accepted by <strong>EMNLP26</strong>🇭🇺 main conferences. Congrats to Hainiu Xu (theory of mind) and Gerrit Quaremba (latent probe for machine-generated texts)! <br>
+07.2026: 1 paper GRADE about LLM knowledge gap detection was accepted by <strong>COLM26</strong>🇺🇸, first author is my incoming PhD Student, Yujing <br>
+05.2026: 1 paper GraphMind accepted by <strong>KDD26</strong>🇰🇷 about novelty assessment for scientific papers using graph reasoning led by Italo. <br>
+05.2026: 2 paper accepted by <strong>ICML26</strong>🇰🇷 about an effective revision mechanism in diffusion models led by Yanzheng. <br>
+04.2026: 2 papers accepted by <strong> ACL26 </strong>, in multimodal interpretability and LLM safety monitoring benchmark (AutoMonitor-Bench). <br>
 04.2026: Our CODI paper led by Zhenyi Shen, received the <strong> best paper award </strong>🏆 from Responsible Ai UK. <br>
 03.2026: I deliver a masterclass for PhD students at KCL: STAI-CDT about "structured representation learning for latent thinking." <br>
 03.2026: I give a research talk about "limitation⚠️ of LLMs' reasoning and agency" at the Royal Society for "AI for and with Humans" workshop. <br>
@@ -44,7 +44,7 @@ On the application side, I mostly focus on LLMs for AutoResearch: [[KDD26](https
 09.2025: A joint tutorial "Structured Representation Learning: Interpretability, Robustness and Transferability for Large Language Models" is accepted by <strong> AAAI26 </strong>. See you in Singapore! <br>
 09.2025: Paper "Thinking Hard, Going Misaligned: Emergent Misalignment in LLMs" accepted to Neurips25-Mechanistic Interpretability Workshop <br>
 09.2025: I started the lecturer position at KCL. Looking forward to more challenges and opportunities ahead! <br>
-08.2025: 2*EMNLP paper is accepted. CODI (implicit CoT) and GraphMind(LLM for novelty assessment, demo) <br>
+08.2025: 2 EMNLP paper is accepted. CODI (implicit CoT) and GraphMind(LLM for novelty assessment, demo) <br>
 07.2025: ✈️I go to Vienna, Austria🇦🇹 to present our faithful rationale generation and RAG papers accepted at <strong>ACL 2025</strong>. 🏞️ Excited to escape city life and explore Gosau & Hallstatt! <br>
 07.2025: ✈️I go to Vancouver, Canada🇨🇦 to present our LLM reasoning papers accepted at <strong>ICML 2025</strong>. 🍜 Can’t wait to revisit my favorite Chinese restaurant there! <br>
 07.2025: 1*paper, SciReplicate-Bench, accepted by COLM25, a benchmark for paper replication via code generation. <br>
