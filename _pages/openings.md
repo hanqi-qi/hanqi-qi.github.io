@@ -66,7 +66,7 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
 </ul>
 
 ## Other mentorship
-- Xinnong zhang (Remote & Onsite, Fudan PhD)
+- Xinnong Zhang (Remote & Onsite, Fudan PhD)
 - Ahmed Oumar (Remote, MBZUAI PhD)
 - Yujing Wang (Remote, Buaa Msc, Now KCL PhD)
 - Lakshmipriya Ragupathi (KCL MSc)
