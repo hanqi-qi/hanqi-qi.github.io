@@ -57,10 +57,10 @@ I am always on the lookout for excellent visiting/PhD students to work with me o
       <li>Hainiu Xu (mechanistic interpretability)</li>
     </ul>
   </li>
-  <li><strong>AI for science</strong>
+  <li><strong>AutoResearch</strong>
     <ul>
-      <li>Yanzheng Xiang (code generation & diffusion model)</li>
-      <li>Italo Da Silva (Novelty assessment)</li>
+      <li>Yanzheng Xiang (code agent & idea evolution)</li>
+      <li>Italo Da Silva (Novelty assessment & Information Retrieval)</li>
     </ul>
   </li>
 </ul>
