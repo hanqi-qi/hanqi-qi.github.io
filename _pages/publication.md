@@ -20,6 +20,39 @@ layout: subpage
 
 <div class="publication-list">
 
+    <div class="paper-box-text Mechanism Reasoning" markdown="1">
+  <b style="color:#000000;">How Do Agentic LLMs Decide to Call Tools? A Tool-Call Vector Shaped by Suppression</b>
+  \\
+  Xijie Gong, Tingxu Han, Jiahao Zhang, Wei Song, Ziqi Ding, Hanqi Yan, Youcheng Sun, Lijie Hu \\
+  **Neurips26** | [Paper](https://arxiv.org/abs/2610.09624v1)
+  <br>
+<span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Reasoning</span> <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Mechanism</span>
+  <br>
+  </div>
+
+    <div class="paper-box-text Mechanism Reasoning" markdown="1">
+  <b style="color:#000000;">Fix the Structural Bottleneck: Context Compression via Explicit Information Transmission</b>
+  \\
+  Jiangnan Ye, Hanqi Yan, Zhenyi Shen, Heng Chang, Ye Mao, Yulan He \\
+  **Neurips26** | [Paper](https://arxiv.org/abs/2602.03784)
+  <br>
+<span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Reasoning</span> <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Mechanism</span>
+  <br>
+  </div>
+  
+
+    <div class="paper-box-text Mechanism Reasoning" markdown="1">
+  <b style="color:#000000;">Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation</b>
+  \\
+  Zhanghao Hu, Qinglin Zhu, Runcong Zhao, Di Liang, Hanqi Yan, Yulan He, Lin Gui \\
+  **Neurips26** | [Paper](https://arxiv.org/abs/2602.02007)
+  <br>
+<span style="background-color: #d4d4f0; color: #000; padding: 2px 6px; border-radius: 4px;">Reasoning</span> <span style="background-color: #d4f0f0; color: #000; padding: 2px 6px; border-radius: 4px;">Mechanism</span>
+  <br>
+  </div>
+  
+  
+
     <div class="paper-box-text Mechanism Trustworthy" markdown="1">
   <b style="color:#000000;">Linear Probing Provides Robust and Efficient Detection of Machine-Generated Text</b>
   \\
