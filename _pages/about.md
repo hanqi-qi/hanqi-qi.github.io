@@ -12,7 +12,7 @@ redirect_from:
 
 ## Short Bio
 
-**Hanqi Yan** is an Assistant Professor (UK lecturer) at [King's College London](https://www.kcl.ac.uk/people/hanqi-yan) (hanqi.yan@kcl.ac.uk), Department of Informatics, affiliated with the [NLP group](https://kclnlp.github.io/index.html).  Before that, she was a postdoctoral researcher in the same department (2024-2025). She mainly focuses on interpretability and robustness for language models on various reasoning tasks, especially from the representation learning perspective. She serves as Area Chair/Senior PC for ACL, EMNLP, COLM and AAAI. She was selected for [AAAI27 New Faculty Highlights](https://aaai.org/conference/aaai/aaai-27/new-faculty-highlights-call-for-proposals/). She chaired the student workshop at AACL2022 and delivered a tutorial about "structured representation learning for LLM interpretability, generalisability and transferability" at AAAI26. She obtained her Ph.D from the University of Warwick(2024), Msc and BEng from Peking University and Beihang University.
+**Hanqi Yan** is an Assistant Professor (UK lecturer) at [King's College London](https://www.kcl.ac.uk/people/hanqi-yan) (hanqi.yan@kcl.ac.uk), Department of Informatics, affiliated with the [NLP group](https://kclnlp.github.io/index.html).  Before that, she was a postdoctoral researcher in the same department (2024-2025). She mainly focuses on interpretability and alignment for language models on various reasoning tasks, with an emphasis on uncovering the underlying mechanisms that drive model behaviour. She serves as Area Chair/Senior PC for ACL, EMNLP, COLM and AAAI. She was selected for [AAAI27 New Faculty Highlights](https://aaai.org/conference/aaai/aaai-27/new-faculty-highlights-call-for-proposals/). She delivered a [AAAI26-tutorial](https://srl4llm.github.io/) about "structured representation learning for LLM interpretability, generalisability and transferability", organized workshops at AACL2022 and AACL26. She obtained her Ph.D from the University of Warwick(2024), Msc and BEng from Peking University and Beihang University.
 
 <!-- I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT/PKU](https://yifeiwang77.com/), [MBZUAI/Tsinghua](https://chengy12.github.io/), [KAUST](https://shuyhere.notion.site/Shu-Yang-1210f14e46e080f18511e448279487e6), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en), [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support. -->
 
@@ -27,10 +27,11 @@ On the application side, I mostly focus on LLMs for AutoResearch: [[KDD26](https
 # News
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-09.2026: 3 paper accepted by  <strong>Neurips26</strong>. Congrats to Jiangnan (compression), Zhanghao (agentic memory) and Xijie (agentic tool call) ! <br>
-08.2026: 2 papers accepted by <strong>EMNLP26</strong>🇭🇺 main conferences. Congrats to Hainiu Xu (theory of mind) and Gerrit Quaremba (latent probe for machine-generated texts)! <br>
-07.2026: 1 paper GRADE about LLM knowledge gap detection was accepted by <strong>COLM26</strong>🇺🇸, first author is my incoming PhD Student, Yujing <br>
-05.2026: 1 paper GraphMind accepted by <strong>KDD26</strong>🇰🇷 about novelty assessment for scientific papers using graph reasoning led by Italo. <br>
+  <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+<li> 09.2026: 3 paper accepted by  <strong>Neurips26</strong>. Congrats to Jiangnan (compression), Zhanghao (agentic memory) and Xijie (agentic tool call) ! </li>
+<li> 08.2026: 2 papers accepted by <strong>EMNLP26</strong>🇭🇺 main conferences. Congrats to Hainiu Xu (theory of mind) and Gerrit Quaremba (latent probe for machine-generated texts)! </li>
+<li> 07.2026: 1 paper GRADE about LLM knowledge gap detection was accepted by <strong>COLM26</strong>🇺🇸, first author is my incoming PhD Student, Yujing </li>
+<li> 05.2026: 1 paper GraphMind accepted by <strong>KDD26</strong>🇰🇷 about novelty assessment for scientific papers using graph reasoning led by Italo. </li>
 05.2026: 2 paper accepted by <strong>ICML26</strong>🇰🇷 about an effective revision mechanism in diffusion models led by Yanzheng. <br>
 04.2026: 2 papers accepted by <strong> ACL26 </strong>, in multimodal interpretability and LLM safety monitoring benchmark (AutoMonitor-Bench). <br>
 04.2026: Our CODI paper led by Zhenyi Shen, received the <strong> best paper award </strong>🏆 from Responsible Ai UK. <br>
@@ -71,6 +72,7 @@ On the application side, I mostly focus on LLMs for AutoResearch: [[KDD26](https
 05.2022: 1*first-author paper is accepted by UAI23-spotlight (🥳my first ML paper) <br> 
 05.2021: The first time to get paper accepted! 1*first-author paper is accepted by ACL21 🌟Oral. A super encouragement in my early PhD career. <br> 
 10.2020: I start my PhD📚 journey at University of Warwick, UK🇬🇧. <br>
+  </ul>
 </div>
 
 <br>
