@@ -28,7 +28,7 @@ On the application side, I mostly focus on LLMs for AutoResearch: [[KDD26](https
 
 <div style="width: 100%; height: 300px; overflow-y: scroll; background-color: #f9f9f9; padding: 10px 15px; border-radius: 4px;">
 <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
-<li> 11.2026: Selected as <strong>AAAI27 New Faculty Highlights</strong>strong> for my research in interpretability. </li>
+<li> 11.2026: Selected as <strong>AAAI27 New Faculty Highlights</strong> for my research in interpretability. </li>
 <li> 09.2026: 3 paper accepted by  <strong>Neurips26</strong>. Congrats to Jiangnan (compression), Zhanghao (agentic memory) and Xijie (agentic tool call) ! </li>
 <li> 08.2026: 2 papers accepted by <strong>EMNLP26</strong>🇭🇺 main conferences. Congrats to Hainiu Xu (theory of mind) and Gerrit Quaremba (latent probe for machine-generated texts)! </li>
 <li> 07.2026: 1 paper GRADE about LLM knowledge gap detection was accepted by <strong>COLM26</strong>🇺🇸, first author is my incoming PhD Student, Yujing </li>
