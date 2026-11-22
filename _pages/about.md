@@ -16,6 +16,34 @@ redirect_from:
 
 <!-- I’ve been incredibly lucky to have a number of amazing collaborators and mentors across KCL and a range of other institutions, including [Carnegie Mellon University](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html), [MIT/PKU](https://yifeiwang77.com/), [MBZUAI/Tsinghua](https://chengy12.github.io/), [KAUST](https://shuyhere.notion.site/Shu-Yang-1210f14e46e080f18511e448279487e6), [Hong Kong Polytechnic University](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=en), [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u1898418/). None of the research so far—would be possible without their kind help and support. -->
 
+
+<div style="background-color: #fff5f5;
+            border-left: 4px solid #b92332;
+            padding: 16px 20px;
+            margin: 24px 0;
+            border-radius: 5px;
+            line-height: 1.65;">
+
+  <strong style="color: #b92332;">
+    📢 Hiring — Postdoctoral Researcher
+  </strong>
+
+  <p style="margin: 8px 0 0;">
+    I am recruiting a <strong>2-year postdoc</strong> at
+    <strong>King's College London</strong>, focusing on
+    <strong>LLM interpretability and safety</strong>,
+    starting in <strong>January 2027</strong>.
+    The project is funded by <strong>Schmidt Science</strong>.
+    Please send your CV
+    and 1page-research statement to
+    <a href="mailto:hanqi.yan@kcl.ac.uk">
+      hanqi.yan@kcl.ac.uk</a>,
+    with the email subject
+    <strong>[KCL-Postdoc]-PhD University</strong>.
+  </p>
+</div>
+
+
 ## Research Highlights
 My research aims to uncover the internal mechanisms of language models and use that understanding to build models that are more reliable, faithful, and safe. Specifically, we are interested in the following research topics:
 - How do LLMs represent and process knowledge internally — and where do they break down?  We study the internal workings of language models to identify how knowledge is encoded [[ICLR26](https://arxiv.org/abs/2509.00544v1)][[ACL26finding](https://openreview.net/pdf?id=oVSQIwRwqs)], and how (unreliable) reasoning behaviours emerge [[SocialHack](https://arxiv.org/abs/2606.04075)], [[PreactBench](https://arxiv.org/abs/2606.09890v1)] [[Neurips26-ToolCall](https://arxiv.org/abs/2610.09624v1)], [[ICLR26](https://arxiv.org/abs/2509.00544v1)] [[ICLR26Blog](https://iclr-blogposts.github.io/2026/blog/2026/misalign-failure-mode/)], [[EMNLP24](https://arxiv.org/pdf/2406.17969)], [[UAI22Spotlight](https://proceedings.mlr.press/v180/yan22b.html)]
