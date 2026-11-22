@@ -29,17 +29,14 @@ redirect_from:
   </strong>
 
   <p style="margin: 8px 0 0;">
-    I am recruiting a <strong>2-year postdoc</strong> at
-    <strong>King's College London</strong>, focusing on
+    I am recruiting a <strong>2-year postdoc</strong> focusing on
     <strong>LLM interpretability and safety</strong>,
     starting in <strong>January 2027</strong>.
     The project is funded by <strong>Schmidt Science</strong>.
     Please send your CV
-    and 1page-research statement to
-    <a href="mailto:hanqi.yan@kcl.ac.uk">
-      hanqi.yan@kcl.ac.uk</a>,
-    with the email subject
-    <strong>[KCL-Postdoc]-PhD University</strong>.
+    and 1-page research statement to my mailbox
+    with the subject
+    <strong>[KCL-Postdoc]-Your PhD University</strong>. Applicants with 1st-author publication in LLM safety and interpretability are preferred. 
   </p>
 </div>
 
